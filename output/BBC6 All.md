@@ -7018,3 +7018,95 @@ source: BBC Radio 6
 | 2026-07-02 | 01:28 | KAYTRANADA & Syd | You're The One | Unknown | https://www.deezer.com/track/138540041 |
 | 2026-07-02 | 01:13 | Cocteau Twins | Bluebeard | Unknown | https://www.deezer.com/track/2594491072 |
 | 2026-07-02 | 00:54 | Hot Chip | Flutes | Unknown | https://www.deezer.com/track/34945401 |
+| 2026-07-02 | Live | Phoebe Bridgers | Scott Street | Unknown | https://www.deezer.com/track/397301612 |
+| 2026-07-02 | 16:49 | Shygirl | Slime | Unknown | https://www.deezer.com/track/3640336112 |
+| 2026-07-02 | 16:45 | Pretty Sick | Superstar | Unknown | https://www.deezer.com/track/1107280252 |
+| 2026-07-02 | 16:42 | TTSSFU | Sick | Unknown | https://www.deezer.com/track/3414041811 |
+| 2026-07-02 | 16:38 | Wisp | See You Soon | Unknown | https://www.deezer.com/track/2728103211 |
+| 2026-07-02 | 16:34 | Not for Radio | Not the Only One | Unknown | https://www.deezer.com/track/3575303521 |
+| 2026-07-02 | 16:31 | Keni Titus | American Spirit | Unknown | https://www.deezer.com/track/2905348841 |
+| 2026-07-02 | 16:24 | beabadoobee & The Marías | All I Did Was Dream of You | Unknown | https://www.deezer.com/track/3880356121 |
+| 2026-07-02 | 16:19 | Mazzy Star | Blue Light | Unknown | https://www.deezer.com/track/3360825 |
+| 2026-07-02 | 16:16 | Clairo | Juna | Unknown | https://www.deezer.com/track/2759124521 |
+| 2026-07-02 | 16:13 | Freak Slug | Miss June | Unknown | https://www.deezer.com/track/3476958371 |
+| 2026-07-02 | 16:07 | Adrianne Lenker | Vampire Empire | Unknown | https://www.deezer.com/track/2682537082 |
+| 2026-07-02 | 16:02 | Snail Mail | Heat Wave | Unknown | https://www.deezer.com/track/505957322 |
+| 2026-07-02 | 15:55 | Silversun Pickups | Lazy Eye | Unknown | https://www.deezer.com/track/3729317092 |
+| 2026-07-02 | 15:52 | Title Fight | Safe In Your Skin | Unknown | https://www.deezer.com/track/3872280751 |
+| 2026-07-02 | 15:49 | toe | ショウシツ点よ笛 | Unknown | https://www.deezer.com/track/1578356082 |
+| 2026-07-02 | 15:45 | …And You Will Know Us by the Trail of Dead | Mistakes and Regrets | Unknown | https://www.deezer.com/track/108564346 |
+| 2026-07-02 | 15:34 | beabadoobee | Pictures of Us | Unknown | https://www.deezer.com/track/1641651632 |
+| 2026-07-02 | 15:31 | Basement | Deadweight | Unknown | https://www.deezer.com/track/3824588771 |
+| 2026-07-02 | 15:23 | American Football | Stay Home | Unknown | https://www.deezer.com/track/1982411237 |
+| 2026-07-02 | 15:20 | Everyone Asked About You | Song For Chris | Unknown | https://www.deezer.com/track/2304080985 |
+| 2026-07-02 | 15:15 | Sunny Day Real Estate | In Circles | Unknown | https://www.deezer.com/track/1137158412 |
+| 2026-07-02 | 15:11 | by the end of summer | Phony | Unknown | https://www.deezer.com/track/2258807337 |
+| 2026-07-02 | 15:02 | Mineral | Unfinished | Unknown | https://www.deezer.com/track/3679833442 |
+| 2026-07-02 | 14:59 | Alex G | Let It Go | Unknown | https://www.deezer.com/track/2715590872 |
+| 2026-07-02 | 14:56 | Hobby | Feelin' | Unknown | https://www.deezer.com/track/1079304322 |
+| 2026-07-02 | 14:51 | Adrianne Lenker | Not a Lot, Just Forever | Unknown | https://www.deezer.com/track/1043215962 |
+| 2026-07-02 | 14:49 | Jon Brion | Theme | Unknown | https://www.deezer.com/track/7289303 |
+| 2026-07-02 | 14:46 | Keni Titus | Leave Me Out Cold | Unknown | https://www.deezer.com/track/3614446722 |
+| 2026-07-02 | 14:41 | Michael Cera | Those Days | Unknown | https://www.deezer.com/track/116425898 |
+| 2026-07-02 | 14:40 | Daniel Johnston | There Ain't Much You Can Do | Unknown | https://www.deezer.com/track/1277788202 |
+| 2026-07-02 | 14:37 | Mac DeMarco | Still Beating | Unknown | https://www.deezer.com/track/347015811 |
+| 2026-07-02 | 14:34 | Freak Slug | Radio | Unknown | https://www.deezer.com/track/1063570662 |
+| 2026-07-02 | 14:32 | Barry Louis Polisar | I've Got a Dog and My Dog's Name Is Cat | Unknown | https://www.deezer.com/track/76937126 |
+| 2026-07-02 | 14:29 | Fleet Foxes | If You Need To, Keep Time On Me | Unknown | https://www.deezer.com/track/369693771 |
+| 2026-07-02 | 14:25 | Joni Mitchell | Help Me | Unknown | https://www.deezer.com/track/718090 |
+| 2026-07-02 | 14:22 | Jack Johnson | Banana Pancakes | Unknown | https://www.deezer.com/track/1086630 |
+| 2026-07-02 | 14:20 | ML Buch | Dust Beam | Unknown | https://www.deezer.com/track/2477799421 |
+| 2026-07-02 | 14:14 | beabadoobee | Coming Home | Unknown | https://www.deezer.com/track/2758748051 |
+| 2026-07-02 | 14:02 | Pinegrove | Morningtime (Amperland, NY) | Unknown | https://www.deezer.com/track/1189038022 |
+| 2026-07-02 | 13:58 | Karen O | Singalong | Unknown | https://www.deezer.com/track/3029226681 |
+| 2026-07-02 | 13:48 | Elliott Smith | Cupid's Trick | Unknown | https://www.deezer.com/track/30507231 |
+| 2026-07-02 | 13:43 | Pavement | You Are a Light | Unknown | https://www.deezer.com/track/105281112 |
+| 2026-07-02 | 13:39 | Cat Power | Sea Of Love | Unknown | https://www.deezer.com/track/105281106 |
+| 2026-07-02 | 13:34 | Wolf Alice | Don't Delete The Kisses | Unknown | https://www.deezer.com/track/410164352 |
+| 2026-07-02 | 13:26 | Sixpence None the Richer | Kiss Me | Unknown | https://www.deezer.com/track/134116940 |
+| 2026-07-02 | 13:21 | Big Thief | Mythological Beauty | Unknown | https://www.deezer.com/track/2840205872 |
+| 2026-07-02 | 13:16 | Slowdive | Alison | Unknown | https://www.deezer.com/track/7599569 |
+| 2026-07-02 | 13:09 | Mac DeMarco | My Kind Of Woman | Unknown | https://www.deezer.com/track/62744403 |
+| 2026-07-02 | 13:06 | Elliott Smith | Say Yes | Unknown | https://www.deezer.com/track/30507251 |
+| 2026-07-02 | 13:01 | Slow Pulp | Falling Apart | Unknown | https://www.deezer.com/track/969915692 |
+| 2026-07-02 | 13:00 | SAFETY TRANCE & Arca | the beat drops | Unknown | https://www.deezer.com/track/3919227421 |
+| 2026-07-02 | 12:55 | Sheet Noise | reactor iv | Unknown | https://www.deezer.com/track/3650797112 |
+| 2026-07-02 | 12:52 | Bulma | Deathwish | Unknown | https://www.deezer.com/track/2307911105 |
+| 2026-07-02 | 12:48 | SAFETY TRANCE | Curiapo | Unknown | https://www.deezer.com/track/3919227491 |
+| 2026-07-02 | 12:45 | SALEM | Everyday | Unknown | https://www.deezer.com/track/4014664571 |
+| 2026-07-02 | 12:42 | Blood of Aza | Severance | Unknown | https://www.deezer.com/track/3092035041 |
+| 2026-07-02 | 12:42 | SAFETY TRANCE | inter i | Unknown | https://www.deezer.com/track/3919227481 |
+| 2026-07-02 | 12:39 | GRRL | Rhino | Unknown | https://www.deezer.com/track/3811080092 |
+| 2026-07-02 | 12:38 | Debit | ididntasktobebornlatina | Unknown | https://www.deezer.com/track/3892875891 |
+| 2026-07-02 | 12:27 | Frost Children | Satellites | Unknown | https://www.deezer.com/track/4089403651 |
+| 2026-07-02 | 12:11 | Aki Oke | Don't You Miss Me | Unknown | https://www.deezer.com/track/3988250491 |
+| 2026-07-02 | 12:06 | Galantis | Do You Mind | Unknown | https://www.deezer.com/track/4107012541 |
+| 2026-07-02 | 12:03 | Jorja Smith | Alive (feat. Wizkid) | Unknown | https://www.deezer.com/track/4121158341 |
+| 2026-07-02 | 11:47 | Spike | Dying On The Vine | Unknown | https://www.deezer.com/track/4107000181 |
+| 2026-07-02 | 11:18 | Wolf Alice | Gospel Oak | Unknown | https://www.deezer.com/track/4089028981 |
+| 2026-07-02 | 11:11 | Delilah Holliday | This Is | Unknown | https://www.deezer.com/track/3962060501 |
+| 2026-07-02 | 10:55 | Portishead | Only You | Unknown | https://www.deezer.com/track/984289 |
+| 2026-07-02 | 10:43 | Opus Kink | Will It Come For You | Unknown | https://www.deezer.com/track/3892830061 |
+| 2026-07-02 | 10:24 | Pinegrove | Aphasia | Unknown | https://www.deezer.com/track/840812492 |
+| 2026-07-02 | 10:12 | beabadoobee | Beaches | Unknown | https://www.deezer.com/track/2758748091 |
+| 2026-07-02 | 09:57 | Alanis Morissette | Hand In My Pocket | Unknown | https://www.deezer.com/track/109843292 |
+| 2026-07-02 | 09:53 | Super Furry Animals | Ysbeidiau Heulog | Unknown | https://www.deezer.com/track/99430458 |
+| 2026-07-02 | 09:49 | This Is the Kit | Hotter Colder | Unknown | https://www.deezer.com/track/375846691 |
+| 2026-07-02 | 09:45 | Cookin’ on 3 Burners & Kylie Auldist | This Girl | Unknown | https://www.deezer.com/track/3472745461 |
+| 2026-07-02 | 07:34 | The Knife | Heartbeats | Unknown | https://www.deezer.com/track/1856374107 |
+| 2026-07-02 | 07:22 | Militarie Gun | Kick | Unknown | https://www.deezer.com/track/3595364872 |
+| 2026-07-02 | 07:13 | The Jesus Lizard | Monkey Trick | Unknown | https://www.deezer.com/track/125988127 |
+| 2026-07-02 | 07:08 | Nico | These Days | Unknown | https://www.deezer.com/track/549277422 |
+| 2026-07-02 | 07:00 | Echo & the Bunnymen | Silver | Unknown | https://www.deezer.com/track/720266 |
+| 2026-07-02 | 05:16 | Foals | Cassius | Unknown | https://www.deezer.com/track/1230339992 |
+| 2026-07-02 | 04:47 | Gold Panda | You | Unknown | https://www.deezer.com/track/69500450 |
+| 2026-07-02 | 04:10 | I. JORDAN | Your Love | Unknown | https://www.deezer.com/track/4082038241 |
+| 2026-07-02 | 03:53 | Tomoki Sanders | The Third Eye | Unknown | https://www.deezer.com/track/4051040801 |
+| 2026-07-02 | 03:47 | Honeyglaze | Pretty Girls | Unknown | https://www.deezer.com/track/2814413892 |
+| 2026-07-02 | 03:34 | The Pharcyde | Runnin' | Unknown | https://www.deezer.com/track/83971991 |
+| 2026-07-02 | 03:08 | Glass Animals | Gooey | Unknown | https://www.deezer.com/track/105555564 |
+| 2026-07-02 | 03:01 | Aphex Twin | Windowlicker | Unknown | https://www.deezer.com/track/29392051 |
+| 2026-07-02 | 02:39 | Boards of Canada | Dayvan Cowboy | Unknown | https://www.deezer.com/track/29381041 |
+| 2026-07-02 | 02:15 | O’Flynn | Obey | Unknown | https://www.deezer.com/track/4062192371 |
+| 2026-07-02 | 02:12 | Chic | My Forbidden Lover | Unknown | https://www.deezer.com/track/4086618 |
+| 2026-07-02 | 01:44 | earthsignchels | Daddy Died | Unknown | https://www.deezer.com/track/4097813741 |
