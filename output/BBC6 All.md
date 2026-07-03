@@ -7110,3 +7110,95 @@ source: BBC Radio 6
 | 2026-07-02 | 02:15 | O’Flynn | Obey | Unknown | https://www.deezer.com/track/4062192371 |
 | 2026-07-02 | 02:12 | Chic | My Forbidden Lover | Unknown | https://www.deezer.com/track/4086618 |
 | 2026-07-02 | 01:44 | earthsignchels | Daddy Died | Unknown | https://www.deezer.com/track/4097813741 |
+| 2026-07-03 | Live | Lykke Li | Sick Of Love | Unknown | https://www.deezer.com/track/3823827871 |
+| 2026-07-03 | 18:46 | Smerz | You got time and I got money | Unknown | https://www.deezer.com/track/3282634651 |
+| 2026-07-03 | 18:42 | Grace Ives | Fire 2 | Unknown | https://www.deezer.com/track/3836156041 |
+| 2026-07-03 | 18:38 | Peaches | Be Love | Unknown | https://www.deezer.com/track/3678869272 |
+| 2026-07-03 | 18:31 | Yaeji | booboo | Unknown | https://www.deezer.com/track/2926517701 |
+| 2026-07-03 | 18:25 | Becky and the Birds | Should've known better (choices) | Unknown | https://www.deezer.com/track/3313155231 |
+| 2026-07-03 | 18:19 | Mechatok | Expression On Your Face | Unknown | https://www.deezer.com/track/3377596331 |
+| 2026-07-03 | 18:15 | Zhala | I'm In Love | Unknown | https://www.deezer.com/track/2473363081 |
+| 2026-07-03 | 18:11 | Saya Gray | SHELL ( OF A MAN ) | Unknown | https://www.deezer.com/track/2875300672 |
+| 2026-07-03 | 18:05 | Smerz | Feisty | Unknown | https://www.deezer.com/track/3282634621 |
+| 2026-07-03 | 18:01 | Erika de Casier | You Can't Always Get What You Want | Unknown | https://www.deezer.com/track/3335311901 |
+| 2026-07-03 | 17:58 | ESG | Six Pack | Unknown | https://www.deezer.com/track/2121643257 |
+| 2026-07-03 | 17:53 | Prince | Purple Music | Unknown | https://www.deezer.com/track/1172990692 |
+| 2026-07-03 | 17:48 | Hithouse | I Felt Acid House Love | Unknown | https://www.deezer.com/track/381908841 |
+| 2026-07-03 | 17:44 | Risco Connection | Ain't No Stopping Us Now | Unknown | https://www.deezer.com/track/140737749 |
+| 2026-07-03 | 17:38 | Christian Falk | Quel Bordel | Unknown | https://www.deezer.com/track/14644691 |
+| 2026-07-03 | 17:31 | Kindness | SEOD | Unknown | https://www.deezer.com/track/1816877827 |
+| 2026-07-03 | 17:28 | Chez Damier | Chez A. Untitled | Unknown | https://www.deezer.com/track/141849389 |
+| 2026-07-03 | 17:12 | DJ Koze | XTC | Unknown | https://www.deezer.com/track/3128486521 |
+| 2026-07-03 | 17:09 | Antiloop | Believe | Unknown | https://www.deezer.com/track/1090815 |
+| 2026-07-03 | 17:01 | Whodini | Nasty Lady | Unknown | https://www.deezer.com/track/141820105 |
+| 2026-07-03 | 16:58 | Marvin Gaye | Mercy Mercy Me (The Ecology) | Unknown | https://www.deezer.com/track/1133408902 |
+| 2026-07-03 | 16:43 | Brandy | What About Us? | Unknown | https://www.deezer.com/track/846153 |
+| 2026-07-03 | 16:36 | Aaliyah | Loose Rap (feat. Static Major) | Unknown | https://www.deezer.com/track/3380594371 |
+| 2026-07-03 | 16:31 | Jodeci | Feenin' | Unknown | https://www.deezer.com/track/2175402 |
+| 2026-07-03 | 16:27 | The Flamingos | I Only Have Eyes For You | Unknown | https://www.deezer.com/track/140044655 |
+| 2026-07-03 | 16:21 | Twinkie Clark | Awake O Zion | Unknown | https://www.deezer.com/track/1556374862 |
+| 2026-07-03 | 16:17 | Missy Elliott | Hot Boyz | Unknown | https://www.deezer.com/track/2803679 |
+| 2026-07-03 | 16:14 | Mk.gee | ROCKMAN | Unknown | https://www.deezer.com/track/3047492821 |
+| 2026-07-03 | 16:05 | The Gap Band | Early In The Morning | Unknown | https://www.deezer.com/track/539098422 |
+| 2026-07-03 | 16:01 | George McCrae | Rock Your Baby | Unknown | https://www.deezer.com/track/124563036 |
+| 2026-07-03 | 15:51 | Steely Dan | Rikki Don't Lose That Number | Unknown | https://www.deezer.com/track/2376905515 |
+| 2026-07-03 | 15:43 | Laurie Anderson | O Superman (For Massenet) | Unknown | https://www.deezer.com/track/672189 |
+| 2026-07-03 | 15:31 | Eurythmics | Here Comes The Rain Again | Unknown | https://www.deezer.com/track/561793 |
+| 2026-07-03 | 15:24 | Prince | Little Red Corvette | Unknown | https://www.deezer.com/track/1183596552 |
+| 2026-07-03 | 15:16 | David Bowie | Right | Unknown | https://www.deezer.com/track/141820047 |
+| 2026-07-03 | 15:13 | Jazmine Sullivan | Lost One | Unknown | https://www.deezer.com/track/1649895922 |
+| 2026-07-03 | 15:07 | Madonna | Like A Prayer | Unknown | https://www.deezer.com/track/664507 |
+| 2026-07-03 | 14:52 | Fernando Sosa | Loco por vos | Unknown | https://www.deezer.com/track/9642422 |
+| 2026-07-03 | 14:48 | Michael Jackson | Get On The Floor | Unknown | https://www.deezer.com/track/15586313 |
+| 2026-07-03 | 14:43 | Kirk Franklin | Looking for You | Unknown | https://www.deezer.com/track/79846336 |
+| 2026-07-03 | 14:20 | Mustafa Özkent | Dolana Ay Dolana | Unknown | https://www.deezer.com/track/7195546 |
+| 2026-07-03 | 14:17 | Carthago | Alech | Unknown | https://www.deezer.com/track/3504674431 |
+| 2026-07-03 | 14:12 | Hermanos Gutiérrez | Hijos Del Sol | Unknown | https://www.deezer.com/track/2766576211 |
+| 2026-07-03 | 14:03 | Gorillaz | Empire Ants (feat. Little Dragon) | Unknown | https://www.deezer.com/track/5490696 |
+| 2026-07-03 | 13:51 | RM | Yun (feat. Erykah Badu) | Unknown | https://www.deezer.com/track/2043459737 |
+| 2026-07-03 | 13:44 | Sha Sha | Sing It Back (feat. DJ Maphorisa & Kabza De Small, DJ Maphorisa & Kabza De Small) | Unknown | https://www.deezer.com/track/767839072 |
+| 2026-07-03 | 13:39 | Black Coffee | You Turn Me On | Unknown | https://www.deezer.com/track/126419427 |
+| 2026-07-03 | 13:24 | Abdullah Ibrahim | African Marketplace | Unknown | https://www.deezer.com/track/60877199 |
+| 2026-07-03 | 13:15 | Orchestra Baobab | Beni Baraale | Unknown | https://www.deezer.com/track/3786143162 |
+| 2026-07-03 | 13:08 | corto.alto | DON'T LISTEN | Unknown | https://www.deezer.com/track/3363037951 |
+| 2026-07-03 | 12:54 | Plastic Bertrand | Ca Plane Pour Moi | Unknown | https://www.deezer.com/track/12216125 |
+| 2026-07-03 | 12:51 | Fontaines D.C. | Here's The Thing | Unknown | https://www.deezer.com/track/2928358861 |
+| 2026-07-03 | 12:48 | Biffy Clyro | Mountains | Unknown | https://www.deezer.com/track/4640030 |
+| 2026-07-03 | 12:44 | Groove Armada | Song 4 Mutya (Out Of Control) | Unknown | https://www.deezer.com/track/1163452 |
+| 2026-07-03 | 12:13 | Frank Turner | I Still Believe | Unknown | https://www.deezer.com/track/378363951 |
+| 2026-07-03 | 12:09 | Green Day | Welcome To Paradise | Unknown | https://www.deezer.com/track/678040 |
+| 2026-07-03 | 11:52 | Oscar Browne | Any Day Now | Unknown | https://www.deezer.com/track/4045223061 |
+| 2026-07-03 | 11:34 | Belle and Sebastian | The Party Line | Unknown | https://www.deezer.com/track/88256357 |
+| 2026-07-03 | 11:13 | Japan | Quiet Life | Unknown | https://www.deezer.com/track/15756810 |
+| 2026-07-03 | 11:02 | Red Hot Chili Peppers | Can't Stop | Unknown | https://www.deezer.com/track/725971 |
+| 2026-07-03 | 10:46 | Snoop Dogg & Pharrell Williams | Drop It Like It's Hot | Unknown | https://www.deezer.com/track/429125352 |
+| 2026-07-03 | 10:34 | David Holmes | 69 Police | Unknown | https://www.deezer.com/track/634436002 |
+| 2026-07-03 | 09:45 | Romanthony | The Wanderer | Unknown | https://www.deezer.com/track/3067165201 |
+| 2026-07-03 | 09:34 | The Cure | Jumping Someone Else's Train | Unknown | https://www.deezer.com/track/14639185 |
+| 2026-07-03 | 09:23 | Catatonia | Road Rage | Unknown | https://www.deezer.com/track/2413849335 |
+| 2026-07-03 | 08:54 | The Guest List | If Ever Your Devil Is Kind | Unknown | https://www.deezer.com/track/4009313391 |
+| 2026-07-03 | 08:45 | Cocteau Twins | Tishbite | Unknown | https://www.deezer.com/track/2504046171 |
+| 2026-07-03 | 07:57 | Horace Andy | Ain't No Sunshine | Unknown | https://www.deezer.com/track/5601661 |
+| 2026-07-03 | 07:46 | Grace Jones | Walking In The Rain | Unknown | https://www.deezer.com/track/1359256392 |
+| 2026-07-03 | 07:17 | Metallica | Enter Sandman | Unknown | https://www.deezer.com/track/136408134 |
+| 2026-07-03 | 07:09 | A Tribe Called Quest | Check the Rhime | Unknown | https://www.deezer.com/track/14881320 |
+| 2026-07-03 | 07:00 | Fat Dog | All The Same | Unknown | https://www.deezer.com/track/2649631392 |
+| 2026-07-03 | 06:21 | Mary Clark | Take Me I'm Yours | Unknown | https://www.deezer.com/track/141044163 |
+| 2026-07-03 | 05:53 | This Is Lorelei & MJ Lenderman | Dancing in the Club | Unknown | https://www.deezer.com/track/3253187861 |
+| 2026-07-03 | 05:51 | Chartreuse | Fixin' | Unknown | https://www.deezer.com/track/3310399431 |
+| 2026-07-03 | 05:42 | The Maccabees | Spit It Out | Unknown | https://www.deezer.com/track/104230222 |
+| 2026-07-03 | 05:25 | Anish Kumar | Freestyle Battle Weapon | Unknown | https://www.deezer.com/track/3992745141 |
+| 2026-07-03 | 05:22 | Little Dragon | Little Man | Unknown | https://www.deezer.com/track/12756254 |
+| 2026-07-03 | 05:15 | The Dare | Tambourine | Unknown | https://www.deezer.com/track/3509467311 |
+| 2026-07-03 | 05:13 | Loudon Wainwright III | Red Guitar | Unknown | https://www.deezer.com/track/1065129 |
+| 2026-07-03 | 04:54 | Lykke Li | I Follow Rivers (The Magician Remix) | Unknown | https://www.deezer.com/track/14235829 |
+| 2026-07-03 | 04:47 | The Sounds | Tony the Beat | Unknown | https://www.deezer.com/track/692803 |
+| 2026-07-03 | 04:26 | Khruangbin | So We Won't Forget | Unknown | https://www.deezer.com/track/941055272 |
+| 2026-07-03 | 03:22 | LCD Soundsystem | Dance Yrself Clean | Unknown | https://www.deezer.com/track/5936379 |
+| 2026-07-03 | 02:21 | Breach | Jack | Unknown | https://www.deezer.com/track/3818287671 |
+| 2026-07-03 | 01:41 | M.I.A. | Bad Girls | Unknown | https://www.deezer.com/track/549352972 |
+| 2026-07-03 | 01:34 | Moby | Go | Unknown | https://www.deezer.com/track/1893368087 |
+| 2026-07-03 | 00:57 | Super Furry Animals | Something For The Weekend | Unknown | https://www.deezer.com/track/1862668517 |
+| 2026-07-03 | 00:33 | The Vines | Ride | Unknown | https://www.deezer.com/track/3177796 |
+| 2026-07-03 | 00:15 | SISTRA | In Two | Unknown | https://www.deezer.com/track/3878858391 |
+| 2026-07-03 | 00:11 | HAIM | Don't Save Me | Unknown | https://www.deezer.com/track/70807172 |
