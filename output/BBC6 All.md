@@ -7343,3 +7343,142 @@ source: BBC Radio 6
 | 2026-07-04 | 00:27 | Billie Marten | Creature of Mine | Unknown | https://www.deezer.com/track/1268958812 |
 | 2026-07-04 | 00:09 | FAUZIA | The Way | Unknown | https://www.deezer.com/track/3651410542 |
 | 2026-07-04 | 00:02 | Beth Gibbons | Reaching Out | Unknown | https://www.deezer.com/track/2641766022 |
+| 2026-07-05 | Live | Joan As Police Woman | The Ride | Unknown | https://www.deezer.com/track/3782248 |
+| 2026-07-05 | 19:36 | Talk Talk | The Rainbow | Unknown | https://www.deezer.com/track/3136902 |
+| 2026-07-05 | 19:31 | Free | Lying In The Sunshine | Unknown | https://www.deezer.com/track/86041673 |
+| 2026-07-05 | 19:26 | Joan As Police Woman | Real Life | Unknown | https://www.deezer.com/track/3782245 |
+| 2026-07-05 | 19:15 | Joan As Police Woman & Iggy Pop | Save Me | Unknown | https://www.deezer.com/track/3908823361 |
+| 2026-07-05 | 19:01 | Jeff Wayne | The Eve of the War | Unknown | https://www.deezer.com/track/4007895 |
+| 2026-07-05 | 18:43 | Deux Filles | The Letter | Unknown | https://www.deezer.com/track/1866118117 |
+| 2026-07-05 | 18:32 | Merope | Bitinelis | Unknown | https://www.deezer.com/track/1162598572 |
+| 2026-07-05 | 18:25 | Ocean Moon | Angel Falls | Unknown | https://www.deezer.com/track/3150470121 |
+| 2026-07-05 | 18:19 | Charlie McMillan | The Trip | Unknown | https://www.deezer.com/track/3981111001 |
+| 2026-07-05 | 18:14 | Mermaid Chunky | Ceili | Unknown | https://www.deezer.com/track/2739139741 |
+| 2026-07-05 | 18:08 | Aisha Vaughan | The Water | Unknown | https://www.deezer.com/track/3937609351 |
+| 2026-07-05 | 17:58 | Pye Corner Audio | Rays of Sunshine | Unknown | https://www.deezer.com/track/3890091661 |
+| 2026-07-05 | 17:53 | maya ongaku | Astral echoes | Unknown | https://www.deezer.com/track/4096117781 |
+| 2026-07-05 | 17:51 | Tai Haf Heb Drigolyn | cofio'r sin na o goodfellas? | Unknown | https://www.deezer.com/track/4088031801 |
+| 2026-07-05 | 17:47 | Galaxie 500 | Blue Thunder | Unknown | https://www.deezer.com/track/16384100 |
+| 2026-07-05 | 17:38 | The Hobknobs | The Extra Mile | Unknown | https://www.deezer.com/track/3965007321 |
+| 2026-07-05 | 17:35 | Negro Leo | Esferas | Unknown | https://www.deezer.com/track/3284114311 |
+| 2026-07-05 | 17:22 | Ancient Infinity Orchestra | Akshay | Unknown | https://www.deezer.com/track/3946518161 |
+| 2026-07-05 | 17:20 | Khun Narin | Bang Fai Saen | Unknown | https://www.deezer.com/track/3894460211 |
+| 2026-07-05 | 17:15 | Barbara & Ernie | Searching The Circle | Unknown | https://www.deezer.com/track/5932339 |
+| 2026-07-05 | 17:10 | David Axelrod | Holy Thursday | Unknown | https://www.deezer.com/track/3431669 |
+| 2026-07-05 | 17:06 | Sofie Birch | Juaduddanya | Unknown | https://www.deezer.com/track/4075459161 |
+| 2026-07-05 | 16:47 | Mad Professor | The English Connection | Unknown | https://www.deezer.com/track/1547308 |
+| 2026-07-05 | 16:45 | The Mothmen | Afghani Dub | Unknown | https://www.deezer.com/track/101251448 |
+| 2026-07-05 | 16:29 | Espen Berg Trio | XXI | Unknown | https://www.deezer.com/track/4006029601 |
+| 2026-07-05 | 16:22 | Isotope | Pipe Dream | Unknown | https://www.deezer.com/track/1634572302 |
+| 2026-07-05 | 16:08 | Chapta | Journey To The Sun | Unknown | https://www.deezer.com/track/86615375 |
+| 2026-07-05 | 16:03 | Elijah Minnelli | Low Country | Unknown | https://www.deezer.com/track/3829999601 |
+| 2026-07-05 | 15:56 | Mere of Light | Secret Meadow | Unknown | https://www.deezer.com/track/3936846411 |
+| 2026-07-05 | 15:52 | Kikagaku Moyo | Ouchi Time | Unknown | https://www.deezer.com/track/3058939151 |
+| 2026-07-05 | 15:48 | Chris Squire | Hold Out Your Hand | Unknown | https://www.deezer.com/track/3052382271 |
+| 2026-07-05 | 15:43 | Neil Ardley | Rainbow Five | Unknown | https://www.deezer.com/track/4024604011 |
+| 2026-07-05 | 15:37 | Neil Ardley | Rainbow Four | Unknown | https://www.deezer.com/track/4024604001 |
+| 2026-07-05 | 15:33 | Vic Lewis & His Orchestra | Sunshine Superman | Unknown | https://www.deezer.com/track/542853522 |
+| 2026-07-05 | 15:25 | Squarepusher | K2 Central | Unknown | https://www.deezer.com/track/3806720992 |
+| 2026-07-05 | 15:18 | Neil Ardley | Rainbow One | Unknown | https://www.deezer.com/track/4024603971 |
+| 2026-07-05 | 15:15 | Neil Ardley | Prologue | Unknown | https://www.deezer.com/track/4024603961 |
+| 2026-07-05 | 15:04 | MEMORIALS | Cut Glass Hammer | Unknown | https://www.deezer.com/track/3693838742 |
+| 2026-07-05 | 15:00 | Johnny Arthey Orchestra | Wear Your Love Like Heaven | Unknown | https://www.deezer.com/track/685083672 |
+| 2026-07-05 | 14:55 | KOP-Z | If I | Unknown | https://www.deezer.com/track/4016250761 |
+| 2026-07-05 | 14:54 | Valentina Magaletti & Fanny Chiarello | Reverse Fly | Unknown | https://www.deezer.com/track/3277433601 |
+| 2026-07-05 | 14:45 | Joy Division | Shadowplay | Unknown | https://www.deezer.com/track/741235412 |
+| 2026-07-05 | 14:37 | One Leg One Eye | What I Shall Follow, I Shall Hunt | Unknown | https://www.deezer.com/track/3994067811 |
+| 2026-07-05 | 14:33 | The Cure | Primary | Unknown | https://www.deezer.com/track/14638944 |
+| 2026-07-05 | 14:06 | Kode9 | Eyes Go Blank | Unknown | https://www.deezer.com/track/2814925922 |
+| 2026-07-05 | 13:58 | Blackhaine | Stained Materials | Unknown | https://www.deezer.com/track/1700894807 |
+| 2026-07-05 | 13:56 | Rainy Miller | July iii | Unknown | https://www.deezer.com/track/2435707535 |
+| 2026-07-05 | 13:51 | Shell Company | Adorn | Unknown | https://www.deezer.com/track/2245747227 |
+| 2026-07-05 | 13:36 | The Caretaker | We don't have many days | Unknown | https://www.deezer.com/track/2547037022 |
+| 2026-07-05 | 13:35 | The Caretaker | B1 - All that follows is true | Unknown | https://www.deezer.com/track/2547037072 |
+| 2026-07-05 | 13:26 | Mia Koden & Cousin | B Alo | Unknown | https://www.deezer.com/track/3601699382 |
+| 2026-07-05 | 13:14 | The Exciters | Blowing Up My Mind! | Unknown | https://www.deezer.com/track/841621342 |
+| 2026-07-05 | 13:11 | Milkweed | Whiter than the Snow is the White Treasure of her Teeth | Unknown | https://www.deezer.com/track/3232125801 |
+| 2026-07-05 | 13:05 | Moin & Sophia Al Maria | Family Way | Unknown | https://www.deezer.com/track/2928609911 |
+| 2026-07-05 | 13:00 | Jimi Hendrix | Red House | Unknown | https://www.deezer.com/track/4952898 |
+| 2026-07-05 | 12:56 | Bob Sinclar & Raffaella Carrà | Far L'Amore | Unknown | https://www.deezer.com/track/2698330762 |
+| 2026-07-05 | 12:51 | Robbie Robertson | Somewhere Down The Crazy River | Unknown | https://www.deezer.com/track/2463126 |
+| 2026-07-05 | 12:42 | Gilberto Gil | Cérebro Eletrônico | Unknown | https://www.deezer.com/track/1436044432 |
+| 2026-07-05 | 12:38 | Kevin Morby | Singing Saw | Unknown | https://www.deezer.com/track/121171454 |
+| 2026-07-05 | 12:33 | Jonny Trunk | Mr. Hand | Unknown | https://www.deezer.com/track/9865303 |
+| 2026-07-05 | 12:13 | Exotic Gardens | Morning Dubs 4 | Unknown | https://www.deezer.com/track/3197673271 |
+| 2026-07-05 | 12:02 | Sonic Youth | Dirty Boots | Unknown | https://www.deezer.com/track/2288579 |
+| 2026-07-05 | 11:57 | Octave One | Blackwater (128 full strings instrumental) | Unknown | https://www.deezer.com/track/2195915787 |
+| 2026-07-05 | 11:49 | Katerine | Automobile | Unknown | https://www.deezer.com/track/119071688 |
+| 2026-07-05 | 11:43 | Brigitte Fontaine | Le goudron | Unknown | https://www.deezer.com/track/3805467602 |
+| 2026-07-05 | 11:33 | William Sheller | Introit | Unknown | https://www.deezer.com/track/4051556861 |
+| 2026-07-05 | 11:22 | Sylvain Carel | In The Cristal | Unknown | https://www.deezer.com/track/2995456251 |
+| 2026-07-05 | 11:20 | Be Bop Deluxe | Jean Cocteau | Unknown | https://www.deezer.com/track/2999028461 |
+| 2026-07-05 | 11:14 | Elvis Presley | That's All Right | Unknown | https://www.deezer.com/track/960077 |
+| 2026-07-05 | 11:09 | Alan Vega | Outlaw (August Darnell Remix) | Unknown | https://www.deezer.com/track/617831572 |
+| 2026-07-05 | 10:57 | Cate Le Bon | Heaven Is No Feeling | Unknown | https://www.deezer.com/track/3371433461 |
+| 2026-07-05 | 10:50 | Department of Eagles | Floating On The Lehigh | Unknown | https://www.deezer.com/track/66538754 |
+| 2026-07-05 | 10:46 | Lisa O’Neill | Silver Seed | Unknown | https://www.deezer.com/track/2114711447 |
+| 2026-07-05 | 10:42 | White Magic for Lovers | Count the Rings | Unknown | https://www.deezer.com/track/2979811581 |
+| 2026-07-05 | 10:36 | Led Zeppelin | That's The Way | Unknown | https://www.deezer.com/track/78631094 |
+| 2026-07-05 | 10:33 | Ron Sexsmith | Tell Me Again | Unknown | https://www.deezer.com/track/3255663021 |
+| 2026-07-05 | 10:27 | Louis Armstrong | Wonderful World | Unknown | https://www.deezer.com/track/62347641 |
+| 2026-07-05 | 10:25 | The Dave Brubeck Quartet | Unsquare Dance | Unknown | https://www.deezer.com/track/3254901891 |
+| 2026-07-05 | 10:20 | Jellyfish | Russian Hill | Unknown | https://www.deezer.com/track/2516411041 |
+| 2026-07-05 | 10:19 | Wolf Alice | Giant Peach | Unknown | https://www.deezer.com/track/101901875 |
+| 2026-07-05 | 10:19 | Wolf Alice | The Sofa | Unknown | https://www.deezer.com/track/3488223541 |
+| 2026-07-05 | 10:17 | Moondog | Bird's Lament | Unknown | https://www.deezer.com/track/704368072 |
+| 2026-07-05 | 10:12 | Alexander Carson | Deep Dark Blue | Unknown | https://www.deezer.com/track/3556633641 |
+| 2026-07-05 | 10:06 | Genesis | Carpet Crawlers | Unknown | https://www.deezer.com/track/14638623 |
+| 2026-07-05 | 10:01 | Katherine Priddy | Eurydice | Unknown | https://www.deezer.com/track/1699430367 |
+| 2026-07-05 | 09:55 | The Plastic Youth | No Beginning | Unknown | https://www.deezer.com/track/1734527037 |
+| 2026-07-05 | 09:42 | Sarah Blasko | I Can't Wait Anymore | Unknown | https://www.deezer.com/track/2846509592 |
+| 2026-07-05 | 09:20 | Badly Drawn Boy | Silent Sigh | Unknown | https://www.deezer.com/track/66538994 |
+| 2026-07-05 | 09:15 | Mungo Parker | The Future Is Today | Unknown | https://www.deezer.com/track/3695700772 |
+| 2026-07-05 | 09:03 | Minnie Riperton | It's So Nice (To See Old Friends) | Unknown | https://www.deezer.com/track/3332284 |
+| 2026-07-05 | 09:01 | Bernard Herrmann | Main Title (from "Taxi Driver") | Unknown | https://www.deezer.com/track/958971 |
+| 2026-07-05 | 08:58 | Willie Bobo | Spanish Grease | Unknown | https://www.deezer.com/track/2122779 |
+| 2026-07-05 | 07:57 | Leon Thomas | Song For My Father | Unknown | https://www.deezer.com/track/1733699277 |
+| 2026-07-05 | 07:53 | Hopkins | Sun Goin' Down (Live) | Unknown | https://www.deezer.com/track/135375628 |
+| 2026-07-05 | 07:42 | Cephas Azariah | sakura | Unknown | https://www.deezer.com/track/3928617121 |
+| 2026-07-05 | 07:39 | J.J. Cale | Long About Sundown | Unknown | https://www.deezer.com/track/643354592 |
+| 2026-07-05 | 07:33 | Abbey Lincoln | Wholly Earth | Unknown | https://www.deezer.com/track/1253367152 |
+| 2026-07-05 | 07:28 | Natalie Wildgoose | River days | Unknown | https://www.deezer.com/track/3837804801 |
+| 2026-07-05 | 07:22 | Molly Drake | The Oak and the Ash | Unknown | https://www.deezer.com/track/598275442 |
+| 2026-07-05 | 07:21 | Wolf Alice | You're A Germ | Unknown | https://www.deezer.com/track/101901867 |
+| 2026-07-05 | 06:53 | Myer U Clark | Make A Bet | Unknown | https://www.deezer.com/track/3856916041 |
+| 2026-07-05 | 06:48 | SYREETA | Seek | Unknown | https://www.deezer.com/track/3509683831 |
+| 2026-07-05 | 06:44 | Dillard & Clark | With Care From Someone | Unknown | https://www.deezer.com/track/3841861411 |
+| 2026-07-05 | 06:41 | Jimmy Smith | East Of The Sun | Unknown | https://www.deezer.com/track/493849212 |
+| 2026-07-05 | 06:36 | Bonnie Bishop | Every Happiness Under the Sun | Unknown | https://www.deezer.com/track/706056642 |
+| 2026-07-05 | 06:33 | Toots & The Maytals | Sun Moon and Star | Unknown | https://www.deezer.com/track/3856487091 |
+| 2026-07-05 | 06:01 | Jimmy Martin | Tennessee | Unknown | https://www.deezer.com/track/65925098 |
+| 2026-07-05 | 05:57 | The Yardbirds | The Sun Is Shining - Live | Unknown | https://www.deezer.com/track/2863189382 |
+| 2026-07-05 | 05:54 | Dorothy Ashby | Little Sunflower | Unknown | https://www.deezer.com/track/2153816 |
+| 2026-07-05 | 05:27 | The Incredible String Band | Air | Unknown | https://www.deezer.com/track/7446710 |
+| 2026-07-05 | 05:21 | Miles Davis & Gil Evans | Concierto De Aranjuez (Adagio) | Unknown | https://www.deezer.com/track/75684948 |
+| 2026-07-05 | 05:10 | CMAT | Iceberg | Unknown | https://www.deezer.com/track/3283096721 |
+| 2026-07-05 | 04:27 | Goldfrapp | Anymore | Unknown | https://www.deezer.com/track/144574728 |
+| 2026-07-05 | 04:20 | First Choice | Doctor Love | Unknown | https://www.deezer.com/track/3783345242 |
+| 2026-07-05 | 04:01 | Jurassic 5 | Work It Out | Unknown | https://www.deezer.com/track/2157868937 |
+| 2026-07-05 | 03:46 | Smag På Dig Selv | Like a Word I Never Knew | Unknown | https://www.deezer.com/track/3707564022 |
+| 2026-07-05 | 03:26 | Family Stereo | DLR | Unknown | https://www.deezer.com/track/3864867851 |
+| 2026-07-05 | 03:19 | Bob Lind | Elusive Butterfly | Unknown | https://www.deezer.com/track/3124465 |
+| 2026-07-05 | 03:12 | Erykah Badu | Didn't Cha Know | Unknown | https://www.deezer.com/track/2122740 |
+| 2026-07-05 | 02:45 | Twinkie Clark | Fountain Full Of Blood | Unknown | https://www.deezer.com/track/1556374772 |
+| 2026-07-05 | 02:10 | Ms. Lauryn Hill | Ex-Factor | Unknown | https://www.deezer.com/track/400418882 |
+| 2026-07-05 | 02:03 | Sven Wunder | Ultramarine | Unknown | https://www.deezer.com/track/2495606931 |
+| 2026-07-05 | 01:20 | Stina Nordenstam | Little Star | Unknown | https://www.deezer.com/track/95447954 |
+| 2026-07-05 | 01:17 | Four Tet | Smile Around The Face | Unknown | https://www.deezer.com/track/1636725752 |
+| 2026-07-05 | 01:11 | Augustus Pablo | King Tubby Meets The Rockers Uptown | Unknown | https://www.deezer.com/track/141822379 |
+| 2026-07-05 | 00:53 | Love and Rockets | Haunted When the Minutes Drag | Unknown | https://www.deezer.com/track/140881391 |
+| 2026-07-05 | 00:48 | Mungo’s Hi Fi & Soom T | Did You Really Know | Unknown | https://www.deezer.com/track/76017926 |
+| 2026-07-05 | 00:45 | 3030 & Big Mountain | Love So Strong | Unknown | https://www.deezer.com/track/2175279887 |
+| 2026-07-05 | 00:42 | King Krule | Seaforth | Unknown | https://www.deezer.com/track/2199939607 |
+| 2026-07-05 | 00:32 | System Olympia | 6AM Romance | Unknown | https://www.deezer.com/track/1643551262 |
+| 2026-07-05 | 00:29 | Hotel Ugly | Is there free breakfast here? | Unknown | https://www.deezer.com/track/2170197427 |
+| 2026-07-05 | 00:24 | Loving | Bowlly Goes Dancing Drunk into the Future | Unknown | https://www.deezer.com/track/127404465 |
+| 2026-07-05 | 00:20 | Kae Tempest | To The Victor The Spoils | Unknown | https://www.deezer.com/track/75306754 |
+| 2026-07-05 | 00:17 | The Shacks | Trip To Japan | Unknown | https://www.deezer.com/track/2709983942 |
+| 2026-07-05 | 00:15 | Joy Crookes | No Hands | Unknown | https://www.deezer.com/track/680959132 |
+| 2026-07-05 | 00:13 | Powderfinger | Whatever Makes You Happy | Unknown | https://www.deezer.com/track/2958920 |
+| 2026-07-05 | 00:09 | The Mouse Outfit & Sparkz | Got Me Thinkin' (feat. Sparkz) | Unknown | https://www.deezer.com/track/67214737 |
+| 2026-07-05 | 00:02 | Calibre | Lit | Unknown | https://www.deezer.com/track/145231088 |
