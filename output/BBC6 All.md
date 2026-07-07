@@ -7551,3 +7551,81 @@ source: BBC Radio 6
 | 2026-07-06 | 00:15 | Maria Uzor | Don't Touch Me | Unknown | https://www.deezer.com/track/4057713391 |
 | 2026-07-06 | 00:11 | Regina Spektor | You've Got Time | Unknown | https://www.deezer.com/track/68529043 |
 | 2026-07-06 | 00:00 | The Stone Roses | Ten Storey Love Song | Unknown | https://www.deezer.com/track/2457806 |
+| 2026-07-07 | 18:57 | Kelsey Lu | Portrait Of A Lady On Fire | Unknown | https://www.deezer.com/track/3837088201 |
+| 2026-07-07 | 18:55 | Khatia Buniatishvili | Ständchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957) | Unknown | https://www.deezer.com/track/634775322 |
+| 2026-07-07 | 18:46 | Maxwell | Whenever Wherever Whatever | Unknown | https://www.deezer.com/track/13164796 |
+| 2026-07-07 | 18:42 | Jill Scott | The Way | Unknown | https://www.deezer.com/track/558529342 |
+| 2026-07-07 | 18:40 | Sonic Youth | Shadow of a Doubt | Unknown | https://www.deezer.com/track/104234020 |
+| 2026-07-07 | 18:33 | Prince | Adore | Unknown | https://www.deezer.com/track/1173112942 |
+| 2026-07-07 | 18:28 | Prince | The Beautiful Ones | Unknown | https://www.deezer.com/track/2806039642 |
+| 2026-07-07 | 18:22 | Stevie Wonder | Ordinary Pain | Unknown | https://www.deezer.com/track/676011662 |
+| 2026-07-07 | 18:19 | The Cranberries | Sunday | Unknown | https://www.deezer.com/track/4022782001 |
+| 2026-07-07 | 18:09 | Paramore | All I Wanted | Unknown | https://www.deezer.com/track/4288431 |
+| 2026-07-07 | 18:06 | Radiohead | All I Need | Unknown | https://www.deezer.com/track/138546811 |
+| 2026-07-07 | 17:52 | The Rezillos | (My Baby Does) Good Sculptures | Unknown | https://www.deezer.com/track/6635694 |
+| 2026-07-07 | 17:49 | Conny & the Bellhops | Shot Rod | Unknown | https://www.deezer.com/track/596377262 |
+| 2026-07-07 | 17:29 | Don Redman | Reefer Man | Unknown | https://www.deezer.com/track/62334113 |
+| 2026-07-07 | 17:26 | Lande Hekt | Favourite Pair of Shoes | Unknown | https://www.deezer.com/track/3574903721 |
+| 2026-07-07 | 17:06 | Osees & Osees | THE TRICK | Unknown | https://www.deezer.com/track/4058993261 |
+| 2026-07-07 | 17:02 | Neu! | Lila Engel (Lilac Angel) | Unknown | https://www.deezer.com/track/64844589 |
+| 2026-07-07 | 16:58 | Scud Mountain Boys | (She Took His) Picture | Unknown | https://www.deezer.com/track/30362281 |
+| 2026-07-07 | 16:52 | Don Ray | Born A Loser | Unknown | https://www.deezer.com/track/13166781 |
+| 2026-07-07 | 16:45 | Starter Car | Kicking | Unknown | https://www.deezer.com/track/4060270681 |
+| 2026-07-07 | 16:34 | Magazine | A Song From Under The Floorboards | Unknown | https://www.deezer.com/track/3110817 |
+| 2026-07-07 | 16:18 | Richard & Linda Thompson | I Want To See The Bright Lights | Unknown | https://www.deezer.com/track/1124476 |
+| 2026-07-07 | 16:12 | Margaret Glaspy | That Rose | Unknown | https://www.deezer.com/track/4008922571 |
+| 2026-07-07 | 16:01 | Sex Pistols | Anarchy In The UK | Unknown | https://www.deezer.com/track/14639870 |
+| 2026-07-07 | 15:45 | Ella Woolsey | winner | Unknown | https://www.deezer.com/track/4090262431 |
+| 2026-07-07 | 15:40 | Oscar Lindsey | Metal Through Her Lips | Unknown | https://www.deezer.com/track/4033168051 |
+| 2026-07-07 | 15:10 | Genesis Owusu | Human Again | Unknown | https://www.deezer.com/track/4071080181 |
+| 2026-07-07 | 15:04 | Blind Yeo | The Lemoine Point | Unknown | https://www.deezer.com/track/3990134441 |
+| 2026-07-07 | 14:43 | Wu-Lu & Poison Anna | King Kong | Unknown | https://www.deezer.com/track/3965397431 |
+| 2026-07-07 | 14:26 | Kelela & PinkPantheress | the bridge | Unknown | https://www.deezer.com/track/3925894421 |
+| 2026-07-07 | 14:01 | Gilla Band | Placeholder | Unknown | https://www.deezer.com/track/4087836791 |
+| 2026-07-07 | 13:52 | Tame Impala | 'Cause I'm A Man | Unknown | https://www.deezer.com/track/103052668 |
+| 2026-07-07 | 13:47 | Bloc Party | Love Bombs | Unknown | https://www.deezer.com/track/4060657061 |
+| 2026-07-07 | 13:42 | Gerry Rafferty | Right Down The Line | Unknown | https://www.deezer.com/track/3169190 |
+| 2026-07-07 | 13:24 | mary in the junkyard | Thou Shalt Sprout | Unknown | https://www.deezer.com/track/3866885701 |
+| 2026-07-07 | 13:14 | mary in the junkyard | Candelabra | Unknown | https://www.deezer.com/track/3866885681 |
+| 2026-07-07 | 12:57 | Disgusting Sisters | Sorry Mister | Unknown | https://www.deezer.com/track/4094368221 |
+| 2026-07-07 | 12:33 | Warpaint | Stevie | Unknown | https://www.deezer.com/track/1684732347 |
+| 2026-07-07 | 12:13 | U2 | Even Better Than The Real Thing (Perfecto Mix) | Unknown | https://www.deezer.com/track/1566924792 |
+| 2026-07-07 | 12:06 | Happy Mondays | Kinky Afro | Unknown | https://www.deezer.com/track/428806842 |
+| 2026-07-07 | 11:34 | Susan Cadogan | Do It Baby | Unknown | https://www.deezer.com/track/13826580 |
+| 2026-07-07 | 11:27 | Little Grandad | Babe, We've Run Out Of Time | Unknown | https://www.deezer.com/track/4090826701 |
+| 2026-07-07 | 11:22 | Nilüfer Yanya | Stabilise | Unknown | https://www.deezer.com/track/1523714232 |
+| 2026-07-07 | 11:09 | The Clash | Bankrobber | Unknown | https://www.deezer.com/track/69505551 |
+| 2026-07-07 | 11:00 | Queens of the Stone Age | Paper Machete | Unknown | https://www.deezer.com/track/2298992215 |
+| 2026-07-07 | 10:56 | Big Brother & the Holding Company | Piece Of My Heart | Unknown | https://www.deezer.com/track/15613151 |
+| 2026-07-07 | 10:43 | Ego Ella May | Back To Sea | Unknown | https://www.deezer.com/track/3664991372 |
+| 2026-07-07 | 10:19 | Jockstrap | Debra | Unknown | https://www.deezer.com/track/1872009557 |
+| 2026-07-07 | 10:14 | Blancmange | That's Love, That It Is | Unknown | https://www.deezer.com/track/431579182 |
+| 2026-07-07 | 09:58 | Pan Amsterdam & The1FS | Vanilla Ice | Unknown | https://www.deezer.com/track/4034849871 |
+| 2026-07-07 | 09:47 | Mazzy Star | Into Dust | Unknown | https://www.deezer.com/track/3360829 |
+| 2026-07-07 | 09:44 | Céline Dessberg | Chintamani | Unknown | https://www.deezer.com/track/3170761341 |
+| 2026-07-07 | 09:15 | Khana Bierbood | Plankton Bloom | Unknown | https://www.deezer.com/track/619617392 |
+| 2026-07-07 | 08:34 | Rival Schools | Used For Glue | Unknown | https://www.deezer.com/track/2545068 |
+| 2026-07-07 | 08:13 | Pink Floyd | Money | Unknown | https://www.deezer.com/track/116914026 |
+| 2026-07-07 | 08:09 | Bob Marley & The Wailers | Get Up, Stand Up | Unknown | https://www.deezer.com/track/530300661 |
+| 2026-07-07 | 07:41 | Thao | Fossils | Unknown | https://www.deezer.com/track/4018091511 |
+| 2026-07-07 | 07:28 | The 5.6.7.8’s | Woo Hoo | Unknown | https://www.deezer.com/track/16294369 |
+| 2026-07-07 | 06:58 | Cassius | I <3 U So | Unknown | https://www.deezer.com/track/592771082 |
+| 2026-07-07 | 06:48 | Baby Universe | We Can Pretend | Unknown | https://www.deezer.com/track/3545875341 |
+| 2026-07-07 | 05:56 | Pink Floyd | The Great Gig In The Sky | Unknown | https://www.deezer.com/track/116914024 |
+| 2026-07-07 | 05:53 | Kings of Leon | Charmer | Unknown | https://www.deezer.com/track/555263622 |
+| 2026-07-07 | 05:51 | Pixies | Tame | Unknown | https://www.deezer.com/track/945380 |
+| 2026-07-07 | 05:47 | The Who | Won't Get Fooled Again | Unknown | https://www.deezer.com/track/2121813 |
+| 2026-07-07 | 05:43 | The Rolling Stones | Gimme Shelter | Unknown | https://www.deezer.com/track/9914834 |
+| 2026-07-07 | 05:39 | Björk | It's Oh So Quiet | Unknown | https://www.deezer.com/track/14611476 |
+| 2026-07-07 | 05:18 | Siouxsie and the Banshees | Dear Prudence | Unknown | https://www.deezer.com/track/89886265 |
+| 2026-07-07 | 05:01 | Loyle Carner | Nobody Knows (Ladas Road) | Unknown | https://www.deezer.com/track/1964233757 |
+| 2026-07-07 | 04:50 | Tricky | I'm Yours | Unknown | https://www.deezer.com/track/3960279701 |
+| 2026-07-07 | 04:24 | SAULT | Love Does Not Equal Pain | Unknown | https://www.deezer.com/track/3761236202 |
+| 2026-07-07 | 03:16 | Death Cab for Cutie | Crooked Teeth | Unknown | https://www.deezer.com/track/4162677 |
+| 2026-07-07 | 02:45 | Otis Redding | Respect | Unknown | https://www.deezer.com/track/722615 |
+| 2026-07-07 | 02:26 | Supergrass | Moving | Unknown | https://www.deezer.com/track/3785265992 |
+| 2026-07-07 | 01:58 | Chris Isaak | Blue Hotel | Unknown | https://www.deezer.com/track/1391362442 |
+| 2026-07-07 | 01:43 | The Yummy Fur | Unity Over Europe | Unknown | https://www.deezer.com/track/4104719451 |
+| 2026-07-07 | 01:29 | Lewca | Freight Train | Unknown | https://www.deezer.com/track/4075208681 |
+| 2026-07-07 | 01:14 | Fountains of Wayne | Radiation Vibe | Unknown | https://www.deezer.com/track/725552 |
+| 2026-07-07 | 00:55 | Chaka Khan | Everywhere | Unknown | https://www.deezer.com/track/776307 |
