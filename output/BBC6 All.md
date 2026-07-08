@@ -7629,3 +7629,79 @@ source: BBC Radio 6
 | 2026-07-07 | 01:29 | Lewca | Freight Train | Unknown | https://www.deezer.com/track/4075208681 |
 | 2026-07-07 | 01:14 | Fountains of Wayne | Radiation Vibe | Unknown | https://www.deezer.com/track/725552 |
 | 2026-07-07 | 00:55 | Chaka Khan | Everywhere | Unknown | https://www.deezer.com/track/776307 |
+| 2026-07-08 | 17:41 | Véronique Chalot | Gwenc'hlan | Unknown | https://www.deezer.com/track/14391397 |
+| 2026-07-08 | 17:34 | Amon Düül II | Pale Gallery | Unknown | https://www.deezer.com/track/3803073462 |
+| 2026-07-08 | 17:30 | Pentangle | Lyke Wake Dirge | Unknown | https://www.deezer.com/track/3786480452 |
+| 2026-07-08 | 17:26 | Cluster & Brian Eno | Für Luise | Unknown | https://www.deezer.com/track/493700772 |
+| 2026-07-08 | 17:25 | The Pretty Things | Loneliest Person | Unknown | https://www.deezer.com/track/359170081 |
+| 2026-07-08 | 17:20 | Kali Malone & Drew McDowall | Withdrawn Into The Source | Unknown | https://www.deezer.com/track/3431468041 |
+| 2026-07-08 | 17:15 | Mr. Fox | Salisbury Plain | Unknown | https://www.deezer.com/track/3786371542 |
+| 2026-07-08 | 17:10 | Nico | Mutterlein | Unknown | https://www.deezer.com/track/2644796192 |
+| 2026-07-08 | 17:08 | Dorothy Carter | Binnorie | Unknown | https://www.deezer.com/track/2830937262 |
+| 2026-07-08 | 17:02 | Alison Cotton | The Night it Darkens all Around Me | Unknown | https://www.deezer.com/track/3936228511 |
+| 2026-07-08 | 16:58 | Drake | What's Next | Unknown | https://www.deezer.com/track/1265229652 |
+| 2026-07-08 | 16:53 | Fleetwood Mac | Dreams | Unknown | https://www.deezer.com/track/63480987 |
+| 2026-07-08 | 16:49 | Michael Jackson | Wanna Be Startin’ Somethin' | Unknown | https://www.deezer.com/track/831216 |
+| 2026-07-08 | 16:35 | Isaac Hayes | Walk On By | Unknown | https://www.deezer.com/track/361114351 |
+| 2026-07-08 | 16:16 | SWV | Rain | Unknown | https://www.deezer.com/track/959412 |
+| 2026-07-08 | 16:09 | Céline Dion | It's All Coming Back To Me Now | Unknown | https://www.deezer.com/track/714269192 |
+| 2026-07-08 | 16:07 | Lauren Auder | in god's childlike hands | Unknown | https://www.deezer.com/track/890635362 |
+| 2026-07-08 | 16:04 | Shira Small | My Life's All Right | Unknown | https://www.deezer.com/track/1529103982 |
+| 2026-07-08 | 16:02 | Lonnie Liston Smith & The Cosmic Echoes | Inner Beauty | Unknown | https://www.deezer.com/track/1734032557 |
+| 2026-07-08 | 15:56 | Ichiko Aoba | FLAG | Unknown | https://www.deezer.com/track/3088427231 |
+| 2026-07-08 | 15:52 | Eartha Kitt | The Heel | Unknown | https://www.deezer.com/track/2763625781 |
+| 2026-07-08 | 15:38 | Thee Headcoatees | Mess of Pottage | Unknown | https://www.deezer.com/track/9858035 |
+| 2026-07-08 | 15:13 | Talking Heads | Pulled Up | Unknown | https://www.deezer.com/track/6587352 |
+| 2026-07-08 | 13:53 | Ibibio Sound Machine | Give Me Peace | Unknown | https://www.deezer.com/track/4088749341 |
+| 2026-07-08 | 13:39 | Prison | Sunset Park | Unknown | https://www.deezer.com/track/3968828911 |
+| 2026-07-08 | 13:34 | Tommy Barlow | Won't You Ever Need Me | Unknown | https://www.deezer.com/track/4073533791 |
+| 2026-07-08 | 13:19 | Tony Bontana | The Way (feat. CC) | Unknown | https://www.deezer.com/track/3287521921 |
+| 2026-07-08 | 13:12 | Sibille Attar | KL SA | Unknown | https://www.deezer.com/track/4083365991 |
+| 2026-07-08 | 13:07 | The Sick Man of Europe | Negative Stimuli | Unknown | https://www.deezer.com/track/4141194781 |
+| 2026-07-08 | 12:46 | King Gizzard & the Lizard Wizard | Level 5 | Unknown | https://www.deezer.com/track/4058720461 |
+| 2026-07-08 | 12:01 | Jungle | Someday, Somewhere | Unknown | https://www.deezer.com/track/4129212891 |
+| 2026-07-08 | 11:49 | Soul II Soul | Fairplay | Unknown | https://www.deezer.com/track/3134886 |
+| 2026-07-08 | 11:34 | Santigold | Run The Road | Unknown | https://www.deezer.com/track/3785970492 |
+| 2026-07-08 | 11:28 | The Sophs | I'M YOUR FIEND | Unknown | https://www.deezer.com/track/3854289541 |
+| 2026-07-08 | 11:23 | Murkage Dave | Swordfight in a Chicken Shop | Unknown | https://www.deezer.com/track/3594520742 |
+| 2026-07-08 | 11:19 | Midding | Nuisance | Unknown | https://www.deezer.com/track/3541190391 |
+| 2026-07-08 | 11:15 | Magi Merlin | POPSTAR | Unknown | https://www.deezer.com/track/3810140962 |
+| 2026-07-08 | 11:04 | Madra Salach | The Man Who Seeks Pleasure | Unknown | https://www.deezer.com/track/3668156752 |
+| 2026-07-08 | 10:33 | TTSSFU | Upstairs | Unknown | https://www.deezer.com/track/3593124642 |
+| 2026-07-08 | 10:11 | Beastie Boys | Body Movin' (Fatboy Slim Remix) | Unknown | https://www.deezer.com/track/3119534 |
+| 2026-07-08 | 09:57 | MWSOG | Gododdin | Unknown | https://www.deezer.com/track/4105238781 |
+| 2026-07-08 | 09:26 | DJ Casper | Cha Cha Slide | Unknown | https://www.deezer.com/track/1675120927 |
+| 2026-07-08 | 08:54 | El León Pardo | La Perica | Unknown | https://www.deezer.com/track/2970496141 |
+| 2026-07-08 | 08:45 | Nick Drake | Way To Blue | Unknown | https://www.deezer.com/track/2282997 |
+| 2026-07-08 | 08:21 | Magazine | Touch and Go | Unknown | https://www.deezer.com/track/3110846 |
+| 2026-07-08 | 08:18 | Tom Robinson Band | Up Against The Wall | Unknown | https://www.deezer.com/track/3357639 |
+| 2026-07-08 | 08:11 | Diane Cluck | Easy to Be Around | Unknown | https://www.deezer.com/track/1073363792 |
+| 2026-07-08 | 07:55 | The Colorblind James Experience | Considering a Move to Memphis | Unknown | https://www.deezer.com/track/90130609 |
+| 2026-07-08 | 07:50 | John Cooper Clarke | I Don't Want To Be Nice | Unknown | https://www.deezer.com/track/865162 |
+| 2026-07-08 | 07:43 | Stump | Kitchen Table | Unknown | https://www.deezer.com/track/2774125351 |
+| 2026-07-08 | 07:15 | Orbital | The Box | Unknown | https://www.deezer.com/track/428850202 |
+| 2026-07-08 | 07:01 | Gabriels | Glory | Unknown | https://www.deezer.com/track/2842403402 |
+| 2026-07-08 | 06:48 | Linda Perhacs | Hey, Who Really Cares | Unknown | https://www.deezer.com/track/79778772 |
+| 2026-07-08 | 06:41 | Material | Reduction | Unknown | https://www.deezer.com/track/2563603412 |
+| 2026-07-08 | 06:27 | Ananda Shankar | Jumpin' Jack Flash | Unknown | https://www.deezer.com/track/719737 |
+| 2026-07-08 | 06:14 | Jon Hopkins | Emerald Rush | Unknown | https://www.deezer.com/track/463054842 |
+| 2026-07-08 | 05:40 | Vince Staples | Go! Go! Gorilla | Unknown | https://www.deezer.com/track/4051626531 |
+| 2026-07-08 | 05:16 | Fontaines D.C. | Roman Holiday | Unknown | https://www.deezer.com/track/3124676291 |
+| 2026-07-08 | 05:02 | Unknown Mortal Orchestra | Necessary Evil | Unknown | https://www.deezer.com/track/99241576 |
+| 2026-07-08 | 04:52 | Tasha | Special | Unknown | https://www.deezer.com/track/3918938641 |
+| 2026-07-08 | 04:34 | Caroline Polachek | Billions | Unknown | https://www.deezer.com/track/2142188467 |
+| 2026-07-08 | 04:03 | Beck | Colors | Unknown | https://www.deezer.com/track/414880892 |
+| 2026-07-08 | 04:00 | Beck | Hell Yes | Unknown | https://www.deezer.com/track/60724763 |
+| 2026-07-08 | 03:55 | Beck | Debra | Unknown | https://www.deezer.com/track/102654708 |
+| 2026-07-08 | 03:48 | Beck | Everybody's Got to Learn Sometime | Unknown | https://www.deezer.com/track/1506228852 |
+| 2026-07-08 | 03:21 | Lucy Rose | Over When It's Over | Unknown | https://www.deezer.com/track/2501101611 |
+| 2026-07-08 | 03:15 | Austin Ato | Waiting Room | Unknown | https://www.deezer.com/track/3962190811 |
+| 2026-07-08 | 03:00 | The Stone Roses | Love Spreads | Unknown | https://www.deezer.com/track/2457815 |
+| 2026-07-08 | 02:34 | Roxy Music | Editions Of You | Unknown | https://www.deezer.com/track/3134810 |
+| 2026-07-08 | 02:19 | Samara Joy | Can't Get Out Of This Mood | Unknown | https://www.deezer.com/track/1844076937 |
+| 2026-07-08 | 01:23 | R.E.M. | Orange Crush | Unknown | https://www.deezer.com/track/121922404 |
+| 2026-07-08 | 01:15 | Prince | Delirious | Unknown | https://www.deezer.com/track/3612813 |
+| 2026-07-08 | 00:54 | At The Drive-In | One Armed Scissor | Unknown | https://www.deezer.com/track/64814458 |
+| 2026-07-08 | 00:38 | Marvin Gaye | Can I Get A Witness | Unknown | https://www.deezer.com/track/549282432 |
+| 2026-07-08 | 00:35 | Underworld | Two Months Off | Unknown | https://www.deezer.com/track/81292310 |
+| 2026-07-08 | 00:12 | ROSALÍA | SAOKO | Unknown | https://www.deezer.com/track/1685337377 |
