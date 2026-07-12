@@ -8009,3 +8009,123 @@ source: BBC Radio 6
 | 2026-07-11 | 00:43 | Deniece Williams | Free | Unknown | https://www.deezer.com/track/1029859 |
 | 2026-07-11 | 00:27 | Laurie Anderson | In Our Sleep | Unknown | https://www.deezer.com/track/1128715 |
 | 2026-07-11 | 00:21 | Little Dragon | Strobe Light | Unknown | https://www.deezer.com/track/1762584157 |
+| 2026-07-12 | Live | Beck | Paper Tiger | Unknown | https://www.deezer.com/track/916533 |
+| 2026-07-12 | 16:33 | Antônio Carlos Jobim | The Girl from Ipanema | Unknown | https://www.deezer.com/track/1133394322 |
+| 2026-07-12 | 16:27 | Gomez | Here Comes The Breeze | Unknown | https://www.deezer.com/track/497302112 |
+| 2026-07-12 | 16:23 | Bob Dylan | Subterranean Homesick Blues | Unknown | https://www.deezer.com/track/13782684 |
+| 2026-07-12 | 16:17 | White Lies | Farewell to the Fairground | Unknown | https://www.deezer.com/track/2163644407 |
+| 2026-07-12 | 16:01 | The Isley Brothers | Cold Bologna | Unknown | https://www.deezer.com/track/106026588 |
+| 2026-07-12 | 15:53 | John Also Bennett | Sacred House (Piano) | Unknown | https://www.deezer.com/track/4057999441 |
+| 2026-07-12 | 15:49 | ALIA | Aquamarine Dream | Unknown | https://www.deezer.com/track/3893397371 |
+| 2026-07-12 | 15:41 | Palle Mikkelborg | Stille, Hjerte, Sol Går Ned | Unknown | https://www.deezer.com/track/3295432151 |
+| 2026-07-12 | 15:26 | Ibukun Sunday | Amen | Unknown | https://www.deezer.com/track/4045582741 |
+| 2026-07-12 | 15:14 | Pascal Comelade | Come As You Are | Unknown | https://www.deezer.com/track/3847211081 |
+| 2026-07-12 | 14:56 | Harold Budd | Bismillahi 'Rrahmani 'Rrahim | Unknown | https://www.deezer.com/track/3482027 |
+| 2026-07-12 | 14:55 | Lau Ro | Lighthouse | Unknown | https://www.deezer.com/track/3907069881 |
+| 2026-07-12 | 14:52 | Lau Ro | Feel | Unknown | https://www.deezer.com/track/3907069811 |
+| 2026-07-12 | 14:50 | Lau Ro | Simplesmente | Unknown | https://www.deezer.com/track/3907069831 |
+| 2026-07-12 | 14:46 | Lau Ro | Midnight Blue | Unknown | https://www.deezer.com/track/2715457112 |
+| 2026-07-12 | 14:42 | THE SPEAKING CLOCK | Howard's Last Day | Unknown | https://www.deezer.com/track/4031026741 |
+| 2026-07-12 | 14:19 | Jonathan Richman & The Modern Lovers | Summer Morning | Unknown | https://www.deezer.com/track/12580581 |
+| 2026-07-12 | 14:08 | Amanar de Kidal | Aljahalat | Unknown | https://www.deezer.com/track/3930284621 |
+| 2026-07-12 | 14:05 | Alfonso Soliano | Masth Chantani | Unknown | https://www.deezer.com/track/4064197381 |
+| 2026-07-12 | 14:02 | Lau Ro | Um A Mais | Unknown | https://www.deezer.com/track/3907069891 |
+| 2026-07-12 | 13:56 | Shankar | Ragam-Tanam-Pallavi | Unknown | https://www.deezer.com/track/1160007 |
+| 2026-07-12 | 13:51 | Horse Lords | Brain of the Firm | Unknown | https://www.deezer.com/track/3871698071 |
+| 2026-07-12 | 13:48 | Abigail Snail | Show Breaking To Waves | Unknown | https://www.deezer.com/track/3866988931 |
+| 2026-07-12 | 13:29 | Yezda Urfa | Boris and His Three Verses | Unknown | https://www.deezer.com/track/89249011 |
+| 2026-07-12 | 13:23 | Michael Cloud Duguay | Little Seldom | Unknown | https://www.deezer.com/track/3970860071 |
+| 2026-07-12 | 13:16 | Wesenyeleh Mebreku | Like a Star in the Sky | Unknown | https://www.deezer.com/track/3961598581 |
+| 2026-07-12 | 13:11 | Bill Orcutt & Mabe Fratti | Todo puede ser error | Unknown | https://www.deezer.com/track/4028663951 |
+| 2026-07-12 | 13:07 | Lee Hazlewood | My Autumn's Done Come | Unknown | https://www.deezer.com/track/396434672 |
+| 2026-07-12 | 13:00 | Le Grand Sbam | Tourbifouette II | Unknown | https://www.deezer.com/track/4024075651 |
+| 2026-07-12 | 12:59 | Digiffects Sound Effects Library | Spooky Thunder | Unknown | https://www.deezer.com/track/125217296 |
+| 2026-07-12 | 12:55 | Magma | Ïma Süri Dondaï | Unknown | https://www.deezer.com/track/254636 |
+| 2026-07-12 | 12:41 | Ian William Craig | The Edges | Unknown | https://www.deezer.com/track/507662742 |
+| 2026-07-12 | 12:36 | Ian William Craig | A Slight Grip, A Gentle Hold (Pt. 2) | Unknown | https://www.deezer.com/track/507662782 |
+| 2026-07-12 | 12:22 | Om | Meditation is the Practice of Death | Unknown | https://www.deezer.com/track/480705702 |
+| 2026-07-12 | 12:16 | Ian William Craig | Either Or | Unknown | https://www.deezer.com/track/507662842 |
+| 2026-07-12 | 12:13 | Ian William Craig | Red Gate With Starling | Unknown | https://www.deezer.com/track/507662702 |
+| 2026-07-12 | 12:05 | Jethro Tull | Up the 'Pool | Unknown | https://www.deezer.com/track/3122167 |
+| 2026-07-12 | 11:54 | Romain Azzaro | Fusion | Unknown | https://www.deezer.com/track/3959970541 |
+| 2026-07-12 | 11:49 | Royal Family and the Poor | ART ON 45 | Unknown | https://www.deezer.com/track/10989530 |
+| 2026-07-12 | 11:44 | Paul St. Hilaire | ICE | Unknown | https://www.deezer.com/track/3980664801 |
+| 2026-07-12 | 11:40 | Jennifer Walton | Daughters | Unknown | https://www.deezer.com/track/3429137451 |
+| 2026-07-12 | 11:34 | The Velvet Underground | Beginning To See The Light | Unknown | https://www.deezer.com/track/540172672 |
+| 2026-07-12 | 11:24 | Joy Division | Isolation | Unknown | https://www.deezer.com/track/1021197492 |
+| 2026-07-12 | 11:22 | New Order | Chosen Time (2015 Remaster) | Unknown | https://www.deezer.com/track/107750872 |
+| 2026-07-12 | 11:17 | New Order | Everything's Gone Green | Unknown | https://www.deezer.com/track/1021037042 |
+| 2026-07-12 | 11:14 | New Order | Dreams Never End (Western Works Demo) | Unknown | https://www.deezer.com/track/658790772 |
+| 2026-07-12 | 11:08 | Joy Division | Dead Souls (2010 Remaster) | Unknown | https://www.deezer.com/track/103915900 |
+| 2026-07-12 | 11:03 | New Order | In a Lonely Place | Unknown | https://www.deezer.com/track/1069047792 |
+| 2026-07-12 | 10:58 | Joy Division | The Eternal (2020 Digital Master) | Unknown | https://www.deezer.com/track/1021197552 |
+| 2026-07-12 | 10:52 | Throbbing Gristle | Walkabout (Remastered) | Unknown | https://www.deezer.com/track/144968746 |
+| 2026-07-12 | 10:50 | Joy Division | Disorder (Live at Birmingham University) | Unknown | https://www.deezer.com/track/2658711 |
+| 2026-07-12 | 10:49 | Joy Division | She's Lost Control (The Factory, Manchester Live 11 April 1980) | Unknown | https://www.deezer.com/track/729601 |
+| 2026-07-12 | 10:48 | Joy Division | Shadowplay (The Factory, Manchester Live 11 April 1980) | Unknown | https://www.deezer.com/track/729608 |
+| 2026-07-12 | 10:43 | Kevin Saunderson | The Groove That Won't Stop | Unknown | https://www.deezer.com/track/2448635075 |
+| 2026-07-12 | 10:39 | New Order | Fine Time | Unknown | https://www.deezer.com/track/107749930 |
+| 2026-07-12 | 10:34 | New Order | Denial (2019 Remaster) | Unknown | https://www.deezer.com/track/658790762 |
+| 2026-07-12 | 10:26 | feeo | The Hammer Strikes the Bell | Unknown | https://www.deezer.com/track/3549947881 |
+| 2026-07-12 | 10:16 | Section 25 | Looking from a Hilltop | Unknown | https://www.deezer.com/track/10989739 |
+| 2026-07-12 | 10:03 | Marina Herlop | Jaque | Unknown | https://www.deezer.com/track/4061705881 |
+| 2026-07-12 | 10:00 | The Durutti Column | In "D" | Unknown | https://www.deezer.com/track/432145502 |
+| 2026-07-12 | 09:56 | Mercury Rev | Tonite It Shows | Unknown | https://www.deezer.com/track/65413506 |
+| 2026-07-12 | 09:52 | Alex Harvey | Roman Wall Blues | Unknown | https://www.deezer.com/track/121127810 |
+| 2026-07-12 | 09:47 | Arlo Guthrie | Running Down the Road | Unknown | https://www.deezer.com/track/113092320 |
+| 2026-07-12 | 09:41 | Scritti Politti | The Boom Boom Bap | Unknown | https://www.deezer.com/track/939708 |
+| 2026-07-12 | 09:33 | Fleetwood Mac | Say You Love Me | Unknown | https://www.deezer.com/track/664453 |
+| 2026-07-12 | 09:26 | Jocelyn Pook | Masked Ball | Unknown | https://www.deezer.com/track/3135114 |
+| 2026-07-12 | 09:20 | The Durutti Column | Future Perfect | Unknown | https://www.deezer.com/track/63275391 |
+| 2026-07-12 | 09:17 | Cindy | New Power | Unknown | https://www.deezer.com/track/947468652 |
+| 2026-07-12 | 09:14 | The Cramps | Human Fly | Unknown | https://www.deezer.com/track/3105726 |
+| 2026-07-12 | 09:04 | Bauhaus | Bela Lugosi's Dead | Unknown | https://www.deezer.com/track/559910652 |
+| 2026-07-12 | 08:52 | KC and the Sunshine Band | (Shake, Shake, Shake) Shake Your Booty | Unknown | https://www.deezer.com/track/3232934 |
+| 2026-07-12 | 08:48 | Mort Garson | Didn't You Hear? | Unknown | https://www.deezer.com/track/1036414312 |
+| 2026-07-12 | 08:38 | Jacques Dutronc | L'idole | Unknown | https://www.deezer.com/track/540430 |
+| 2026-07-12 | 08:24 | Add N to (X) | Revenge of the Black Regent | Unknown | https://www.deezer.com/track/75572889 |
+| 2026-07-12 | 08:12 | Bertrand Belin | L'inconnu en personne | Unknown | https://www.deezer.com/track/3407766741 |
+| 2026-07-12 | 08:05 | The Rolling Stones | 2000 Light Years From Home | Unknown | https://www.deezer.com/track/9956170 |
+| 2026-07-12 | 07:56 | Richie Havens | Here Comes the Sun | Unknown | https://www.deezer.com/track/11641810 |
+| 2026-07-12 | 07:47 | Connan Mockasin | Faking Jazz Together | Unknown | https://www.deezer.com/track/3234405211 |
+| 2026-07-12 | 07:45 | Vashti Bunyan | Train Song | Unknown | https://www.deezer.com/track/16168341 |
+| 2026-07-12 | 07:37 | Blind Willie Johnson | Dark Was The Night, Cold Was The Ground | Unknown | https://www.deezer.com/track/1030938 |
+| 2026-07-12 | 07:33 | Mungo Parker | It's A Beautiful World | Unknown | https://www.deezer.com/track/3343311131 |
+| 2026-07-12 | 07:26 | Califone | Sunday Noises | Unknown | https://www.deezer.com/track/491677282 |
+| 2026-07-12 | 07:19 | Samana | Two Wrongs | Unknown | https://www.deezer.com/track/2763221601 |
+| 2026-07-12 | 07:10 | Ry Cooder | Paris, Texas | Unknown | https://www.deezer.com/track/6612945 |
+| 2026-07-12 | 06:55 | Jon Redfern | I Love The Sun | Unknown | https://www.deezer.com/track/3971444 |
+| 2026-07-12 | 06:51 | The Bees | Sky Holds The Sun | Unknown | https://www.deezer.com/track/6011084 |
+| 2026-07-12 | 06:45 | David Bowie | Somebody Up There Likes Me | Unknown | https://www.deezer.com/track/141820049 |
+| 2026-07-12 | 06:42 | The Handsome Family | When That Helicopter Comes | Unknown | https://www.deezer.com/track/30951991 |
+| 2026-07-12 | 06:38 | Genesis | I Know What I Like (In Your Wardrobe) | Unknown | https://www.deezer.com/track/14638638 |
+| 2026-07-12 | 06:22 | Duke Ellington and His Orchestra & Mahalia Jackson | Part IV (aka Come Sunday) | Unknown | https://www.deezer.com/track/101314306 |
+| 2026-07-12 | 06:09 | Fleet Foxes | Mykonos | Unknown | https://www.deezer.com/track/75624115 |
+| 2026-07-12 | 06:04 | Malcolm McLaren | Double Dutch | Unknown | https://www.deezer.com/track/3353696 |
+| 2026-07-12 | 06:02 | Lalo Schifrin | Bullitt | Unknown | https://www.deezer.com/track/1230194742 |
+| 2026-07-12 | 05:57 | Samana | I'll Keep You With Me | Unknown | https://www.deezer.com/track/850920522 |
+| 2026-07-12 | 05:48 | Samana | Without Words | Unknown | https://www.deezer.com/track/4135447651 |
+| 2026-07-12 | 04:48 | Johnny Clarke | Down in Babylon | Unknown | https://www.deezer.com/track/100731242 |
+| 2026-07-12 | 04:36 | Him & Earl | Falling Backwards | Unknown | https://www.deezer.com/track/4045658811 |
+| 2026-07-12 | 04:27 | Nuhara | Mascaratu (Cialome pt. 2) | Unknown | https://www.deezer.com/track/3990939121 |
+| 2026-07-12 | 04:18 | Charles Trenet | La mer | Unknown | https://www.deezer.com/track/1234072422 |
+| 2026-07-12 | 04:13 | Jonathan Richman & The Modern Lovers | That Summer Feeling | Unknown | https://www.deezer.com/track/3308921931 |
+| 2026-07-12 | 04:02 | Ella Fitzgerald | Stella By Starlight | Unknown | https://www.deezer.com/track/350019761 |
+| 2026-07-12 | 03:58 | Dennis Bovell & The 4th Street Orchestra | North Parade (A Summer Place) | Unknown | https://www.deezer.com/track/3725771142 |
+| 2026-07-12 | 03:49 | America | Ventura Highway | Unknown | https://www.deezer.com/track/727733 |
+| 2026-07-12 | 03:44 | Sulaf | Shogi Ana | Unknown | https://www.deezer.com/track/3892547131 |
+| 2026-07-12 | 03:37 | Los Lobos | Jockey Full Of Bourbon | Unknown | https://www.deezer.com/track/4233167 |
+| 2026-07-12 | 03:33 | Bettye LaVette | Yesterday is Here | Unknown | https://www.deezer.com/track/378363051 |
+| 2026-07-12 | 03:18 | Paul Gonsalves | Body And Soul | Unknown | https://www.deezer.com/track/25896141 |
+| 2026-07-12 | 03:15 | The Popguns | Caesar | Unknown | https://www.deezer.com/track/2296168855 |
+| 2026-07-12 | 03:01 | The Rance Allen Group | Up Above My Head | Unknown | https://www.deezer.com/track/2153940327 |
+| 2026-07-12 | 02:50 | Kanda Bongo Man | Saï | Unknown | https://www.deezer.com/track/570959922 |
+| 2026-07-12 | 02:41 | The Surfaris | Pipeline | Unknown | https://www.deezer.com/track/106065424 |
+| 2026-07-12 | 02:36 | The Beatles | We Can Work It Out | Unknown | https://www.deezer.com/track/116348616 |
+| 2026-07-12 | 02:33 | Penguin Cafe Orchestra | Music for a Found Harmonium | Unknown | https://www.deezer.com/track/3311358 |
+| 2026-07-12 | 02:28 | Los Ranger’s de Tingo María | La Trochita | Unknown | https://www.deezer.com/track/1980430227 |
+| 2026-07-12 | 02:13 | My Morning Jacket | The Way That He Sings | Unknown | https://www.deezer.com/track/10983288 |
+| 2026-07-12 | 02:00 | Curtis Mayfield | Keep On Keeping On | Unknown | https://www.deezer.com/track/14619062 |
+| 2026-07-12 | 01:26 | White Denim | Lock And Key | Unknown | https://www.deezer.com/track/3720046682 |
+| 2026-07-12 | 01:20 | Lulu | The Man Who Sold The World | Unknown | https://www.deezer.com/track/139264295 |
+| 2026-07-12 | 00:11 | Michael Kiwanuka | Love & Hate | Unknown | https://www.deezer.com/track/128548967 |
