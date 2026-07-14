@@ -8188,3 +8188,67 @@ source: BBC Radio 6
 | 2026-07-13 | 02:39 | The Smiths | Last Night I Dreamt That Somebody Loved Me | Unknown | https://www.deezer.com/track/13785980 |
 | 2026-07-13 | 00:56 | Narasimha | Jera | Unknown | https://www.deezer.com/track/4116531131 |
 | 2026-07-13 | 00:33 | Dusty Springfield | Just A Little Lovin' | Unknown | https://www.deezer.com/track/85143614 |
+| 2026-07-14 | 17:51 | Prince & The Revolution | Paisley Park | Unknown | https://www.deezer.com/track/1173005492 |
+| 2026-07-14 | 17:37 | Tina C. | Country Purple Rain | Unknown | https://www.deezer.com/track/552927362 |
+| 2026-07-14 | 17:19 | Prince & The New Power Generation | Gett Off | Unknown | https://www.deezer.com/track/2467399565 |
+| 2026-07-14 | 17:02 | Prince | 1999 | Unknown | https://www.deezer.com/track/3612798 |
+| 2026-07-14 | 17:02 | Prince & The New Power Generation | My Name is Prince | Unknown | https://www.deezer.com/track/1172991792 |
+| 2026-07-14 | 16:57 | Luke Haines | TV's On All The Time | Unknown | https://www.deezer.com/track/4063855221 |
+| 2026-07-14 | 16:55 | The Shadows | Wonderful Land | Unknown | https://www.deezer.com/track/3127861 |
+| 2026-07-14 | 16:41 | Daniel Johnston | Sorry Entertainer | Unknown | https://www.deezer.com/track/1276509512 |
+| 2026-07-14 | 16:37 | Swell Maps | Foam Rubber Wedding | Unknown | https://www.deezer.com/track/3866474811 |
+| 2026-07-14 | 16:32 | Jacques Dutronc | Et moi, et moi, et moi | Unknown | https://www.deezer.com/track/539703 |
+| 2026-07-14 | 16:30 | Otis Clay | Show Place | Unknown | https://www.deezer.com/track/2389705145 |
+| 2026-07-14 | 16:06 | Pictish Trail | Life Slime | Unknown | https://www.deezer.com/track/3721805642 |
+| 2026-07-14 | 16:01 | Kevin Coyne | I Want My Crown | Unknown | https://www.deezer.com/track/3125195 |
+| 2026-07-14 | 15:51 | Harmonia | Watussi | Unknown | https://www.deezer.com/track/106697552 |
+| 2026-07-14 | 15:45 | Formal Sppeedwear | A Concise History | Unknown | https://www.deezer.com/track/3999934951 |
+| 2026-07-14 | 15:22 | Roy Orbison | Oh, Pretty Woman | Unknown | https://www.deezer.com/track/78033230 |
+| 2026-07-14 | 15:01 | Brian Eno | King's Lead Hat | Unknown | https://www.deezer.com/track/3093659 |
+| 2026-07-14 | 14:47 | Tyler Ballgame | Live It Down | Unknown | https://www.deezer.com/track/4105444881 |
+| 2026-07-14 | 14:07 | Dry Cleaning | Grass | Unknown | https://www.deezer.com/track/4107025911 |
+| 2026-07-14 | 13:54 | Mock Media | Straight Line | Unknown | https://www.deezer.com/track/3918567361 |
+| 2026-07-14 | 13:27 | Sentimento | TURNitUP | Unknown | https://www.deezer.com/track/4086723331 |
+| 2026-07-14 | 13:21 | Shadow Child | Falle Acid (feat. Falle Nioke) | Unknown | https://www.deezer.com/track/4077581091 |
+| 2026-07-14 | 13:14 | beabadoobee | Switchblade | Unknown | https://www.deezer.com/track/4127922761 |
+| 2026-07-14 | 13:04 | Wishy | All The Rage | Unknown | https://www.deezer.com/track/4000894411 |
+| 2026-07-14 | 12:00 | Cocteau Twins | Pearly-Dewdrops' Drops | Unknown | https://www.deezer.com/track/938530 |
+| 2026-07-14 | 11:24 | Nirvana | Come As You Are | Unknown | https://www.deezer.com/track/1543592132 |
+| 2026-07-14 | 10:57 | Jake Xerxes Fussell | Rock Island Line | Unknown | https://www.deezer.com/track/4059202291 |
+| 2026-07-14 | 09:41 | Hang Linton | Mad Dog | Unknown | https://www.deezer.com/track/3989632251 |
+| 2026-07-14 | 09:33 | Jamie xx | Far Nearer | Unknown | https://www.deezer.com/track/138545425 |
+| 2026-07-14 | 09:22 | Rhoda Dakar | Peace, Dub and Understanding | Unknown | https://www.deezer.com/track/3242956711 |
+| 2026-07-14 | 09:18 | Scientist | Taxi to Baltimore Dub | Unknown | https://www.deezer.com/track/14548825 |
+| 2026-07-14 | 09:15 | Sly & Robbie | Dub-Ble Agent | Unknown | https://www.deezer.com/track/91417508 |
+| 2026-07-14 | 09:10 | The Chemical Brothers | The Salmon Dance | Unknown | https://www.deezer.com/track/721266652 |
+| 2026-07-14 | 08:58 | DJ Seinfeld & just lil | The Wave | Unknown | https://www.deezer.com/track/3906159641 |
+| 2026-07-14 | 08:55 | John Foxx | Underpass | Unknown | https://www.deezer.com/track/1875061527 |
+| 2026-07-14 | 08:45 | Labi Siffre | Cannock Chase | Unknown | https://www.deezer.com/track/93329610 |
+| 2026-07-14 | 08:43 | Stereolab | Come And Play In The Milky Night | Unknown | https://www.deezer.com/track/717048832 |
+| 2026-07-14 | 08:34 | Beck | Jack-Ass | Unknown | https://www.deezer.com/track/971422892 |
+| 2026-07-14 | 07:13 | Blondie | X Offender | Unknown | https://www.deezer.com/track/3151624 |
+| 2026-07-14 | 07:09 | Roy Ayers | Everybody Loves The Sunshine | Unknown | https://www.deezer.com/track/549279042 |
+| 2026-07-14 | 06:46 | MC Trouble | Here Comes Trouble | Unknown | https://www.deezer.com/track/2217015427 |
+| 2026-07-14 | 06:28 | Booker T. & The M.G.'s | Time Is Tight | Unknown | https://www.deezer.com/track/585417352 |
+| 2026-07-14 | 05:21 | Cornershop & Bubbley Kaur | Bounce And Salute | Unknown | https://www.deezer.com/track/4091386701 |
+| 2026-07-14 | 05:09 | Michael Hurley | Knockando | Unknown | https://www.deezer.com/track/12044936 |
+| 2026-07-14 | 04:50 | The Doors | Light My Fire | Unknown | https://www.deezer.com/track/3614129 |
+| 2026-07-14 | 04:47 | DJ Shadow | Why Hip Hop Sucks in '96 | Unknown | https://www.deezer.com/track/2075765267 |
+| 2026-07-14 | 04:44 | The Beatles | Her Majesty | Unknown | https://www.deezer.com/track/760429642 |
+| 2026-07-14 | 04:41 | Liam Lynch | United States Of Whatever | Unknown | https://www.deezer.com/track/3091669 |
+| 2026-07-14 | 03:50 | James Ellis Ford | Overtones | Unknown | https://www.deezer.com/track/4083760201 |
+| 2026-07-14 | 03:42 | Biffy Clyro | The Captain | Unknown | https://www.deezer.com/track/4640025 |
+| 2026-07-14 | 03:26 | The Sabres of Paradise | Wilmot | Unknown | https://www.deezer.com/track/3366536221 |
+| 2026-07-14 | 03:18 | Antony Szmierek | Hitchhiker's Guide To The Fallacy | Unknown | https://www.deezer.com/track/3247931151 |
+| 2026-07-14 | 02:34 | Parquet Courts | Wide Awake | Unknown | https://www.deezer.com/track/496911822 |
+| 2026-07-14 | 02:23 | The Fall | Touch Sensitive | Unknown | https://www.deezer.com/track/3803091052 |
+| 2026-07-14 | 02:20 | Felix da Housecat | Ready 2 Wear | Unknown | https://www.deezer.com/track/2200175737 |
+| 2026-07-14 | 02:09 | Elastica | Car Song | Unknown | https://www.deezer.com/track/97089120 |
+| 2026-07-14 | 02:05 | De La Soul | A Roller Skating Jam Named "Saturdays" | Unknown | https://www.deezer.com/track/2104713947 |
+| 2026-07-14 | 02:02 | Klaxons | It's Not Over Yet | Unknown | https://www.deezer.com/track/1157385 |
+| 2026-07-14 | 01:51 | 2 Bad Mice | Bombscare | Unknown | https://www.deezer.com/track/2183696167 |
+| 2026-07-14 | 01:43 | War | Low Rider | Unknown | https://www.deezer.com/track/143042822 |
+| 2026-07-14 | 01:15 | anaiis | Sunshine | Unknown | https://www.deezer.com/track/4078982021 |
+| 2026-07-14 | 00:33 | Erykah Badu | Appletree | Unknown | https://www.deezer.com/track/1123845 |
+| 2026-07-14 | 00:17 | Yeah Yeah Yeahs | Kiss Kiss | Unknown | https://www.deezer.com/track/139892503 |
+| 2026-07-14 | 00:11 | Erika de Casier | Little Bit | Unknown | https://www.deezer.com/track/1863935497 |
