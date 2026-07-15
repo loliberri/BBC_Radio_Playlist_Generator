@@ -8252,3 +8252,81 @@ source: BBC Radio 6
 | 2026-07-14 | 00:33 | Erykah Badu | Appletree | Unknown | https://www.deezer.com/track/1123845 |
 | 2026-07-14 | 00:17 | Yeah Yeah Yeahs | Kiss Kiss | Unknown | https://www.deezer.com/track/139892503 |
 | 2026-07-14 | 00:11 | Erika de Casier | Little Bit | Unknown | https://www.deezer.com/track/1863935497 |
+| 2026-07-15 | 17:43 | Thimble | Dinner at Six | Unknown | https://www.deezer.com/track/4058284771 |
+| 2026-07-15 | 17:40 | Joyce & Nelson Angelo | Um gosto de fruta | Unknown | https://www.deezer.com/track/3325028 |
+| 2026-07-15 | 17:26 | The Beach Boys | Love to Say Dada | Unknown | https://www.deezer.com/track/14176174 |
+| 2026-07-15 | 17:17 | Fotheringay | The Sea | Unknown | https://www.deezer.com/track/1582420 |
+| 2026-07-15 | 17:08 | Hiroshi Yoshimura | Creek | Unknown | https://www.deezer.com/track/3185163831 |
+| 2026-07-15 | 16:59 | Charli xcx | Speed Drive | Unknown | https://www.deezer.com/track/2346329675 |
+| 2026-07-15 | 16:51 | Charli xcx | Chains of Love | Unknown | https://www.deezer.com/track/3836104001 |
+| 2026-07-15 | 16:39 | Charli xcx | Girl, so confusing (feat. Lorde) | Unknown | https://www.deezer.com/track/2857437202 |
+| 2026-07-15 | 16:16 | Charli xcx | Club classics | Unknown | https://www.deezer.com/track/2833834782 |
+| 2026-07-15 | 16:08 | Charli xcx | 360 | Unknown | https://www.deezer.com/track/2833834772 |
+| 2026-07-15 | 16:06 | Charli xcx | Boom Clap | Unknown | https://www.deezer.com/track/79590714 |
+| 2026-07-15 | 16:06 | Charli xcx | Nuclear Seasons | Unknown | https://www.deezer.com/track/66175061 |
+| 2026-07-15 | 15:52 | The Stranglers | (Get A) Grip (On Yourself) | Unknown | https://www.deezer.com/track/3363282 |
+| 2026-07-15 | 15:38 | Brenda Holloway | When I'm Gone | Unknown | https://www.deezer.com/track/2516632 |
+| 2026-07-15 | 15:08 | King Tubby & The Aggrovators | Warm Weather | Unknown | https://www.deezer.com/track/354734551 |
+| 2026-07-15 | 14:38 | Kevin Ayers | Shouting in a Bucket Blues | Unknown | https://www.deezer.com/track/3521804 |
+| 2026-07-15 | 14:32 | Sly & the Family Stone | Luv N' Haight | Unknown | https://www.deezer.com/track/549576 |
+| 2026-07-15 | 14:27 | Maisy Owen | It All Ends the Same | Unknown | https://www.deezer.com/track/3917941761 |
+| 2026-07-15 | 13:58 | The Koreatown Oddity | Ragu & Prego | Unknown | https://www.deezer.com/track/4078726801 |
+| 2026-07-15 | 13:46 | MJ Lenderman | You are Every Girl To Me | Unknown | https://www.deezer.com/track/2867485432 |
+| 2026-07-15 | 13:44 | boygenius | Not Strong Enough | Unknown | https://www.deezer.com/track/2216546997 |
+| 2026-07-15 | 13:44 | Fred again.. & SOAK | just stand there | Unknown | https://www.deezer.com/track/2966976461 |
+| 2026-07-15 | 13:42 | Mitski | First Love/Late Spring | Unknown | https://www.deezer.com/track/116405480 |
+| 2026-07-15 | 13:23 | BAE BAE | still believe | Unknown | https://www.deezer.com/track/3500459661 |
+| 2026-07-15 | 13:19 | DJ Manny & DJ Phil | Make Me Wanna | Unknown | https://www.deezer.com/track/4095764781 |
+| 2026-07-15 | 13:14 | Man/Woman/Chainsaw | Something Else To Give | Unknown | https://www.deezer.com/track/4117387761 |
+| 2026-07-15 | 13:10 | 7ebra | Magical Thinking | Unknown | https://www.deezer.com/track/4058089421 |
+| 2026-07-15 | 13:03 | Ruti | Flowers | Unknown | https://www.deezer.com/track/4050644601 |
+| 2026-07-15 | 13:00 | Tegan and Sara | Back In Your Head | Unknown | https://www.deezer.com/track/791545 |
+| 2026-07-15 | 12:56 | The Cranberries | Zombie | Unknown | https://www.deezer.com/track/980117 |
+| 2026-07-15 | 12:54 | Fleetwood Mac | Never Going Back Again | Unknown | https://www.deezer.com/track/63480988 |
+| 2026-07-15 | 12:49 | god of war | Mickey Don't Pose | Unknown | https://www.deezer.com/track/4105310061 |
+| 2026-07-15 | 12:35 | Jordan Rakei | Enemies | Unknown | https://www.deezer.com/track/4140230821 |
+| 2026-07-15 | 12:14 | Beck | In The Night | Unknown | https://www.deezer.com/track/4141280961 |
+| 2026-07-15 | 12:05 | Sweeping Promises | Accent | Unknown | https://www.deezer.com/track/4072521281 |
+| 2026-07-15 | 12:01 | Starcleaner Reunion | Never Odd or Even | Unknown | https://www.deezer.com/track/4083378721 |
+| 2026-07-15 | 11:57 | Garbage | There's No Future In Optimism | Unknown | https://www.deezer.com/track/3788135192 |
+| 2026-07-15 | 11:50 | World Party | Way Down Now | Unknown | https://www.deezer.com/track/53990941 |
+| 2026-07-15 | 11:44 | Weezer | Shine Again | Unknown | https://www.deezer.com/track/3921829761 |
+| 2026-07-15 | 11:10 | The Smashing Pumpkins | Soma (2011 Remaster) | Unknown | https://www.deezer.com/track/15715638 |
+| 2026-07-15 | 11:04 | Killdozer | King of Sex | Unknown | https://www.deezer.com/track/126047311 |
+| 2026-07-15 | 10:55 | Garbage | Hold | Unknown | https://www.deezer.com/track/3788135232 |
+| 2026-07-15 | 10:44 | Queens of the Stone Age | Easy Street | Unknown | https://www.deezer.com/track/4105729481 |
+| 2026-07-15 | 10:11 | Depeche Mode | In Your Room (Zephyr Mix) | Unknown | https://www.deezer.com/track/68515202 |
+| 2026-07-15 | 10:05 | Sonic Youth | 100% | Unknown | https://www.deezer.com/track/2263427 |
+| 2026-07-15 | 09:56 | Ellur | False Start | Unknown | https://www.deezer.com/track/4104532151 |
+| 2026-07-15 | 09:33 | James Brown | Papa's Got a Brand New Bag | Unknown | https://www.deezer.com/track/541625122 |
+| 2026-07-15 | 09:23 | De La Soul | The Package | Unknown | https://www.deezer.com/track/3663920842 |
+| 2026-07-15 | 09:00 | R.E.M. | Radio Free Europe | Unknown | https://www.deezer.com/track/1761614347 |
+| 2026-07-15 | 08:49 | Idlewild | A Modern Way of Letting Go | Unknown | https://www.deezer.com/track/3098956 |
+| 2026-07-15 | 08:43 | Quiet Husband | Duration | Unknown | https://www.deezer.com/track/4005009041 |
+| 2026-07-15 | 08:26 | Karen Dalton | Are You Leaving for the Country | Unknown | https://www.deezer.com/track/3185128731 |
+| 2026-07-15 | 08:16 | Ramones | I Wanna Be Sedated | Unknown | https://www.deezer.com/track/556340432 |
+| 2026-07-15 | 08:14 | Wire | Mannequin | Unknown | https://www.deezer.com/track/444062112 |
+| 2026-07-15 | 08:01 | The Smiths | Nowhere Fast | Unknown | https://www.deezer.com/track/13786004 |
+| 2026-07-15 | 07:57 | John Lennon | Oh Yoko! | Unknown | https://www.deezer.com/track/7193843 |
+| 2026-07-15 | 07:42 | Kid Koala | Skanky Panky | Unknown | https://www.deezer.com/track/524904952 |
+| 2026-07-15 | 07:22 | Mr. Scruff | Sweetsmoke | Unknown | https://www.deezer.com/track/725668792 |
+| 2026-07-15 | 06:26 | A Tribe Called Quest | Excursions | Unknown | https://www.deezer.com/track/2465900 |
+| 2026-07-15 | 06:13 | Lykke Li | Get Some | Unknown | https://www.deezer.com/track/7447212 |
+| 2026-07-15 | 05:56 | Ian Dury & the Blockheads | Hit Me With Your Rhythm Stick | Unknown | https://www.deezer.com/track/3223178421 |
+| 2026-07-15 | 05:41 | HAAi & Pat Alvarez | DIGITiSE | Unknown | https://www.deezer.com/track/4032619821 |
+| 2026-07-15 | 04:59 | Mark B & Blade | The Unknown | Unknown | https://www.deezer.com/track/2111481947 |
+| 2026-07-15 | 04:52 | Martika | Love...Thy Will Be Done | Unknown | https://www.deezer.com/track/899952 |
+| 2026-07-15 | 04:20 | Baxter Dury | Alpha Dog (Paul Epworth Extended Version) | Unknown | https://www.deezer.com/track/4050148461 |
+| 2026-07-15 | 04:09 | Yannis & the Yaw | Under The Strikes | Unknown | https://www.deezer.com/track/3447739351 |
+| 2026-07-15 | 03:56 | Michael Kiwanuka | Cold Little Heart | Unknown | https://www.deezer.com/track/128548959 |
+| 2026-07-15 | 03:20 | Martine Girault | Revival | Unknown | https://www.deezer.com/track/60814559 |
+| 2026-07-15 | 02:56 | Elliott Smith | Waltz #2 (XO) | Unknown | https://www.deezer.com/track/2532673 |
+| 2026-07-15 | 02:02 | Bob Dylan | Like A Rolling Stone | Unknown | https://www.deezer.com/track/14477354 |
+| 2026-07-15 | 01:57 | Bambounou | I Can Send You To Space | Unknown | https://www.deezer.com/track/4059935251 |
+| 2026-07-15 | 01:46 | Nubiyan Twist | Body Flows | Unknown | https://www.deezer.com/track/3785144102 |
+| 2026-07-15 | 01:24 | Egypt | In The Morning (Let Your Love Come In) | Unknown | https://www.deezer.com/track/13463423 |
+| 2026-07-15 | 01:22 | The Chemical Brothers | Got To Keep On | Unknown | https://www.deezer.com/track/623742862 |
+| 2026-07-15 | 01:13 | The Dandy Warhols | Boys Better | Unknown | https://www.deezer.com/track/2126029547 |
+| 2026-07-15 | 00:27 | Talking Heads | Radio Head | Unknown | https://www.deezer.com/track/1907058527 |
+| 2026-07-15 | 00:13 | Tycho & Sea Lemon | Anotherwave | Unknown | https://www.deezer.com/track/4116716981 |
+| 2026-07-15 | 00:09 | Betty Harris | Ride Your Pony | Unknown | https://www.deezer.com/track/706368452 |
