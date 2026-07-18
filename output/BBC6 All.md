@@ -8469,3 +8469,113 @@ source: BBC Radio 6
 | 2026-07-17 | 00:35 | Goldie | Castaway | Unknown | https://www.deezer.com/track/1073944142 |
 | 2026-07-17 | 00:20 | Laura Marling | Ghosts | Unknown | https://www.deezer.com/track/3356822 |
 | 2026-07-17 | 00:09 | The Verve | The Drugs Don't Work | Unknown | https://www.deezer.com/track/398570672 |
+| 2026-07-18 | 19:37 | Identified Patient | The Thin Line | Unknown | https://www.deezer.com/track/4023469481 |
+| 2026-07-18 | 19:27 | Ray Keith | The Reckoning | Unknown | https://www.deezer.com/track/406694012 |
+| 2026-07-18 | 19:22 | PHD | Beneath The Surface | Unknown | https://www.deezer.com/track/71701128 |
+| 2026-07-18 | 19:13 | Dub Phizix | Bleng | Unknown | https://www.deezer.com/track/1821010707 |
+| 2026-07-18 | 19:08 | Digital | Gateman | Unknown | https://www.deezer.com/track/6158243 |
+| 2026-07-18 | 19:04 | St Germain | Alabama Blues | Unknown | https://www.deezer.com/track/413371832 |
+| 2026-07-18 | 18:52 | DJ Chromz & Tim Reaper | Forever Dubbed | Unknown | https://www.deezer.com/track/2476086731 |
+| 2026-07-18 | 18:41 | Makoto | Eastern Dub | Unknown | https://www.deezer.com/track/71701310 |
+| 2026-07-18 | 18:37 | Art of Noise | Art Of Love | Unknown | https://www.deezer.com/track/102154632 |
+| 2026-07-18 | 18:29 | Om Unit & Philip D Kick | Summer Moods | Unknown | https://www.deezer.com/track/991137832 |
+| 2026-07-18 | 18:25 | Ohm Guru | Tokio Station (Meditation Remix) | Unknown | https://www.deezer.com/track/12964643 |
+| 2026-07-18 | 18:21 | LTJ Bukem | Rainfall | Unknown | https://www.deezer.com/track/71701405 |
+| 2026-07-18 | 18:16 | FFF | Our Planet | Unknown | https://www.deezer.com/track/3657900612 |
+| 2026-07-18 | 18:08 | Equinox | Bad Dreams | Unknown | https://www.deezer.com/track/1489556442 |
+| 2026-07-18 | 18:03 | Takuya Nakamura | Solar Flame | Unknown | https://www.deezer.com/track/3171684361 |
+| 2026-07-18 | 17:53 | Abel Miller & Crate Classics | Your Way | Unknown | https://www.deezer.com/track/4057559281 |
+| 2026-07-18 | 17:40 | Rose Holland | Clouded | Unknown | https://www.deezer.com/track/3551711851 |
+| 2026-07-18 | 17:32 | lavender | lowlight:slowlight | Unknown | https://www.deezer.com/track/3140348271 |
+| 2026-07-18 | 17:28 | The Viceroys | The Dub of Gold | Unknown | https://www.deezer.com/track/94568542 |
+| 2026-07-18 | 17:22 | Conner Youngblood | Stockholm | Unknown | https://www.deezer.com/track/2604074992 |
+| 2026-07-18 | 17:20 | Kutiman & Dekel | Take It Easy | Unknown | https://www.deezer.com/track/3871089551 |
+| 2026-07-18 | 17:18 | Kai Kwasi | Cracks | Unknown | https://www.deezer.com/track/1539884372 |
+| 2026-07-18 | 17:11 | Seu Jorge | Folia Do Amor | Unknown | https://www.deezer.com/track/3958774361 |
+| 2026-07-18 | 17:00 | Lost Horizons | In Quiet Moments | Unknown | https://www.deezer.com/track/1063602032 |
+| 2026-07-18 | 16:57 | Roland Alphonso | Phoenix City | Unknown | https://www.deezer.com/track/60981669 |
+| 2026-07-18 | 16:36 | Lonyo | Summer Of Love | Unknown | https://www.deezer.com/track/81746300 |
+| 2026-07-18 | 16:32 | Garbage | Special | Unknown | https://www.deezer.com/track/514401952 |
+| 2026-07-18 | 16:29 | Alpha & Omega | Rastafari | Unknown | https://www.deezer.com/track/486752782 |
+| 2026-07-18 | 16:21 | Aldo Vanucci | When I See You Smile | Unknown | https://www.deezer.com/track/2566633392 |
+| 2026-07-18 | 16:19 | Dubkasm & Tricky | Concrete Flowers | Unknown | https://www.deezer.com/track/3045156431 |
+| 2026-07-18 | 15:46 | Stark Reality | Prelude To Say Brother | Unknown | https://www.deezer.com/track/3527345221 |
+| 2026-07-18 | 15:42 | Elliott Fisher | Eleanor Rigby | Unknown | https://www.deezer.com/track/17502300 |
+| 2026-07-18 | 15:37 | Kleeer | Keeep Your Body Workin' | Unknown | https://www.deezer.com/track/1189729 |
+| 2026-07-18 | 15:28 | Patrice Rushen | Number One | Unknown | https://www.deezer.com/track/434614252 |
+| 2026-07-18 | 15:22 | Another Taste | Party Lights | Unknown | https://www.deezer.com/track/3775779782 |
+| 2026-07-18 | 15:17 | Harvey Mason | Till You Take My Love | Unknown | https://www.deezer.com/track/55171031 |
+| 2026-07-18 | 15:16 | Creative Source | You Can't Hide Love | Unknown | https://www.deezer.com/track/1521792392 |
+| 2026-07-18 | 15:08 | Connie Laverne | Can't Live Without You | Unknown | https://www.deezer.com/track/101868953 |
+| 2026-07-18 | 15:04 | The 7:45s | We Will Be Friends | Unknown | https://www.deezer.com/track/3360519821 |
+| 2026-07-18 | 15:02 | Pete Rodríguez | Micaela (Live) | Unknown | https://www.deezer.com/track/686070082 |
+| 2026-07-18 | 14:46 | Elliott Fisher | I Heard It Through The Grapevine | Unknown | https://www.deezer.com/track/17502293 |
+| 2026-07-18 | 14:41 | Sundia | Stand Up And Be A Man | Unknown | https://www.deezer.com/track/5641176 |
+| 2026-07-18 | 14:33 | Chuck Brown & The Soul Searchers | Bustin' Loose | Unknown | https://www.deezer.com/track/64919596 |
+| 2026-07-18 | 14:13 | Dusty Springfield | Live It Up | Unknown | https://www.deezer.com/track/2281251 |
+| 2026-07-18 | 14:10 | Evelyn Thomas | Weak Spot | Unknown | https://www.deezer.com/track/2003597 |
+| 2026-07-18 | 14:05 | Sarah Webster Fabio | Sweet Songs | Unknown | https://www.deezer.com/track/4422169 |
+| 2026-07-18 | 14:00 | Betty Davis | Shoo-B-Doop And Cop Him | Unknown | https://www.deezer.com/track/3184919681 |
+| 2026-07-18 | 13:58 | The Fashionettes | Losin' Control | Unknown | https://www.deezer.com/track/1734023147 |
+| 2026-07-18 | 13:49 | Elliott Fisher | Money (That's What I Want) | Unknown | https://www.deezer.com/track/17502292 |
+| 2026-07-18 | 13:43 | Prince Charles and the City Beat Band | I'm A Fool For Love | Unknown | https://www.deezer.com/track/91248178 |
+| 2026-07-18 | 13:18 | Joe Tex | Loose Caboose | Unknown | https://www.deezer.com/track/11578368 |
+| 2026-07-18 | 13:00 | Guru & Erykah Badu | Plenty | Unknown | https://www.deezer.com/track/3135644 |
+| 2026-07-18 | 12:14 | Carrie Cleveland | Make Love To Me | Unknown | https://www.deezer.com/track/541402052 |
+| 2026-07-18 | 12:07 | MFSB | Mysteries of the World | Unknown | https://www.deezer.com/track/568373342 |
+| 2026-07-18 | 11:47 | Lou Rawls | Some Folks Never Learn | Unknown | https://www.deezer.com/track/1241489822 |
+| 2026-07-18 | 11:45 | MFSB | TSOP (The Sound of Philadelphia) (feat. The Three Degrees) | Unknown | https://www.deezer.com/track/13232091 |
+| 2026-07-18 | 11:42 | Jermaine Jackson | Let's Get Serious | Unknown | https://www.deezer.com/track/4229748 |
+| 2026-07-18 | 11:41 | Dave Bartholomew | Portrait Of A Drummer | Unknown | https://www.deezer.com/track/1667195122 |
+| 2026-07-18 | 11:15 | Sensational Roots | Calypso Zest | Unknown | https://www.deezer.com/track/3879129701 |
+| 2026-07-18 | 10:55 | Slim Ali & The Hodi Boys | Gimme Something Love | Unknown | https://www.deezer.com/track/58278031 |
+| 2026-07-18 | 10:52 | Ofo The Black Company | Allah Wakbarr | Unknown | https://www.deezer.com/track/13026302 |
+| 2026-07-18 | 10:19 | Gary Wilson | Dream(s) | Unknown | https://www.deezer.com/track/446035552 |
+| 2026-07-18 | 10:16 | Chemise | She Can't Love You | Unknown | https://www.deezer.com/track/67882794 |
+| 2026-07-18 | 10:14 | Ron | Hai Capito O No? | Unknown | https://www.deezer.com/track/1593054721 |
+| 2026-07-18 | 10:04 | Manzel | Space Funk | Unknown | https://www.deezer.com/track/9014548 |
+| 2026-07-18 | 10:01 | Lonnie Liston Smith | Expansions | Unknown | https://www.deezer.com/track/1733771197 |
+| 2026-07-18 | 09:58 | Ouanounou | Carmy (DJ Marfox Remix) | Unknown | https://www.deezer.com/track/2487348961 |
+| 2026-07-18 | 09:51 | Santos | Thinking Plinking | Unknown | https://www.deezer.com/track/3955465901 |
+| 2026-07-18 | 09:45 | Afefe Iku | Mirror Dance | Unknown | https://www.deezer.com/track/3155501431 |
+| 2026-07-18 | 09:41 | Los Charly’s Orchestra | It's So | Unknown | https://www.deezer.com/track/1301519162 |
+| 2026-07-18 | 09:38 | MR TAFFA | Safari | Unknown | https://www.deezer.com/track/1986460767 |
+| 2026-07-18 | 09:35 | No Smoke | Righteous Rule (Vocal) | Unknown | https://www.deezer.com/track/2206923427 |
+| 2026-07-18 | 09:20 | Marla Kether & Mez | Blessing | Unknown | https://www.deezer.com/track/4023325431 |
+| 2026-07-18 | 09:16 | Laza | To The Rhythm That We Love | Unknown | https://www.deezer.com/track/4047135471 |
+| 2026-07-18 | 08:26 | Shango Gang | Brooklyn | Unknown | https://www.deezer.com/track/4080493701 |
+| 2026-07-18 | 08:20 | Un Dos Tres y Fuera | San Juan, Tambor y Fuera | Unknown | https://www.deezer.com/track/124512060 |
+| 2026-07-18 | 07:37 | Kitchens of Distinction | Drive That Fast | Unknown | https://www.deezer.com/track/2629558592 |
+| 2026-07-18 | 07:23 | Beyoncé | Work It Out | Unknown | https://www.deezer.com/track/898158 |
+| 2026-07-18 | 07:21 | Missy Elliott | I'm Better (feat. Lamb) | Unknown | https://www.deezer.com/track/140932625 |
+| 2026-07-18 | 07:01 | APB | Shoot You Down | Unknown | https://www.deezer.com/track/1902112067 |
+| 2026-07-18 | 06:58 | Whyte Horses | Never Took the Time | Unknown | https://www.deezer.com/track/627433692 |
+| 2026-07-18 | 06:51 | Rage Against the Machine | Know Your Enemy | Unknown | https://www.deezer.com/track/15177228 |
+| 2026-07-18 | 06:43 | Irma Thomas | Anyone Who Knows What Love Is (Will Understand) | Unknown | https://www.deezer.com/track/11219974 |
+| 2026-07-18 | 06:34 | The Strangers | Mama Tried | Unknown | https://www.deezer.com/track/3233484 |
+| 2026-07-18 | 06:26 | Flamin’ Groovies | Shake Some Action | Unknown | https://www.deezer.com/track/3667780 |
+| 2026-07-18 | 06:22 | Laura Nyro | Stoned Soul Picnic | Unknown | https://www.deezer.com/track/623682 |
+| 2026-07-18 | 06:01 | Junior Senior | Move Your Feet | Unknown | https://www.deezer.com/track/597208142 |
+| 2026-07-18 | 05:59 | LaVern Baker | See See Rider | Unknown | https://www.deezer.com/track/144931154 |
+| 2026-07-18 | 05:49 | The Turtles | You Showed Me | Unknown | https://www.deezer.com/track/1467065 |
+| 2026-07-18 | 05:41 | Jonathan Richman | I Was Dancing In The Lesbian Bar | Unknown | https://www.deezer.com/track/107772602 |
+| 2026-07-18 | 05:36 | Ravyn Lenae | Love Me Not | Unknown | https://www.deezer.com/track/2755315691 |
+| 2026-07-18 | 05:33 | Booker T. & The M.G.'s | Green Onions | Unknown | https://www.deezer.com/track/358680521 |
+| 2026-07-18 | 05:27 | Allen Toussaint | Soul Sister | Unknown | https://www.deezer.com/track/6635400 |
+| 2026-07-18 | 05:24 | Bangs | Tiger Beat | Unknown | https://www.deezer.com/track/30507941 |
+| 2026-07-18 | 05:21 | Prince | Darling Nikki | Unknown | https://www.deezer.com/track/2806039662 |
+| 2026-07-18 | 05:10 | Pere Ubu | The Modern Dance | Unknown | https://www.deezer.com/track/2120444627 |
+| 2026-07-18 | 05:03 | Feist | My Moon My Man | Unknown | https://www.deezer.com/track/13653705 |
+| 2026-07-18 | 05:00 | The Meters | Cissy Strut | Unknown | https://www.deezer.com/track/735862 |
+| 2026-07-18 | 03:46 | Badly Drawn Boy | The Shining | Unknown | https://www.deezer.com/track/950284 |
+| 2026-07-18 | 03:28 | Joni Mitchell | Chelsea Morning | Unknown | https://www.deezer.com/track/3957778 |
+| 2026-07-18 | 03:18 | Sharon Van Etten | Serpents | Unknown | https://www.deezer.com/track/73915552 |
+| 2026-07-18 | 03:13 | Energy 52 | Café Del Mar | Unknown | https://www.deezer.com/track/633930282 |
+| 2026-07-18 | 02:21 | Phil France | Cathedrals | Unknown | https://www.deezer.com/track/1440408892 |
+| 2026-07-18 | 01:42 | ZENA | MY LOVE YOUR LOVE | Unknown | https://www.deezer.com/track/3728287392 |
+| 2026-07-18 | 01:27 | Wailing Souls | Very Well | Unknown | https://www.deezer.com/track/3257380631 |
+| 2026-07-18 | 00:40 | Harold Budd | The White Arcades | Unknown | https://www.deezer.com/track/73451594 |
+| 2026-07-18 | 00:32 | Andrew Pekler | Western Affect | Unknown | https://www.deezer.com/track/2445413785 |
+| 2026-07-18 | 00:25 | Piotr Kurek | Harps | Unknown | https://www.deezer.com/track/2349588045 |
+| 2026-07-18 | 00:14 | Yara Asmar | three clementines on the counter of a blue-tiled sun-soaked kitchen | Unknown | https://www.deezer.com/track/2688691092 |
+| 2026-07-18 | 00:09 | Rezo Glonti | Caveman | Unknown | https://www.deezer.com/track/2154859527 |
