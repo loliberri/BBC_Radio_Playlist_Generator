@@ -9244,3 +9244,72 @@ source: BBC Radio 6
 | 2026-07-26 | 00:34 | The Smashing Pumpkins | Perfect | Unknown | https://www.deezer.com/track/84842025 |
 | 2026-07-26 | 00:18 | Those Holy | New Skin | Unknown | https://www.deezer.com/track/4114023001 |
 | 2026-07-26 | 00:14 | Sam Amidon | Walking on Sunshine | Unknown | https://www.deezer.com/track/67601028 |
+| 2026-07-27 | 15:55 | David Byrne | Every Day Is a Miracle | Unknown | https://www.deezer.com/track/466342472 |
+| 2026-07-27 | 15:48 | David Byrne | Once in a Lifetime (Live) | Unknown | https://www.deezer.com/track/779573592 |
+| 2026-07-27 | 15:41 | David Byrne | Hell You Talmbout (Live) | Unknown | https://www.deezer.com/track/779573682 |
+| 2026-07-27 | 15:33 | Talking Heads | Girlfriend is Better (Live) | Unknown | https://www.deezer.com/track/14628741 |
+| 2026-07-27 | 15:21 | David Byrne | Here (Live) | Unknown | https://www.deezer.com/track/779573512 |
+| 2026-07-27 | 15:09 | Arcade Fire | Speaking in Tongues (feat. David Byrne) | Unknown | https://www.deezer.com/track/514947342 |
+| 2026-07-27 | 15:07 | David Byrne | Toe Jam (Live) | Unknown | https://www.deezer.com/track/779573612 |
+| 2026-07-27 | 14:38 | Gong | Tried So Hard | Unknown | https://www.deezer.com/track/96723920 |
+| 2026-07-27 | 14:32 | The Pre New | Cathedral City Comedown | Unknown | https://www.deezer.com/track/1906874137 |
+| 2026-07-27 | 14:12 | John Cale | Child's Christmas In Wales | Unknown | https://www.deezer.com/track/2947350381 |
+| 2026-07-27 | 14:08 | The Temptations | Cloud Nine | Unknown | https://www.deezer.com/track/4243633 |
+| 2026-07-27 | 14:00 | The Seeds | Mr Farmer | Unknown | https://www.deezer.com/track/7822206 |
+| 2026-07-27 | 13:45 | David Bowie | Drive-In Saturday | Unknown | https://www.deezer.com/track/107474562 |
+| 2026-07-27 | 13:34 | Serge Gainsbourg & Brigitte Bardot | Bonnie and Clyde | Unknown | https://www.deezer.com/track/508426652 |
+| 2026-07-27 | 13:26 | John Cooper Clarke | Thirty Six Hours | Unknown | https://www.deezer.com/track/1407318032 |
+| 2026-07-27 | 13:19 | Captain Beefheart & His Magic Band | Yellow Brick Road | Unknown | https://www.deezer.com/track/15404595 |
+| 2026-07-27 | 13:10 | Georgie Fame | Somebody Stole My Thunder | Unknown | https://www.deezer.com/track/2246208 |
+| 2026-07-27 | 13:04 | The Velvet Underground | Venus In Furs | Unknown | https://www.deezer.com/track/61292502 |
+| 2026-07-27 | 13:00 | Siouxsie and the Banshees | The Staircase (Mystery) | Unknown | https://www.deezer.com/track/527823721 |
+| 2026-07-27 | 12:24 | Douvelle19 | No Tomorrow | Unknown | https://www.deezer.com/track/4009109191 |
+| 2026-07-27 | 12:10 | Q | i wish you were here | Unknown | https://www.deezer.com/track/4166037252 |
+| 2026-07-27 | 12:05 | Worldpeace DMT | Bigger Than Jesus | Unknown | https://www.deezer.com/track/4121490531 |
+| 2026-07-27 | 11:50 | 2hollis | hurt | Unknown | https://www.deezer.com/track/4164491732 |
+| 2026-07-27 | 11:46 | Nikki Nair | Odd Sympathy | Unknown | https://www.deezer.com/track/4107957531 |
+| 2026-07-27 | 11:41 | MOULD | Hatching | Unknown | https://www.deezer.com/track/3924060701 |
+| 2026-07-27 | 11:18 | Night Tapes | to be free - remastered | Unknown | https://www.deezer.com/track/4122833271 |
+| 2026-07-27 | 11:14 | Portraits Of Tracy | Royal Courts (Great Misfortune) | Unknown | https://www.deezer.com/track/4105416611 |
+| 2026-07-27 | 11:04 | twisted teens | Florida Water Blues | Unknown | https://www.deezer.com/track/4109141611 |
+| 2026-07-27 | 10:57 | Olivia Rodrigo | stupid song | Unknown | https://www.deezer.com/track/4078104881 |
+| 2026-07-27 | 10:45 | Saint Clair | Something To Be Said | Unknown | https://www.deezer.com/track/4018184831 |
+| 2026-07-27 | 10:26 | The Strokes | Alone, Together | Unknown | https://www.deezer.com/track/15615275 |
+| 2026-07-27 | 09:47 | The Afghan Whigs | Debonair | Unknown | https://www.deezer.com/track/88278907 |
+| 2026-07-27 | 09:45 | The Jacksons | I Want You Back | Unknown | https://www.deezer.com/track/3967022541 |
+| 2026-07-27 | 09:44 | Angelo Badalamenti | Twin Peaks Theme | Unknown | https://www.deezer.com/track/7337260 |
+| 2026-07-27 | 09:38 | Radie Peat | Still I Love Him | Unknown | https://www.deezer.com/track/4096429131 |
+| 2026-07-27 | 09:28 | ear | Threads | Unknown | https://www.deezer.com/track/4004890631 |
+| 2026-07-27 | 09:10 | Chloe Slater | MOTHER NATURE'S KILLING SPREE | Unknown | https://www.deezer.com/track/4116819551 |
+| 2026-07-27 | 09:05 | The Beach Boys | Help Me, Rhonda | Unknown | https://www.deezer.com/track/3091972 |
+| 2026-07-27 | 09:02 | The Go! Team | Mayday | Unknown | https://www.deezer.com/track/406646402 |
+| 2026-07-27 | 08:55 | Mura Masa & Ledbyher | Needja | Unknown | https://www.deezer.com/track/4077120561 |
+| 2026-07-27 | 08:48 | Keo | Pistol | Unknown | https://www.deezer.com/track/4141475511 |
+| 2026-07-27 | 08:36 | The Lathums | Vice Versa | Unknown | https://www.deezer.com/track/4057921741 |
+| 2026-07-27 | 08:33 | The Housemartins | Five Get Over Excited | Unknown | https://www.deezer.com/track/85032757 |
+| 2026-07-27 | 08:22 | Iona Luke | Can We Still Hang Out | Unknown | https://www.deezer.com/track/4000495571 |
+| 2026-07-27 | 08:20 | Yard Act | Cherophobe Rock | Unknown | https://www.deezer.com/track/4144817322 |
+| 2026-07-27 | 08:03 | Ella Thompson | Dandelion | Unknown | https://www.deezer.com/track/4099884631 |
+| 2026-07-27 | 08:01 | Blur | Jubilee | Unknown | https://www.deezer.com/track/44134731 |
+| 2026-07-27 | 07:52 | Abracadabra | peel away | Unknown | https://www.deezer.com/track/3988994271 |
+| 2026-07-27 | 07:13 | Marva Whitney | Don't Let Our Love Fade Away | Unknown | https://www.deezer.com/track/571901482 |
+| 2026-07-27 | 07:07 | Gene Ammons | Ca' Purange (Jungle Soul) | Unknown | https://www.deezer.com/track/1143290 |
+| 2026-07-27 | 06:56 | Dr. Lonnie Smith & Iggy Pop | Why Can't We Live Together | Unknown | https://www.deezer.com/track/1280006282 |
+| 2026-07-27 | 06:46 | Stephen Malkmus & Von Spar | Vitamin C | Unknown | https://www.deezer.com/track/1256768502 |
+| 2026-07-27 | 05:58 | London Grammar | Hey Now | Unknown | https://www.deezer.com/track/144540580 |
+| 2026-07-27 | 05:48 | Eric B. & Rakim | Follow The Leader | Unknown | https://www.deezer.com/track/2508430 |
+| 2026-07-27 | 05:17 | Jungle Brothers | Because I Got It Like That | Unknown | https://www.deezer.com/track/95989022 |
+| 2026-07-27 | 05:13 | Catatonia | Mulder And Scully | Unknown | https://www.deezer.com/track/6470388 |
+| 2026-07-27 | 04:33 | Tame Impala | Feels Like We Only Go Backwards | Unknown | https://www.deezer.com/track/60765507 |
+| 2026-07-27 | 03:54 | Sissi Rada | Nana Butu | Unknown | https://www.deezer.com/track/3697737902 |
+| 2026-07-27 | 03:49 | Hole | Malibu | Unknown | https://www.deezer.com/track/2229887 |
+| 2026-07-27 | 03:41 | Jaco Pastorius | Come On, Come Over | Unknown | https://www.deezer.com/track/15743020 |
+| 2026-07-27 | 03:25 | Hercules & Love Affair | My Journey | Unknown | https://www.deezer.com/track/4092172471 |
+| 2026-07-27 | 03:22 | Darren Emerson | Dark and Long (Dark Train) | Unknown | https://www.deezer.com/track/4143528571 |
+| 2026-07-27 | 02:57 | The House of Love | Shine On | Unknown | https://www.deezer.com/track/927855 |
+| 2026-07-27 | 02:14 | Wonky Logic | Underneath The Same Sky | Unknown | https://www.deezer.com/track/4114571791 |
+| 2026-07-27 | 01:51 | Aldous Harding | Coats | Unknown | https://www.deezer.com/track/3964400871 |
+| 2026-07-27 | 01:19 | Wednesday | Bitter Everyday | Unknown | https://www.deezer.com/track/3319539541 |
+| 2026-07-27 | 01:11 | Black Science Orchestra | Heavy Gospel Morning | Unknown | https://www.deezer.com/track/2197509177 |
+| 2026-07-27 | 01:02 | The Velvet Underground | There She Goes Again | Unknown | https://www.deezer.com/track/61292506 |
+| 2026-07-27 | 00:47 | Jacob Alon | Confession | Unknown | https://www.deezer.com/track/3380570441 |
