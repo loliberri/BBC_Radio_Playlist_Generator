@@ -9313,3 +9313,74 @@ source: BBC Radio 6
 | 2026-07-27 | 01:11 | Black Science Orchestra | Heavy Gospel Morning | Unknown | https://www.deezer.com/track/2197509177 |
 | 2026-07-27 | 01:02 | The Velvet Underground | There She Goes Again | Unknown | https://www.deezer.com/track/61292506 |
 | 2026-07-27 | 00:47 | Jacob Alon | Confession | Unknown | https://www.deezer.com/track/3380570441 |
+| 2026-07-28 | 18:58 | Aldous Harding | Fever | Unknown | https://www.deezer.com/track/1654908182 |
+| 2026-07-28 | 18:55 | Beth Orton | The Ground Above | Unknown | https://www.deezer.com/track/3693553832 |
+| 2026-07-28 | 18:49 | Beth Orton | Weather Alive | Unknown | https://www.deezer.com/track/3124675871 |
+| 2026-07-28 | 18:43 | The Chemical Brothers | Alive Alone | Unknown | https://www.deezer.com/track/3128276 |
+| 2026-07-28 | 18:38 | Beth Orton | Central Reservation | Unknown | https://www.deezer.com/track/2454905 |
+| 2026-07-28 | 18:26 | The Judds | Drops of Water | Unknown | https://www.deezer.com/track/75779008 |
+| 2026-07-28 | 18:22 | David Bowie | Oh! You Pretty Things | Unknown | https://www.deezer.com/track/107474518 |
+| 2026-07-28 | 18:19 | Lloyd Cole and the Commotions | Sweetness (Live At The Barrowlands (09/09/85)) | Unknown | https://www.deezer.com/track/4244120 |
+| 2026-07-28 | 18:17 | The Fall | Rowche Rumble | Unknown | https://www.deezer.com/track/790592202 |
+| 2026-07-28 | 18:13 | Rod Stewart | It's Not The Spotlight | Unknown | https://www.deezer.com/track/2550752 |
+| 2026-07-28 | 18:11 | Roxy Music | More Than This | Unknown | https://www.deezer.com/track/3088609 |
+| 2026-07-28 | 18:06 | The Beatles | Tomorrow Never Knows | Unknown | https://www.deezer.com/track/116348424 |
+| 2026-07-28 | 17:51 | Marvin Gaye | Stubborn Kind Of Fellow | Unknown | https://www.deezer.com/track/82108366 |
+| 2026-07-28 | 17:46 | Radhika | Feline Bandits | Unknown | https://www.deezer.com/track/3962575361 |
+| 2026-07-28 | 17:41 | A Certain Ratio | Lucinda | Unknown | https://www.deezer.com/track/133123764 |
+| 2026-07-28 | 17:27 | Immersion | Megafauna | Unknown | https://www.deezer.com/track/4044082921 |
+| 2026-07-28 | 17:05 | Personal Trainer | Hole | Unknown | https://www.deezer.com/track/3919908551 |
+| 2026-07-28 | 17:00 | Mark Lanegan | One Hundred Days | Unknown | https://www.deezer.com/track/939036 |
+| 2026-07-28 | 16:57 | Chuck Berry | Let It Rock | Unknown | https://www.deezer.com/track/780603902 |
+| 2026-07-28 | 16:46 | Brigid Dawson & The Mothers Network | The Fool | Unknown | https://www.deezer.com/track/932808652 |
+| 2026-07-28 | 16:22 | Goodies | The Goodies' Theme | Unknown | https://www.deezer.com/track/3785925022 |
+| 2026-07-28 | 16:05 | The Odyssey Cult | Back To The Cave | Unknown | https://www.deezer.com/track/4136226501 |
+| 2026-07-28 | 16:00 | Ian Hunter | Once Bitten, Twice Shy | Unknown | https://www.deezer.com/track/5404464 |
+| 2026-07-28 | 15:52 | 54 Ultra | Tell Me | Unknown | https://www.deezer.com/track/4168253862 |
+| 2026-07-28 | 15:40 | Fuzz Council | Subscribe (feat. BIG SPECIAL) | Unknown | https://www.deezer.com/track/4162790312 |
+| 2026-07-28 | 15:07 | FEET | Odessa | Unknown | https://www.deezer.com/track/4138236591 |
+| 2026-07-28 | 15:04 | Yves Jarvis | I Still Do | Unknown | https://www.deezer.com/track/4146240302 |
+| 2026-07-28 | 14:54 | Spike | Event Horizon | Unknown | https://www.deezer.com/track/3761763652 |
+| 2026-07-28 | 14:22 | deed0t | Same Faces | Unknown | https://www.deezer.com/track/4062368591 |
+| 2026-07-28 | 14:03 | Vehicle | Escalators | Unknown | https://www.deezer.com/track/4131170921 |
+| 2026-07-28 | 13:33 | The Fall | Totally Wired | Unknown | https://www.deezer.com/track/3785991062 |
+| 2026-07-28 | 13:12 | Subway Sect | Ambition | Unknown | https://www.deezer.com/track/1480536 |
+| 2026-07-28 | 13:08 | Television | Little Johnny Jewel | Unknown | https://www.deezer.com/track/752331 |
+| 2026-07-28 | 13:01 | Métal Urbain | Paris Maquis | Unknown | https://www.deezer.com/track/1108341162 |
+| 2026-07-28 | 12:42 | Orbital | Halcyon | Unknown | https://www.deezer.com/track/428937302 |
+| 2026-07-28 | 12:23 | Prefab Sprout | Cars And Girls | Unknown | https://www.deezer.com/track/863398 |
+| 2026-07-28 | 12:15 | Sam Fender | Hypersonic Missiles | Unknown | https://www.deezer.com/track/750100622 |
+| 2026-07-28 | 12:08 | The Coral | In The Morning | Unknown | https://www.deezer.com/track/560769 |
+| 2026-07-28 | 11:53 | Jamie T | Zombie | Unknown | https://www.deezer.com/track/85417912 |
+| 2026-07-28 | 11:09 | Naughty by Nature | It's On | Unknown | https://www.deezer.com/track/1584431802 |
+| 2026-07-28 | 11:00 | The Futureheads | Radio Heart | Unknown | https://www.deezer.com/track/488790712 |
+| 2026-07-28 | 10:56 | Fox | S-S-S-Single Bed | Unknown | https://www.deezer.com/track/1634573162 |
+| 2026-07-28 | 10:08 | Steve Kuhn | The Meaning Of Love | Unknown | https://www.deezer.com/track/488548382 |
+| 2026-07-28 | 09:56 | Lou Reed | This Magic Moment | Unknown | https://www.deezer.com/track/549295062 |
+| 2026-07-28 | 09:41 | Rodriguez | I Think Of You | Unknown | https://www.deezer.com/track/540499052 |
+| 2026-07-28 | 08:47 | Portishead | Over | Unknown | https://www.deezer.com/track/984283 |
+| 2026-07-28 | 08:34 | The Strokes | Under Cover Of Darkness | Unknown | https://www.deezer.com/track/10101602 |
+| 2026-07-28 | 08:17 | Trentemøller | Moan | Unknown | https://www.deezer.com/track/1766415307 |
+| 2026-07-28 | 08:13 | Cold War Kids | Hang Me Up To Dry | Unknown | https://www.deezer.com/track/598067472 |
+| 2026-07-28 | 07:43 | Toro y Moi | Laws Of The Universe | Unknown | https://www.deezer.com/track/1475658962 |
+| 2026-07-28 | 07:11 | The Sylvers | Wish That I Could Talk To You (Kenny Dope Edit) | Unknown | https://www.deezer.com/track/3959995581 |
+| 2026-07-28 | 06:55 | Akusmi & Dudu' Kouate | Dawning Dusk | Unknown | https://www.deezer.com/track/3911616111 |
+| 2026-07-28 | 06:34 | Mazzy Star | Flowers In December | Unknown | https://www.deezer.com/track/3130620 |
+| 2026-07-28 | 06:13 | Curió Curió | Canto de Calma | Unknown | https://www.deezer.com/track/3959616501 |
+| 2026-07-28 | 05:55 | Ride | Leave Them All Behind | Unknown | https://www.deezer.com/track/63651895 |
+| 2026-07-28 | 05:47 | Mansun | Wide Open Space | Unknown | https://www.deezer.com/track/3016759781 |
+| 2026-07-28 | 05:36 | Salad | Drink The Elixir | Unknown | https://www.deezer.com/track/1578521 |
+| 2026-07-28 | 05:23 | Beth Orton | Stolen Car | Unknown | https://www.deezer.com/track/628648 |
+| 2026-07-28 | 04:54 | Mitski | My Love Mine All Mine | Unknown | https://www.deezer.com/track/2365569495 |
+| 2026-07-28 | 04:20 | Lil’ Kim | (When Kim Say) Can You Hear Me Now? (feat. Missy Elliott) | Unknown | https://www.deezer.com/track/3892036 |
+| 2026-07-28 | 03:56 | ANOHNI and the Johnsons | Hope There's Someone | Unknown | https://www.deezer.com/track/946031 |
+| 2026-07-28 | 03:49 | Nick Cave & the Bad Seeds | Nature Boy | Unknown | https://www.deezer.com/track/3803599862 |
+| 2026-07-28 | 03:44 | James Brown | Hot Pants | Unknown | https://www.deezer.com/track/693415152 |
+| 2026-07-28 | 03:34 | Disclosure | ENERGY | Unknown | https://www.deezer.com/track/1059203012 |
+| 2026-07-28 | 03:23 | Sasha | Xpander | Unknown | https://www.deezer.com/track/995732 |
+| 2026-07-28 | 03:16 | The Last Shadow Puppets | The Age of The Understatement | Unknown | https://www.deezer.com/track/4315518 |
+| 2026-07-28 | 02:53 | Public Enemy | Harder Than You Think | Unknown | https://www.deezer.com/track/101517782 |
+| 2026-07-28 | 01:43 | Parliament | Up For The Down Stroke | Unknown | https://www.deezer.com/track/2515104 |
+| 2026-07-28 | 01:16 | The Smithereens | Blue Period | Unknown | https://www.deezer.com/track/3177625 |
+| 2026-07-28 | 01:10 | M.A.N.D.Y. | Body Language | Unknown | https://www.deezer.com/track/2171027587 |
+| 2026-07-28 | 00:32 | Opus Kink | Will It Come For You? | Unknown | https://www.deezer.com/track/3892830061 |
