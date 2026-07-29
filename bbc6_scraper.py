@@ -1,18 +1,23 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Link to music listings
-BBC6_URL = "https://onlineradiobox.com/uk/bbcradio6/playlist/"
+# Dictionary of station name -> playlist URL
+STATIONS = {
+    "bbc6": "https://onlineradiobox.com/uk/bbcradio6/playlist/",
+    "bbc1": "https://onlineradiobox.com/uk/bbcdance/playlist/",
+    "bbc2": "https://onlineradiobox.com/uk/bbcradio2/playlist/",
+    "bbc3": "https://onlineradiobox.com/uk/bbcradio3/playlist/",
+}
 
 
-def scrape_bbc6_playlist():
+def scrape_playlist(url):
     """
-    Scrape the BBC Radio 6 playlist from OnlineRadioBox.
+    Scrape a playlist from OnlineRadioBox for a given station URL.
     Returns a list of dicts: {"title": ..., "artist": ..., "time": ...}.
     """
 
     # Sends a HTML get request to website
-    resp = requests.get(BBC6_URL)
+    resp = requests.get(url)
 
     # Raises an error if the request has failed
     resp.raise_for_status()
@@ -38,11 +43,8 @@ def scrape_bbc6_playlist():
         if len(cells) != 2:
             continue  # skip header or weird rows
 
-        # Assign time to the 1st cell
-        time_cell = cells[0]
-
-        # Assign info to the 2nd cell
-        info_cell = cells[1]
+        # Assign time to the 1st cell, info to the 2nd cell
+        time_cell, info_cell = cells
 
         # Extract info and exclude whitespace
         time_text = time_cell.get_text(strip=True)
@@ -53,23 +55,18 @@ def scrape_bbc6_playlist():
             continue
 
         # info_text typically looks like "Artist - Song Title"
-        # Split on the first " - " dash.
         if " - " in info_text:
             artist_text, title_text = info_text.split(" - ", 1)
         else:
-            # If no - then leave artist blank
             artist_text = ""
             title_text = info_text
 
-        # Cleaning up whitespace
         artist_text = artist_text.strip()
         title_text = title_text.strip()
 
-        # If title is empty, skip that row
         if not title_text:
             continue
 
-        # Store the information in a dictionary
         tracks.append(
             {
                 "title": title_text,
@@ -78,19 +75,30 @@ def scrape_bbc6_playlist():
             }
         )
 
-    # Return the full list of tracks
     return tracks
+
+
+def scrape_all_stations(stations):
+    """
+    Loop through a dict of {station_name: url} and scrape each one.
+    Returns a dict of {station_name: list_of_tracks}.
+    """
+    results = {}
+    for name, url in stations.items():
+        try:
+            results[name] = scrape_playlist(url)
+        except requests.RequestException as e:
+            print(f"Failed to scrape {name}: {e}")
+            results[name] = []
+    return results
 
 
 # Only run if executed directly
 if __name__ == "__main__":
 
-    # Run the program
-    songs = scrape_bbc6_playlist()
+    all_songs = scrape_all_stations(STATIONS)
 
-    # Print how many tracks were scraped
-    print(f"Found {len(songs)} tracks")
-
-    # Print the first 20 tracks
-    for song in songs[:20]:
-        print(f"{song['time']} - {song['artist']} – {song['title']}")
+    for station, songs in all_songs.items():
+        print(f"\n=== {station} : {len(songs)} tracks ===")
+        for song in songs[:20]:
+            print(f"{song['time']} - {song['artist']} – {song['title']}")
