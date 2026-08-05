@@ -12,3 +12,5 @@ Script started (daily) for bbc3
 Script finished (daily) for bbc3. Matched 56 tracks.
 Script started (daily) for bbc3
 Script finished (daily) for bbc3. Matched 42 tracks.
+Script started (daily) for bbc3
+Script finished (daily) for bbc3. Matched 39 tracks.
