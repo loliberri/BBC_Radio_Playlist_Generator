@@ -52,5 +52,5 @@ jobs:
           fi
           git commit -m "Nightly update: $(date -u +'%Y-%m-%d')"
           git pull --rebase origin main
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/loliberri/new-music-scraper.git HEAD:main
+         git push https://x-access-token:${GITHUB_TOKEN}@github.com/loliberri/BBC_Radio_Playlist_Generator.git HEAD:main
 ```
