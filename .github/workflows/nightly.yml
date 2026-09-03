@@ -1,4 +1,3 @@
-
 name: Nightly BBC6 Scraper
 
 on:
@@ -53,4 +52,3 @@ jobs:
           git commit -m "Nightly update: $(date -u +'%Y-%m-%d')"
           git pull --rebase origin main
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/loliberri/BBC_Radio_Playlist_Generator.git HEAD:main
-```
