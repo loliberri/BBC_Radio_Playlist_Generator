@@ -1,3 +1,4 @@
+```yaml
 name: Nightly BBC6 Scraper
 
 on:
@@ -52,3 +53,4 @@ jobs:
           git commit -m "Nightly update: $(date -u +'%Y-%m-%d')"
           git pull --rebase origin main
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/loliberri/new-music-scraper.git HEAD:main
+```
