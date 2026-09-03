@@ -3,9 +3,40 @@ import sys
 import csv
 from time import sleep
 from datetime import date
+import os
+import requests
 
 from bbc6_scraper import STATIONS, scrape_playlist
 from deezer_lookup import search_deezer_track
+from bs4 import BeautifulSoup
+from google.oauth2.credentials import Credentials
+from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
+
+
+YOUTUBE_SCOPES = [
+    "https://www.googleapis.com/auth/youtube"
+]
+
+
+def get_youtube_service():
+    credentials = Credentials(
+        token=None,
+        refresh_token=os.environ["YOUTUBE_REFRESH_TOKEN"],
+        token_uri="https://oauth2.googleapis.com/token",
+        client_id=os.environ["YOUTUBE_CLIENT_ID"],
+        client_secret=os.environ["YOUTUBE_CLIENT_SECRET"],
+        scopes=YOUTUBE_SCOPES,
+    )
+
+    credentials.refresh(Request())
+
+    return build(
+        "youtube",
+        "v3",
+        credentials=credentials
+    )
+
 
 # creates an output directory
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
