@@ -69,7 +69,10 @@ def process_station(station_name, url):
     except Exception as e:
         print(f"Failed to scrape {station_name}: {e}")
         return []
-
+        
+    # Authenticate with YouTube    
+    youtube = get_youtube_service()
+    
     print(f"Scraped {len(songs)} tracks from {station_name}")
 
     enriched = []
