@@ -1,1 +1,3 @@
 Script started (daily) for BBC Radio 3 - Recently Played
+Script started for BBC Radio 3 - Recently Played
+Script finished for BBC Radio 3 - Recently Played. New songs: 39, YouTube added: 0, Failed: 111
