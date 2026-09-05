@@ -51,14 +51,15 @@ def get_youtube_service():
 def get_or_create_playlist(youtube, station_name):
     """
     Find a YouTube playlist matching the station name.
-    If it doesn't exist, create it.
+
+    Returns:
+        (playlist_id, created)
     """
 
     playlist_title = station_name
 
     print(f"Checking YouTube playlist: {playlist_title}")
 
-    # Get all playlists belonging to the authenticated account.
     request = youtube.playlists().list(
         part="snippet",
         mine=True,
@@ -79,7 +80,7 @@ def get_or_create_playlist(youtube, station_name):
                     f"{title} ({playlist_id})"
                 )
 
-                return playlist_id
+                return playlist_id, False
 
         request = youtube.playlists().list_next(
             request,
@@ -114,8 +115,8 @@ def get_or_create_playlist(youtube, station_name):
         f"{playlist_title} ({playlist_id})"
     )
 
-    return playlist_id
-
+    return playlist_id, True
+    
 
 def get_playlist_video_ids(youtube, playlist_id):
     """
