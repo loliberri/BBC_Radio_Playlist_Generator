@@ -224,11 +224,21 @@ def populate_station(
         f"Songs to process: {len(songs)}"
     )
 
-    playlist_id = get_or_create_playlist(
-        youtube,
-        station_name
+    playlist_id, playlist_was_created = get_or_create_playlist(
+    youtube,
+    station_name
+)
+
+if playlist_was_created:
+    # We just created the playlist, so it is empty.
+    existing_video_ids = set()
+
+    print(
+        "Playlist was just created, so it is empty."
     )
 
+else:
+    # Existing playlist - check which videos are already there.
     existing_video_ids = get_playlist_video_ids(
         youtube,
         playlist_id
