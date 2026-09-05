@@ -2,6 +2,21 @@ name: Populate YouTube Playlists
 
 on:
   workflow_dispatch:
+    inputs:
+      station:
+        description: "Station to populate"
+        required: true
+        default: "bbc6"
+
+      start:
+        description: "Starting row (0 = beginning)"
+        required: true
+        default: "0"
+
+      limit:
+        description: "Number of songs to process"
+        required: true
+        default: "5"
 
 permissions:
   contents: read
@@ -29,4 +44,8 @@ jobs:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-        run: python populate_youtube_playlists.py
+        run: |
+          python populate_youtube_playlists.py \
+            "${{ inputs.station }}" \
+            "${{ inputs.start }}" \
+            "${{ inputs.limit }}"
