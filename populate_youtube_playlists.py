@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 from time import sleep
 
 from google.oauth2.credentials import Credentials
@@ -250,6 +251,7 @@ def load_csv(station_name):
 def populate_station(
     youtube,
     station_name,
+    start=0,
     limit=None
 ):
     """Populate one station's YouTube playlist."""
@@ -273,8 +275,9 @@ def populate_station(
 
         return
 
+    songs = songs[start:]
+    
     if limit:
-
         songs = songs[:limit]
 
     print(
@@ -457,6 +460,18 @@ def populate_station(
 def main():
 
     # --------------------------------------------------------
+    # Read GitHub Action inputs
+    # --------------------------------------------------------
+
+    station = sys.argv[1] if len(sys.argv) > 1 else "bbc6"
+    start = int(sys.argv[2]) if len(sys.argv) > 2 else 0
+    limit = int(sys.argv[3]) if len(sys.argv) > 3 else 5
+
+    print(f"Station: {station}")
+    print(f"Starting row: {start}")
+    print(f"Songs to process: {limit}")
+
+    # --------------------------------------------------------
     # Authenticate
     # --------------------------------------------------------
 
@@ -467,34 +482,15 @@ def main():
     )
 
     # --------------------------------------------------------
-    # STATIONS
-    #
-    # Start with BBC6 only.
-    # --------------------------------------------------------
-
-    stations = [
-        "bbc6",
-    ]
-
-    # --------------------------------------------------------
-    # TEST LIMIT
-    #
-    # Start with 5 songs.
-    # --------------------------------------------------------
-
-    LIMIT = 5
-
-    # --------------------------------------------------------
     # Populate
     # --------------------------------------------------------
 
-    for station in stations:
-
-        populate_station(
-            youtube,
-            station,
-            limit=LIMIT
-        )
+    populate_station(
+        youtube,
+        station,
+        start=start,
+        limit=limit
+    )
 
 
 if __name__ == "__main__":
