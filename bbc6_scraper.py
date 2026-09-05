@@ -33,10 +33,10 @@ def get_youtube_service():
 
 # Dictionary of station name -> playlist URL
 STATIONS = {
-    "bbc6": "https://onlineradiobox.com/uk/bbcradio6/playlist/",
-    "bbc1": "https://onlineradiobox.com/uk/bbcdance/playlist/",
-    "bbc2": "https://onlineradiobox.com/uk/bbcradio2/playlist/",
-    "bbc3": "https://onlineradiobox.com/uk/bbcradio3/playlist/",
+    "BBC Radio 6 - Recently Played": "https://onlineradiobox.com/uk/bbcradio6/playlist/",
+    "BBC Radio 1 - Recently Played": "https://onlineradiobox.com/uk/bbcdance/playlist/",
+    "BBC Radio 2 - Recently Played": "https://onlineradiobox.com/uk/bbcradio2/playlist/",
+    "BBC Radio 3 - Recently Played": "https://onlineradiobox.com/uk/bbcradio3/playlist/",
 }
 
 
