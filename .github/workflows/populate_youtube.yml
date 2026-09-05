@@ -16,7 +16,7 @@ on:
       limit:
         description: "Number of songs to process"
         required: true
-        default: "5"
+        default: "5000"
 
 permissions:
   contents: read
