@@ -9,3 +9,5 @@ Script started for BBC Radio 3 - Recently Played
 Script finished for BBC Radio 3 - Recently Played. New songs: 47, YouTube added: 0, Failed: 129
 Script started for BBC Radio 3 - Recently Played
 Script finished for BBC Radio 3 - Recently Played. New songs: 1, YouTube added: 1, Failed: 123
+Script started for BBC Radio 3 - Recently Played
+Script finished for BBC Radio 3 - Recently Played. New songs: 0, YouTube added: 0, Failed: 152
