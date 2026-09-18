@@ -15,3 +15,6 @@ Script started for BBC Radio 6 - Recently Played
 Script finished for BBC Radio 6 - Recently Played. New songs: 0, YouTube added: 0, Failed: 180
 Script started for BBC Radio 6 - Recently Played
 Script finished for BBC Radio 6 - Recently Played. New songs: 0, YouTube added: 0, Failed: 226
+
+Script started for BBC Radio 6 - Recently Played
+Script finished for BBC Radio 6 - Recently Played. New songs: 151, YouTube added: 104, YouTube failures: 47, CSV failures: 0
