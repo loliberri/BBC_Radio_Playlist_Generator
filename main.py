@@ -836,15 +836,27 @@ def process_station(
         except Exception as e:
 
             youtube_failed += 1
-
+        
+            error_message = str(e)
+        
             print(
-                f" -> YouTube search failed: "
-                f"{e}"
+                f"YOUTUBE FAILED:\n"
+                f"{artist} - {title}\n"
+                f"Reason: {error_message}"
             )
-
-            # IMPORTANT:
-            # Song remains safely stored in CSV.
-
+        
+            with open(
+                log_path,
+                "a",
+                encoding="utf-8"
+            ) as log:
+        
+                log.write(
+                    f"YOUTUBE FAILED: "
+                    f"{artist} - {title}\n"
+                    f"Reason: {error_message}\n"
+                )
+        
             continue
 
         # ----------------------------------------------------
@@ -903,11 +915,26 @@ def process_station(
         except Exception as e:
 
             youtube_failed += 1
-
+        
+            error_message = str(e)
+        
             print(
-                f" -> FAILED to add to "
-                f"YouTube playlist: {e}"
+                f"YOUTUBE FAILED:\n"
+                f"{artist} - {title}\n"
+                f"Reason: {error_message}"
             )
+        
+            with open(
+                log_path,
+                "a",
+                encoding="utf-8"
+            ) as log:
+        
+                log.write(
+                    f"YOUTUBE FAILED: "
+                    f"{artist} - {title}\n"
+                    f"Reason: {error_message}\n"
+                )
 
         # ----------------------------------------------------
         # Small delay
