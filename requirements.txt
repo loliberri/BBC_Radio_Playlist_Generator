@@ -1,8 +1,5 @@
 requests
 beautifulsoup4
-httpx
-lxml
-openpyxl
 google-auth
 google-auth-oauthlib
 google-api-python-client
