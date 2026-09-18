@@ -18,3 +18,6 @@ Script finished for BBC Radio 2 - Recently Played. New songs: 0, YouTube added: 
 
 Script started for BBC Radio 2 - Recently Played
 Script finished for BBC Radio 2 - Recently Played. New songs: 115, YouTube added: 3, YouTube failures: 112, CSV failures: 0
+
+Script started for BBC Radio 2 - Recently Played
+Script finished for BBC Radio 2 - Recently Played. New songs: 1, YouTube added: 0, YouTube failures: 1, CSV failures: 0
