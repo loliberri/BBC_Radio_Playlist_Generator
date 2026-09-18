@@ -34,6 +34,8 @@ FIELDNAMES = [
     "time",
     "artist",
     "title",
+    "genre",
+    "deezer_link",
 ]
 
 
@@ -210,12 +212,11 @@ def append_track_to_csv(
 
         writer.writerow({
             "date": date.today().isoformat(),
-            "time": track.get(
-                "time",
-                ""
-            ),
+            "time": track.get("time", ""),
             "artist": artist,
             "title": title,
+            "genre": "",
+            "deezer_link": "",
         })
 
     return True
