@@ -36,6 +36,8 @@ FIELDNAMES = [
     "title",
     "genre",
     "deezer_link",
+    "youtube_added",
+    "youtube_video_id",
 ]
 
 
@@ -97,16 +99,15 @@ def make_song_key(artist, title):
     return f"{artist}|{title}"
 
 
-def load_existing_keys(path):
+def load_csv_rows(path):
     """
-    Load every artist/title combination already present
-    in the station CSV.
-    """
+    Load all existing CSV rows.
 
-    existing_keys = set()
+    Returns a list of dictionaries.
+    """
 
     if not os.path.exists(path):
-        return existing_keys
+        return []
 
     try:
 
@@ -119,18 +120,7 @@ def load_existing_keys(path):
 
             reader = csv.DictReader(f)
 
-            for row in reader:
-
-                artist = row.get("artist", "")
-                title = row.get("title", "")
-
-                key = make_song_key(
-                    artist,
-                    title
-                )
-
-                if artist.strip() and title.strip():
-                    existing_keys.add(key)
+            return list(reader)
 
     except Exception as e:
 
@@ -139,7 +129,119 @@ def load_existing_keys(path):
             f"{path}: {e}"
         )
 
+        return []
+
+
+def load_existing_keys(path):
+    """
+    Load every artist/title combination already present
+    in the station CSV.
+    """
+
+    existing_keys = set()
+
+    rows = load_csv_rows(path)
+
+    for row in rows:
+
+        artist = row.get(
+            "artist",
+            ""
+        )
+
+        title = row.get(
+            "title",
+            ""
+        )
+
+        if artist.strip() and title.strip():
+
+            existing_keys.add(
+                make_song_key(
+                    artist,
+                    title
+                )
+            )
+
     return existing_keys
+
+
+def ensure_csv_format(path):
+    """
+    Make sure an existing CSV has the new YouTube columns.
+
+    Existing data is preserved.
+
+    This is important because older CSV files may only have:
+
+        date
+        time
+        artist
+        title
+        genre
+        deezer_link
+
+    The new version adds:
+
+        youtube_added
+        youtube_video_id
+    """
+
+    if not os.path.exists(path):
+        return
+
+    rows = load_csv_rows(path)
+
+    if not rows:
+        return
+
+    # Check whether the new columns already exist.
+    needs_update = False
+
+    for row in rows:
+
+        if "youtube_added" not in row:
+            needs_update = True
+
+        if "youtube_video_id" not in row:
+            needs_update = True
+
+    if not needs_update:
+        return
+
+    print(
+        f"Updating CSV format: {path}"
+    )
+
+    for row in rows:
+
+        if "genre" not in row:
+            row["genre"] = ""
+
+        if "deezer_link" not in row:
+            row["deezer_link"] = ""
+
+        if "youtube_added" not in row:
+            row["youtube_added"] = "pending"
+
+        if "youtube_video_id" not in row:
+            row["youtube_video_id"] = ""
+
+    with open(
+        path,
+        "w",
+        encoding="utf-8",
+        newline=""
+    ) as f:
+
+        writer = csv.DictWriter(
+            f,
+            fieldnames=FIELDNAMES
+        )
+
+        writer.writeheader()
+
+        writer.writerows(rows)
 
 
 def append_track_to_csv(
@@ -147,12 +249,22 @@ def append_track_to_csv(
     track
 ):
     """
-    Add a song to the CSV.
+    Add a NEW song to the CSV.
 
-    This function does NOT depend on YouTube
-    or any external music database.
+    The song is written immediately.
+
+    It does NOT depend on:
+        - Deezer
+        - YouTube
+        - YouTube search
+        - YouTube playlist
+
+    New songs start with:
+
+        youtube_added = pending
 
     Returns:
+
         True  = song was added
         False = song already existed
     """
@@ -160,6 +272,9 @@ def append_track_to_csv(
     path = get_csv_path(
         station_name
     )
+
+    # Make sure an old CSV gets the new columns.
+    ensure_csv_format(path)
 
     artist = track.get(
         "artist",
@@ -212,14 +327,152 @@ def append_track_to_csv(
 
         writer.writerow({
             "date": date.today().isoformat(),
-            "time": track.get("time", ""),
+
+            "time": track.get(
+                "time",
+                ""
+            ),
+
             "artist": artist,
+
             "title": title,
+
             "genre": "",
+
             "deezer_link": "",
+
+            "youtube_added": "pending",
+
+            "youtube_video_id": "",
         })
 
     return True
+
+
+def update_csv_youtube_status(
+    station_name,
+    artist,
+    title,
+    status,
+    video_id=""
+):
+    """
+    Update the YouTube status for a song already
+    stored in the CSV.
+
+    status examples:
+
+        pending
+        yes
+        failed
+    """
+
+    path = get_csv_path(
+        station_name
+    )
+
+    ensure_csv_format(path)
+
+    rows = load_csv_rows(path)
+
+    target_key = make_song_key(
+        artist,
+        title
+    )
+
+    changed = False
+
+    for row in rows:
+
+        row_key = make_song_key(
+            row.get("artist", ""),
+            row.get("title", "")
+        )
+
+        if row_key == target_key:
+
+            row["youtube_added"] = status
+            row["youtube_video_id"] = video_id
+
+            changed = True
+
+            break
+
+    if not changed:
+        return False
+
+    with open(
+        path,
+        "w",
+        encoding="utf-8",
+        newline=""
+    ) as f:
+
+        writer = csv.DictWriter(
+            f,
+            fieldnames=FIELDNAMES
+        )
+
+        writer.writeheader()
+
+        writer.writerows(rows)
+
+    return True
+
+
+def get_pending_youtube_songs(
+    station_name
+):
+    """
+    Return songs already in the CSV that have not
+    successfully been added to YouTube.
+    """
+
+    path = get_csv_path(
+        station_name
+    )
+
+    ensure_csv_format(path)
+
+    rows = load_csv_rows(path)
+
+    pending = []
+
+    for row in rows:
+
+        status = (
+            row.get(
+                "youtube_added",
+                "pending"
+            )
+            .strip()
+            .lower()
+        )
+
+        if status != "yes":
+
+            artist = row.get(
+                "artist",
+                ""
+            ).strip()
+
+            title = row.get(
+                "title",
+                ""
+            ).strip()
+
+            if artist and title:
+
+                pending.append({
+                    "artist": artist,
+                    "title": title,
+                    "time": row.get(
+                        "time",
+                        ""
+                    ),
+                })
+
+    return pending
 
 
 # ============================================================
@@ -235,9 +488,6 @@ def get_or_create_playlist(
     station name.
 
     If it doesn't exist, create it.
-
-    Returns:
-        playlist_id, playlist_was_created
     """
 
     playlist_title = station_name
@@ -277,8 +527,7 @@ def get_or_create_playlist(
 
                 print(
                     f" -> Found playlist: "
-                    f"{title} "
-                    f"({playlist_id})"
+                    f"{title}"
                 )
 
                 return (
@@ -306,6 +555,7 @@ def get_or_create_playlist(
     playlist_body = {
         "snippet": {
             "title": playlist_title,
+
             "description": (
                 f"Songs played on "
                 f"{station_name}, "
@@ -313,6 +563,7 @@ def get_or_create_playlist(
                 "by the radio scraper."
             )
         },
+
         "status": {
             "privacyStatus": "public"
         }
@@ -331,8 +582,7 @@ def get_or_create_playlist(
 
     print(
         f" -> Created playlist: "
-        f"{playlist_title} "
-        f"({playlist_id})"
+        f"{playlist_title}"
     )
 
     return (
@@ -370,13 +620,13 @@ def get_playlist_video_ids(
             []
         ):
 
-            content = item.get(
-                "contentDetails",
-                {}
-            )
-
-            video_id = content.get(
-                "videoId"
+            video_id = (
+                item
+                .get(
+                    "contentDetails",
+                    {}
+                )
+                .get("videoId")
             )
 
             if video_id:
@@ -404,8 +654,18 @@ def search_youtube_video(
     Search YouTube for a music video.
 
     Returns:
-        video ID
-        or None if no result exists.
+
+        video_id
+
+    or:
+
+        None
+
+    Raises:
+
+        Exception
+
+    if the YouTube API returns an error.
     """
 
     query = f"{artist} {title}"
@@ -483,6 +743,7 @@ def add_video_to_playlist(
     body = {
         "snippet": {
             "playlistId": playlist_id,
+
             "resourceId": {
                 "kind": "youtube#video",
                 "videoId": video_id
@@ -502,6 +763,34 @@ def add_video_to_playlist(
 
 
 # ============================================================
+# ERROR DETECTION
+# ============================================================
+
+def is_youtube_quota_error(error):
+    """
+    Determine whether an exception is caused by
+    YouTube API quota being exhausted.
+    """
+
+    error_text = str(
+        error
+    ).lower()
+
+    quota_terms = [
+        "quotaexceeded",
+        "quota exceeded",
+        "rate_limit_exceeded",
+        "ratelimitexceeded",
+        "search queries per day",
+    ]
+
+    return any(
+        term in error_text
+        for term in quota_terms
+    )
+
+
+# ============================================================
 # PROCESS ONE STATION
 # ============================================================
 
@@ -511,16 +800,17 @@ def process_station(
     url
 ):
     """
-    Scrape one station.
+    Process one station.
 
-    For each song:
+    The order is:
 
-    1. Check CSV.
-    2. If already present, ignore it.
-    3. If new, immediately add it to CSV.
-    4. Search YouTube.
-    5. Add YouTube video to playlist.
-    6. Continue even if YouTube fails.
+        1. Scrape website.
+        2. Check CSV.
+        3. Add genuinely new songs to CSV.
+        4. Retry pending YouTube songs.
+        5. Search YouTube.
+        6. Add videos to playlist.
+        7. If quota is exhausted, stop YouTube processing.
     """
 
     print()
@@ -541,10 +831,6 @@ def process_station(
         exist_ok=True
     )
 
-    # --------------------------------------------------------
-    # Start log
-    # --------------------------------------------------------
-
     with open(
         log_path,
         "a",
@@ -557,7 +843,25 @@ def process_station(
         )
 
     # --------------------------------------------------------
-    # Scrape station
+    # Prepare CSV
+    # --------------------------------------------------------
+
+    csv_path = get_csv_path(
+        station_name
+    )
+
+    ensure_csv_format(
+        csv_path
+    )
+
+    existing_csv_keys = (
+        load_existing_keys(
+            csv_path
+        )
+    )
+
+    # --------------------------------------------------------
+    # Scrape website
     # --------------------------------------------------------
 
     try:
@@ -593,7 +897,96 @@ def process_station(
     )
 
     # --------------------------------------------------------
-    # Get/create YouTube playlist
+    # FIRST:
+    #
+    # Add every genuinely new song to CSV.
+    #
+    # This happens BEFORE YouTube.
+    # --------------------------------------------------------
+
+    new_songs = 0
+    already_existing = 0
+    csv_failed = 0
+
+    new_song_list = []
+
+    for song in songs:
+
+        artist = song.get(
+            "artist",
+            ""
+        ).strip()
+
+        title = song.get(
+            "title",
+            ""
+        ).strip()
+
+        if not artist or not title:
+            continue
+
+        key = make_song_key(
+            artist,
+            title
+        )
+
+        if key in existing_csv_keys:
+
+            already_existing += 1
+
+            continue
+
+        print()
+        print(
+            f"NEW SONG: "
+            f"{artist} - {title}"
+        )
+
+        try:
+
+            added = append_track_to_csv(
+                station_name,
+                song
+            )
+
+            if added:
+
+                existing_csv_keys.add(
+                    key
+                )
+
+                new_songs += 1
+
+                new_song_list.append(
+                    song
+                )
+
+                print(
+                    " -> Added to CSV"
+                )
+
+        except Exception as e:
+
+            csv_failed += 1
+
+            print(
+                f" -> CSV FAILED: {e}"
+            )
+
+            with open(
+                log_path,
+                "a",
+                encoding="utf-8"
+            ) as log:
+
+                log.write(
+                    f"CSV FAILED: "
+                    f"{artist} - {title}\n"
+                    f"Reason: {e}\n"
+                )
+
+    # --------------------------------------------------------
+    # YouTube playlist
     # --------------------------------------------------------
 
     try:
@@ -626,23 +1019,23 @@ def process_station(
                 message + "\n"
             )
 
+        print(
+            "CSV updates have been preserved."
+        )
+
         return
 
     # --------------------------------------------------------
-    # Get existing YouTube videos
+    # Get existing playlist videos
     # --------------------------------------------------------
 
-    if playlist_was_created:
+    try:
 
-        existing_video_ids = set()
+        if playlist_was_created:
 
-        print(
-            "Playlist was just created."
-        )
+            existing_video_ids = set()
 
-    else:
-
-        try:
+        else:
 
             existing_video_ids = (
                 get_playlist_video_ids(
@@ -651,67 +1044,104 @@ def process_station(
                 )
             )
 
-            print(
-                f"Playlist contains "
-                f"{len(existing_video_ids)} "
-                f"videos."
+        print(
+            f"YouTube playlist contains "
+            f"{len(existing_video_ids)} "
+            f"videos."
+        )
+
+    except Exception as e:
+
+        message = (
+            f"FAILED TO READ YOUTUBE "
+            f"PLAYLIST FOR "
+            f"{station_name}: {e}"
+        )
+
+        print(message)
+
+        with open(
+            log_path,
+            "a",
+            encoding="utf-8"
+        ) as log:
+
+            log.write(
+                message + "\n"
             )
 
-        except Exception as e:
-
-            message = (
-                f"FAILED TO READ YOUTUBE "
-                f"PLAYLIST FOR "
-                f"{station_name}: {e}"
-            )
-
-            print(message)
-
-            with open(
-                log_path,
-                "a",
-                encoding="utf-8"
-            ) as log:
-
-                log.write(
-                    message + "\n"
-                )
-
-            return
+        return
 
     # --------------------------------------------------------
-    # Load CSV once
+    # Build YouTube queue.
+    #
+    # First retry songs that are already in CSV
+    # but haven't successfully reached YouTube.
+    #
+    # Then process tonight's new songs.
     # --------------------------------------------------------
 
-    csv_path = get_csv_path(
-        station_name
-    )
-
-    existing_csv_keys = (
-        load_existing_keys(
-            csv_path
+    pending_songs = (
+        get_pending_youtube_songs(
+            station_name
         )
     )
 
-    # --------------------------------------------------------
-    # Counters
-    # --------------------------------------------------------
+    # Remove duplicates from queue.
+    youtube_queue = []
+    queue_keys = set()
 
-    new_songs = 0
-    already_existing = 0
+    for song in (
+        pending_songs
+        + new_song_list
+    ):
+
+        artist = song.get(
+            "artist",
+            ""
+        ).strip()
+
+        title = song.get(
+            "title",
+            ""
+        ).strip()
+
+        key = make_song_key(
+            artist,
+            title
+        )
+
+        if key in queue_keys:
+            continue
+
+        queue_keys.add(key)
+
+        youtube_queue.append(
+            song
+        )
+
+    # --------------------------------------------------------
+    # YouTube counters
+    # --------------------------------------------------------
 
     youtube_added = 0
     youtube_skipped = 0
     youtube_failed = 0
 
-    csv_failed = 0
+    quota_exhausted = False
 
     # --------------------------------------------------------
-    # Process songs
+    # Process YouTube queue
     # --------------------------------------------------------
+
+    print()
+    print(
+        f"YouTube queue: "
+        f"{len(youtube_queue)} songs"
+    )
 
     for index, song in enumerate(
-        songs,
+        youtube_queue,
         start=1
     ):
 
@@ -725,99 +1155,27 @@ def process_station(
             ""
         ).strip()
 
-        # ----------------------------------------------------
-        # Ignore invalid rows
-        # ----------------------------------------------------
-
-        if not artist or not title:
-
-            print(
-                f"[{index}/{len(songs)}] "
-                "Skipping empty artist/title"
-            )
-
-            continue
-
-        key = make_song_key(
-            artist,
-            title
-        )
-
-        # ----------------------------------------------------
-        # Already in CSV
-        # ----------------------------------------------------
-
-        if key in existing_csv_keys:
-
-            already_existing += 1
-
-            continue
-
-        # ----------------------------------------------------
-        # NEW SONG
-        # ----------------------------------------------------
-
         print()
         print(
-            f"[{index}/{len(songs)}] "
-            f"NEW SONG: "
+            f"[YouTube "
+            f"{index}/{len(youtube_queue)}] "
             f"{artist} - {title}"
         )
 
         # ----------------------------------------------------
-        # IMPORTANT:
-        #
-        # Add to CSV BEFORE YouTube.
-        #
-        # This means YouTube failures can never prevent
-        # the song being recorded.
+        # If quota was exhausted, don't make another request.
         # ----------------------------------------------------
 
-        try:
-
-            csv_added = append_track_to_csv(
-                station_name,
-                song
-            )
-
-            if csv_added:
-
-                existing_csv_keys.add(
-                    key
-                )
-
-                new_songs += 1
-
-                print(
-                    " -> Added to CSV"
-                )
-
-            else:
-
-                print(
-                    " -> Song already existed "
-                    "in CSV"
-                )
-
-                existing_csv_keys.add(
-                    key
-                )
-
-                already_existing += 1
-
-                continue
-
-        except Exception as e:
-
-            csv_failed += 1
+        if quota_exhausted:
 
             print(
-                f" -> FAILED TO WRITE CSV: "
-                f"{e}"
+                " -> YouTube quota exhausted."
             )
 
-            # Do not attempt YouTube if the CSV
-            # could not be written.
+            print(
+                " -> Leaving song as "
+                "'pending' for next run."
+            )
 
             continue
 
@@ -836,27 +1194,83 @@ def process_station(
         except Exception as e:
 
             youtube_failed += 1
-        
+
             error_message = str(e)
-        
+
             print(
-                f"YOUTUBE FAILED:\n"
-                f"{artist} - {title}\n"
-                f"Reason: {error_message}"
+                f"YOUTUBE FAILED: "
+                f"{artist} - {title}"
             )
-        
+
+            print(
+                f"Reason: "
+                f"{error_message}"
+            )
+
             with open(
                 log_path,
                 "a",
                 encoding="utf-8"
             ) as log:
-        
+
                 log.write(
                     f"YOUTUBE FAILED: "
                     f"{artist} - {title}\n"
-                    f"Reason: {error_message}\n"
+                    f"Reason: "
+                    f"{error_message}\n"
                 )
-        
+
+            # ------------------------------------------------
+            # QUOTA EXHAUSTED
+            # ------------------------------------------------
+
+            if is_youtube_quota_error(e):
+
+                quota_exhausted = True
+
+                print()
+                print(
+                    "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+                )
+
+                print(
+                    "YOUTUBE DAILY QUOTA EXHAUSTED"
+                )
+
+                print(
+                    "Stopping further YouTube "
+                    "searches for this run."
+                )
+
+                print(
+                    "Remaining songs will stay "
+                    "pending and be retried "
+                    "on the next run."
+                )
+
+                print(
+                    "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+                )
+
+                # Leave this song pending.
+                update_csv_youtube_status(
+                    station_name,
+                    artist,
+                    title,
+                    "pending",
+                    ""
+                )
+
+            else:
+
+                update_csv_youtube_status(
+                    station_name,
+                    artist,
+                    title,
+                    "failed",
+                    ""
+                )
+
             continue
 
         # ----------------------------------------------------
@@ -868,14 +1282,33 @@ def process_station(
             youtube_failed += 1
 
             print(
-                " -> No suitable YouTube "
-                "video found"
+                " -> No YouTube result found."
             )
+
+            update_csv_youtube_status(
+                station_name,
+                artist,
+                title,
+                "failed",
+                ""
+            )
+
+            with open(
+                log_path,
+                "a",
+                encoding="utf-8"
+            ) as log:
+
+                log.write(
+                    f"YOUTUBE FAILED: "
+                    f"{artist} - {title}\n"
+                    f"Reason: No YouTube result found\n"
+                )
 
             continue
 
         # ----------------------------------------------------
-        # YouTube duplicate check
+        # Existing YouTube video
         # ----------------------------------------------------
 
         if video_id in existing_video_ids:
@@ -883,14 +1316,22 @@ def process_station(
             youtube_skipped += 1
 
             print(
-                " -> Already in YouTube "
-                "playlist"
+                " -> Video already exists "
+                "in playlist."
+            )
+
+            update_csv_youtube_status(
+                station_name,
+                artist,
+                title,
+                "yes",
+                video_id
             )
 
             continue
 
         # ----------------------------------------------------
-        # Add YouTube video
+        # Add video to playlist
         # ----------------------------------------------------
 
         try:
@@ -909,36 +1350,76 @@ def process_station(
 
             print(
                 " -> ADDED to YouTube "
-                "playlist"
+                "playlist."
+            )
+
+            update_csv_youtube_status(
+                station_name,
+                artist,
+                title,
+                "yes",
+                video_id
             )
 
         except Exception as e:
 
             youtube_failed += 1
-        
+
             error_message = str(e)
-        
+
             print(
-                f"YOUTUBE FAILED:\n"
-                f"{artist} - {title}\n"
-                f"Reason: {error_message}"
+                f"YOUTUBE FAILED: "
+                f"{artist} - {title}"
             )
-        
+
+            print(
+                f"Reason: "
+                f"{error_message}"
+            )
+
             with open(
                 log_path,
                 "a",
                 encoding="utf-8"
             ) as log:
-        
+
                 log.write(
                     f"YOUTUBE FAILED: "
                     f"{artist} - {title}\n"
-                    f"Reason: {error_message}\n"
+                    f"Reason: "
+                    f"{error_message}\n"
                 )
 
-        # ----------------------------------------------------
-        # Small delay
-        # ----------------------------------------------------
+            if is_youtube_quota_error(e):
+
+                quota_exhausted = True
+
+                print(
+                    "YouTube quota exhausted."
+                )
+
+                print(
+                    "Stopping further YouTube "
+                    "operations for this run."
+                )
+
+                update_csv_youtube_status(
+                    station_name,
+                    artist,
+                    title,
+                    "pending",
+                    ""
+                )
+
+            else:
+
+                update_csv_youtube_status(
+                    station_name,
+                    artist,
+                    title,
+                    "failed",
+                    ""
+                )
 
         sleep(0.3)
 
@@ -981,8 +1462,20 @@ def process_station(
         f"YouTube failures:     {youtube_failed}"
     )
 
+    if quota_exhausted:
+
+        print(
+            "YouTube quota:        EXHAUSTED"
+        )
+
+    else:
+
+        print(
+            "YouTube quota:        OK"
+        )
+
     # --------------------------------------------------------
-    # Write log
+    # Log summary
     # --------------------------------------------------------
 
     with open(
@@ -1003,15 +1496,20 @@ def process_station(
             f"{csv_failed}\n"
         )
 
+        if quota_exhausted:
+
+            log.write(
+                "YouTube quota was exhausted. "
+                "Remaining songs are pending "
+                "for the next run.\n"
+            )
+
 
 # ============================================================
 # RUN ALL STATIONS
 # ============================================================
 
 def run_daily():
-    """
-    Process every station in STATIONS.
-    """
 
     print(
         "Authenticating with YouTube..."
@@ -1036,7 +1534,7 @@ def run_daily():
     )
 
     # --------------------------------------------------------
-    # Process all stations
+    # Process ALL stations
     # --------------------------------------------------------
 
     for station_name, url in STATIONS.items():
@@ -1053,15 +1551,6 @@ def run_daily():
 # ============================================================
 
 if __name__ == "__main__":
-
-    # --------------------------------------------------------
-    # Optional single-station mode
-    #
-    # Example:
-    #
-    # python main.py "BBC Radio 6 - Recently Played"
-    #
-    # --------------------------------------------------------
 
     if len(sys.argv) > 1:
 
@@ -1094,6 +1583,8 @@ if __name__ == "__main__":
                     f"Error: {e}"
                 )
 
+                sys.exit(1)
+
         else:
 
             print(
@@ -1105,6 +1596,7 @@ if __name__ == "__main__":
             )
 
             for station in STATIONS:
+
                 print(
                     f" - {station}"
                 )
