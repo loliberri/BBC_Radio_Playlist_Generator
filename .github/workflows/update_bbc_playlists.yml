@@ -1,0 +1,83 @@
+name: Update BBC Radio Playlists
+
+on:
+  schedule:
+    - cron: "58 22 * * *"
+
+  # Allows you to run it manually from GitHub Actions
+  workflow_dispatch:
+
+jobs:
+  update-playlists:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      # ------------------------------------------------------
+      # Checkout repository
+      # ------------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ------------------------------------------------------
+      # Python
+      # ------------------------------------------------------
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ------------------------------------------------------
+      # Dependencies
+      # ------------------------------------------------------
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ------------------------------------------------------
+      # Run scraper + YouTube updater
+      # ------------------------------------------------------
+
+      - name: Update BBC playlists
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+
+        run: |
+          python main.py
+
+      # ------------------------------------------------------
+      # Commit CSV and logs
+      # ------------------------------------------------------
+
+      - name: Commit updated CSV files and logs
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/
+
+          if git diff --cached --quiet; then
+
+            echo "No CSV or log changes to commit."
+
+          else
+
+            git commit \
+              -m "Update BBC radio playlists"
+
+            git push
+
+          fi
