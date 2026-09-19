@@ -1,253 +1,287 @@
-date,time,artist,title,genre,deezer_link
-2026-09-05,Live,Johannes Brahms,Symphony No. 4,Unknown,https://www.deezer.com/track/1721666967
-2026-09-05,11:16,Ludwig van Beethoven,Piano Concerto No. 2,Unknown,https://www.deezer.com/track/4538933
-2026-09-05,11:02,Louise Farrenc,Overture No. 2,Unknown,https://www.deezer.com/track/2997223801
-2026-09-05,10:55,Spell Songs,Senegal,Unknown,https://www.deezer.com/track/4135347341
-2026-09-05,10:51,Saly Kouyaté,Dounougna,Unknown,https://www.deezer.com/track/3871117131
-2026-09-05,10:47,Jocelyn Balu,YA NZAMBE,Unknown,https://www.deezer.com/track/3834940911
-2026-09-05,10:43,John Mwale,Shirikisho la Africa,Unknown,https://www.deezer.com/track/3325873121
-2026-09-05,10:40,Jimmie Lasco,Cherie Mupenzi,Unknown,https://www.deezer.com/track/3789277512
-2026-09-05,10:28,Huw Marc Bennett,Carol Haf (Summer Carol),Unknown,https://www.deezer.com/track/3864264661
-2026-09-05,10:25,Mari Mathias,Pan Mae'r Glaw Yn Dod I Lawr,Unknown,https://www.deezer.com/track/4033269711
-2026-09-05,10:14,Antti Paalanen,Laulu luonnolle,Unknown,https://www.deezer.com/track/3976586491
-2026-09-05,10:12,Lads d'Alenquer,"Meninas, Vamos Ao Vira",Unknown,https://www.deezer.com/track/4075932021
-2026-09-05,10:05,Műhely Banda,FriciGéza fantázia,Unknown,https://www.deezer.com/track/3803872812
-2026-09-05,10:01,Abéu,RE3MBÁU - Muñeira,Unknown,https://www.deezer.com/track/3967354591
-2026-09-05,09:41,Eddie Barbash,Danca Da Fauna,Unknown,https://www.deezer.com/track/1364986492
-2026-09-05,09:26,Joni Mitchell,Carey,Unknown,https://www.deezer.com/track/2607670
-2026-09-05,09:18,Fanny Mendelssohn,Notturno in G Minor,Unknown,https://www.deezer.com/track/2929726271
-2026-09-05,09:18,Johann Sebastian Bach,"Sarabande (Partita No 4 in D Major, BWV 828)",Unknown,https://www.deezer.com/track/1873382827
-2026-09-05,09:01,Darius Milhaud,Brazileira (Scaramouche Suite),Unknown,https://www.deezer.com/track/2655256262
-2026-09-05,08:44,Jon Brion,"Lady Bird: ""Lady Bird""",Unknown,https://www.deezer.com/track/424999642
-2026-09-05,08:22,John Williams,"Hook: ""You Are the Pan""",Unknown,https://www.deezer.com/track/4222884612
-2026-09-05,08:14,London Metropolitan Orchestra & Michael Kamen,"Mr. Holland's Opus: ""Mr. Holland Begins""",Unknown,https://www.deezer.com/track/1762354787
-2026-09-05,08:06,Maurice Jarre,"Dead Poets' Society: ""Keating's Triumph""",Unknown,https://www.deezer.com/track/2112921497
-2026-09-05,08:01,Justin Hurwitz,"Whiplash: ""Overture""",Unknown,https://www.deezer.com/track/1398706552
-2026-09-05,06:41,Johann Sebastian Bach,Cantata BWV.156 'Ich steh' mit einem Fuss im Grabe' (Sinfonia),Unknown,https://www.deezer.com/track/137153636
-2026-09-05,06:04,Claudio Monteverdi,Duo seraphim (Vespers),Unknown,https://www.deezer.com/track/2626487032
-2026-09-05,05:11,Ludwig van Beethoven,Wellington's Victory,Unknown,https://www.deezer.com/track/1713193117
-2026-09-05,04:10,Maurice Ravel,La vallée des cloches (Miroirs),Unknown,https://www.deezer.com/track/64105041
-2026-09-05,04:05,Gene Ammons,Ammons' Boogie,Unknown,https://www.deezer.com/track/2948465
-2026-09-05,04:02,Richard Strauss,Capriccio: Moonlight Music,Unknown,https://www.deezer.com/track/2496400581
-2026-09-05,03:50,Robert Schumann,"Grillen (Fantasiestücke, Op 12)",Unknown,https://www.deezer.com/track/2506621701
-2026-09-05,03:41,Claude Debussy,Prélude à l'après-midi d'un faune,Unknown,https://www.deezer.com/track/65342384
-2026-09-05,03:05,Alessandro Scarlatti,"Correa nel seno amato, H. 146: I. Sinfonia and Balletto",Unknown,https://www.deezer.com/track/2780637871
-2026-09-05,02:27,Frédéric Chopin,"Fantaisie-impromptu in C sharp minor, Op.66",Unknown,https://www.deezer.com/track/40071301
-2026-09-05,01:59,Franz Liszt,Mephisto Waltz No 1,Unknown,https://www.deezer.com/track/66343148
-2026-09-05,01:30,Antonio Lauro,El Marabino,Unknown,https://www.deezer.com/track/3231971631
-2026-09-05,00:55,Johannes Brahms,Wie lieblich sind deine Wohnungen (Ein Deutsches Requiem),Unknown,https://www.deezer.com/track/1649000942
-2026-09-05,00:40,Duke Ellington,Sophisticated Lady,Unknown,https://www.deezer.com/track/1066855
-2026-09-05,00:07,Franz Lehár,Gold and Silver Waltz,Unknown,https://www.deezer.com/track/3133021611
-2026-09-06,16:46,Richard Wagner,Im Treibhaus,Unknown,https://www.deezer.com/track/66136941
-2026-09-06,14:28,Evan Parker,WW3,Unknown,https://www.deezer.com/track/1432725712
-2026-09-06,13:53,György Kurtág,"Grabstein für Stephan, op. 15c",Unknown,https://www.deezer.com/track/2154362897
-2026-09-06,13:40,Alban Berg,"Wozzeck - Act I Scene 3 ""Komm' mein Bub! (Marie's Lullaby)",Unknown,https://www.deezer.com/track/71884859
-2026-09-06,13:38,Orlande de Lassus,Timor et tremor,Unknown,https://www.deezer.com/track/65529011
-2026-09-06,13:31,John Williams,Main Title,Unknown,https://www.deezer.com/track/65443651
-2026-09-06,13:25,Rachel Portman,Flight,Unknown,https://www.deezer.com/track/1156993322
-2026-09-06,13:10,Johannes Brahms,Hungarian Dance No 5,Unknown,https://www.deezer.com/track/4158796
-2026-09-07,16:25,Orkun A.,Zenith,Unknown,https://www.deezer.com/track/4214784462
-2026-09-07,16:21,FAUZIA,Just a dream,Unknown,https://www.deezer.com/track/4024708871
-2026-09-07,16:16,Simon Goff,Sun,Unknown,https://www.deezer.com/track/2806846662
-2026-09-07,16:11,The White Mages & Peter Broderick,Hymn of the Fayth (Final Fantasy X),Unknown,https://www.deezer.com/track/3728310212
-2026-09-07,15:57,Niklas Paschburg,À La Maison,Unknown,https://www.deezer.com/track/3557383901
-2026-09-07,15:52,Kirk Barley & Matt Davies,Ecstatic,Unknown,https://www.deezer.com/track/4110891191
-2026-09-07,15:37,Sir Richard Bishop,Postcoital Serenade,Unknown,https://www.deezer.com/track/3949817371
-2026-09-07,15:30,Agnes Obel,Laymelli,Unknown,https://www.deezer.com/track/4222963582
-2026-09-07,15:25,Lucy Gooch,Like Clay,Unknown,https://www.deezer.com/track/3216535271
-2026-09-07,15:19,Francis Poulenc,"Cello Sonata, FP 143: II. Cavatine",Unknown,https://www.deezer.com/track/2377554295
-2026-09-07,15:06,Enji,Hungun,Unknown,https://www.deezer.com/track/3241231571
-2026-09-07,14:44,Sarah Neutkens,Its Low Sills,Unknown,https://www.deezer.com/track/2135300327
-2026-09-07,14:39,Miles Davis,It Never Entered My Mind,Unknown,https://www.deezer.com/track/1180378
-2026-09-07,14:36,Lia Kohl & Zander Raymond,What they said about,Unknown,https://www.deezer.com/track/3660522152
-2026-09-07,14:25,Dobrinka Tabakova,Sun Triptych: III. Dusk,Unknown,https://www.deezer.com/track/3513799321
-2026-09-07,14:22,modern biology,Mushroom Dance,Unknown,https://www.deezer.com/track/1700241507
-2026-09-07,14:12,Marietta Veulens,Campanas consonantes,Unknown,https://www.deezer.com/track/2332100
-2026-09-07,14:00,Flaer,Souvenir,Unknown,https://www.deezer.com/track/3428702131
-2026-09-07,13:54,Max Richter,The Consolations of Philosophy,Unknown,https://www.deezer.com/track/134520908
-2026-09-07,11:33,Benjamin Britten,The Young Person's Guide To The Orchestra Op.34,Unknown,https://www.deezer.com/track/68428878
-2026-09-07,10:33,Henry Purcell,My beloved spake,Unknown,https://www.deezer.com/track/2377587115
-2026-09-07,10:22,Henry Purcell,Evening Service in G minor (Nunc Dimittis),Unknown,https://www.deezer.com/track/2377588365
-2026-09-07,10:17,Henry Purcell,Evening Service in G minor (Magnificat),Unknown,https://www.deezer.com/track/2377588355
-2026-09-07,10:00,Jacobus Clemens non Papa,Ego flos campi,Unknown,https://www.deezer.com/track/2857438942
-2026-09-07,09:44,Johann Sebastian Bach,Prelude and Fugue in C minor,Unknown,https://www.deezer.com/track/1505741672
-2026-09-07,08:55,Erroll Garner,I'll Remember April,Unknown,https://www.deezer.com/track/1129289
-2026-09-07,08:49,Miles Davis,Stella By Starlight,Unknown,https://www.deezer.com/track/2711795
-2026-09-07,08:41,Coleman Hawkins & Ben Webster,It Never Entered My Mind,Unknown,https://www.deezer.com/track/548727872
-2026-09-07,08:25,Keith Jarrett,All The Things You Are,Unknown,https://www.deezer.com/track/1176145
-2026-09-07,08:21,Fergus McCreadie,Mountain Stream,Unknown,https://www.deezer.com/track/2605493062
-2026-09-07,08:17,Robin Nolan,Something,Unknown,https://www.deezer.com/track/3731927202
-2026-09-07,08:08,Ella Fitzgerald,Every time We Say Goodbye,Unknown,https://www.deezer.com/track/10218917
-2026-09-07,08:01,Tara Minton,El Colibri,Unknown,https://www.deezer.com/track/4085351571
-2026-09-07,07:43,Claude Debussy,Jeux de vagues,Unknown,https://www.deezer.com/track/65498310
-2026-09-07,07:32,Betty Jackson King,Psalm 57,Unknown,https://www.deezer.com/track/2066694127
-2026-09-07,07:13,Wolfgang Amadeus Mozart,"Symphony No. 31 in D major, K. 297 ""Paris"" (3rd mvt: Allegro)",Unknown,https://www.deezer.com/track/3273877931
-2026-09-07,07:02,Felix Mendelssohn,"A Midsummer Night's Dream, Incidental Music, Op. 61 (Scherzo)",Unknown,https://www.deezer.com/track/133694100
-2026-09-07,06:55,Christoph Willibald Gluck,Che farò senza Euridice! (Orfeo ed Euridice),Unknown,https://www.deezer.com/track/63760319
-2026-09-07,06:51,Christoph Willibald Gluck,Dance of the Blessed Spirits (Orfeo ed Euridice),Unknown,https://www.deezer.com/track/3317173761
-2026-09-07,06:16,Wolfgang Amadeus Mozart,Der Vogelfänger bin ich ja (The Magic Flute),Unknown,https://www.deezer.com/track/3308964891
-2026-09-07,05:58,Claude Debussy,Syrinx,Unknown,https://www.deezer.com/track/65342393
-2026-09-07,05:53,Jacques Offenbach,Can-Can (Orpheus in the Underworld),Unknown,https://www.deezer.com/track/1146133142
-2026-09-07,05:50,Philip Glass,"La chambre d'Orphée (Orphée, Act 1)",Unknown,https://www.deezer.com/track/4062894521
-2026-09-07,05:40,Claudio Monteverdi,L'Orfeo (Toccata),Unknown,https://www.deezer.com/track/65340642
-2026-09-07,04:33,Benjamin Britten,"Variations on a theme of Frank Bridge, Op. 10",Unknown,https://www.deezer.com/track/65727976
-2026-09-07,04:16,Imogen Holst,Suite,Unknown,https://www.deezer.com/track/1468327362
-2026-09-07,02:52,Ethel Smyth,"The Wreckers (Prelude to Act 2, 'On the Cliffs of Cornwall')",Unknown,https://www.deezer.com/track/2777978181
-2026-09-07,01:58,Elias Parish Alvars,La Mandoline,Unknown,https://www.deezer.com/track/71815433
-2026-09-07,01:51,Giuseppe Verdi,La forza del destino (Overture),Unknown,https://www.deezer.com/track/4143914852
-2026-09-07,01:34,Anthony Hedges,Heigham Sound,Unknown,https://www.deezer.com/track/2768109591
-2026-09-07,00:30,Wolfgang Amadeus Mozart,Soave sia il vento (Cosi Fan Tutte),Unknown,https://www.deezer.com/track/1533385442
-2026-09-07,00:08,Aldo Romano,Camino,Unknown,https://www.deezer.com/track/3717664532
-2026-09-08,17:21,Manuel de Falla,Noches en los jardines de Espana,Unknown,https://www.deezer.com/track/746251802
-2026-09-08,16:46,Diego Ortiz,Recercada Quarta sobre 'La Folía',Unknown,https://www.deezer.com/track/66112472
-2026-09-08,16:26,Bill Evans,Like Someone In Love,Unknown,https://www.deezer.com/track/879791372
-2026-09-08,16:20,Nancy Wilson & Cannonball Adderley,The Masquerade Is Over,Unknown,https://www.deezer.com/track/3126280
-2026-09-08,16:14,Shirley Scott,On A Clear Day,Unknown,https://www.deezer.com/track/4109282
-2026-09-08,16:08,Emma Smith,I'm in the Middle of a Muddle,Unknown,https://www.deezer.com/track/3243608311
-2026-09-08,16:00,Azamiah,Too Precious,Unknown,https://www.deezer.com/track/3839317261
-2026-09-08,15:56,Melba Liston,Pow!,Unknown,https://www.deezer.com/track/10248367
-2026-09-08,15:40,Ruby Wood,This Thing Called Life,Unknown,https://www.deezer.com/track/4028476371
-2026-09-08,15:36,Stan Getz,Night Rider,Unknown,https://www.deezer.com/track/543099972
-2026-09-08,15:30,Matt Stewart-Evans,Moonlight Lullaby,Unknown,https://www.deezer.com/track/2442206715
-2026-09-08,15:25,Mabe Fratti,Algo Grandioso,Unknown,https://www.deezer.com/track/1942521497
-2026-09-08,14:57,Johannes Brahms,"Clarinet Trio in A minor, Op. 114 : II. Adagio",Unknown,https://www.deezer.com/track/1883684517
-2026-09-08,14:39,Rachika Nayar,Memory as Miniatures,Unknown,https://www.deezer.com/track/2117774957
-2026-09-08,14:34,Johann Sebastian Bach,O Lamm Gottes unschuldig,Unknown,https://www.deezer.com/track/65797910
-2026-09-08,14:31,Maridalen,Landkjenning,Unknown,https://www.deezer.com/track/2291532925
-2026-09-08,14:24,Ella Fitzgerald,Round Midnight,Unknown,https://www.deezer.com/track/548784752
-2026-09-08,14:16,SOHN,Harmonizer,Unknown,https://www.deezer.com/track/3453167091
-2026-09-08,14:09,Fraser Fifield,Lament for the old sword,Unknown,https://www.deezer.com/track/1503716852
-2026-09-08,14:07,Kita Kouhei,tinySketch #37,Unknown,https://www.deezer.com/track/3479135101
-2026-09-08,14:00,Britton Judd,Caterpillar Treehouse,Unknown,https://www.deezer.com/track/3249097131
-2026-09-08,13:23,Eric Whitacre,Sleep,Unknown,https://www.deezer.com/track/7198167
-2026-09-08,11:50,Carl Friedrich Abel,Adagio,Unknown,https://www.deezer.com/track/2968448891
-2026-09-08,11:17,Robert Schumann,Concerto In D Minor,Unknown,https://www.deezer.com/track/1758924587
-2026-09-08,10:50,Claude Debussy,"La romance d'Ariel, L. 54",Unknown,https://www.deezer.com/track/65551949
-2026-09-08,10:47,John Williams,Imperial March (The Empire Strikes Back),Unknown,https://www.deezer.com/track/945047992
-2026-09-08,10:16,Wolfgang Amadeus Mozart,"Piano Concerto No. 20 in D Minor, K. 466: II. Romance",Unknown,https://www.deezer.com/track/66287129
-2026-09-08,09:48,Felix Mendelssohn,Violin Concerto in D Minor: III. Allegro,Unknown,https://www.deezer.com/track/2377602815
-2026-09-08,09:31,Johannes Brahms,"Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto",Unknown,https://www.deezer.com/track/3232010471
-2026-09-08,09:11,Duke Ellington,In A Sentimental Mood,Unknown,https://www.deezer.com/track/911085
-2026-09-08,08:00,Stephen Sondheim,Send in the Clowns,Unknown,https://www.deezer.com/track/1046110
-2026-09-08,06:56,Ludwig van Beethoven,"Piano Trio No. 4 in B flat, op. 11 ('Gassenhauer')",Unknown,https://www.deezer.com/track/65686006
-2026-09-08,06:03,Johannes Brahms,Symphony No 4 in E minor,Unknown,https://www.deezer.com/track/1721666967
-2026-09-08,05:38,Leoš Janáček,Sinfonietta,Unknown,https://www.deezer.com/track/2132403397
-2026-09-08,05:04,Felix Mendelssohn,"Octet in E flat, op. 20",Unknown,https://www.deezer.com/track/101921651
-2026-09-08,04:56,Eric Whitacre,Lux aurumque,Unknown,https://www.deezer.com/track/7198152
-2026-09-08,04:07,Wolfgang Amadeus Mozart,"Violin Concerto No. 5 in A Major, ""Turkish""",Unknown,https://www.deezer.com/track/1533385042
-2026-09-08,03:47,Manuel Ponce,Estrellita,Unknown,https://www.deezer.com/track/2645820822
-2026-09-08,03:43,Giuseppe Verdi,La Donna e Mobile (Rigoletto),Unknown,https://www.deezer.com/track/66662535
-2026-09-08,03:30,Ivor Gurney,Sleep (5 Elizabethan Songs),Unknown,https://www.deezer.com/track/2377599315
-2026-09-08,02:08,Antonio Vivaldi,"Cum dederit dilectis (Nisi Dominus, RV 608)",Unknown,https://www.deezer.com/track/755382062
-2026-09-08,01:42,Georg Philipp Telemann,"Viola Concerto in G major, TWV 51:G9",Unknown,https://www.deezer.com/track/66632928
-2026-09-08,01:31,George Gershwin,Girl Crazy (Overture),Unknown,https://www.deezer.com/track/10405739
-2026-09-08,01:26,Jorunn Vidar,Vökuró,Unknown,https://www.deezer.com/track/2113901647
-2026-09-08,01:17,Gabriel Fauré,Le pas espagnol (Dolly Suite),Unknown,https://www.deezer.com/track/3924267021
-2026-09-08,00:50,Johann Sebastian Bach,Trio Sonata in C Major (Largo),Unknown,https://www.deezer.com/track/2655186262
-2026-09-08,00:24,Giuseppe Verdi,Nabucco (Overture),Unknown,https://www.deezer.com/track/2795131592
-2026-09-09,11:24,Duke Ellington,Caravan,Unknown,https://www.deezer.com/track/560698
-2026-09-18,Live,John Williams,ET Adventures on Earth,,
-2026-09-18,15:47,Jean Sibelius,At the Castle Gate (Pelleas and Melisande),,
-2026-09-18,15:41,Jessie Montgomery,Starburst,,
-2026-09-18,15:36,Phillip Houghton,The Mantis and the Moon,,
-2026-09-18,15:31,William Walton,Cantico del sole,,
-2026-09-18,15:23,Dobrinka Tabakova,Sun Triptych (Dawn),,
-2026-09-18,15:12,Josef Strauss,Music of the Spheres,,
-2026-09-18,15:06,Henry Mancini,Moon River,,
-2026-09-18,14:59,Claude Debussy,Clair de lune,,
-2026-09-18,14:54,Joby Talbot,The Transit of Venus,,
-2026-09-18,14:49,Patric Standford,Celestial Fire Suite 2: Waltz,,
-2026-09-18,14:45,George Melachrino,Starlight Roof Waltz,,
-2026-09-18,14:40,Albert Ketèlbey,In the Moonlight,,
-2026-09-18,14:33,Dobrinka Tabakova,Orpheus' Comet,,
-2026-09-18,14:27,Arnold Schoenberg,Verklarte Nacht (conclusion),,
-2026-09-18,14:22,Sergey Rachmaninov,"Prelude in D major, Op 23 No 4",,
-2026-09-18,14:15,George Frideric Handel,"""Fra l'ombre e gl'orrori"" (Aci, Galatea e Polifemo)",,
-2026-09-18,14:11,Élisabeth Jacquet de La Guerre,Violin Sonata No. 1 in D Minor: V. Aria,,
-2026-09-18,14:07,Giuseppe Verdi,La Traviata (Act 1 Prelude),,
-2026-09-18,14:01,James McMillan,Christus vincit,,
-2026-09-18,13:56,Frank Loesser,Guys and Dolls: Adelaide: 'Take Back Your Mink' with Dolls,,
-2026-09-18,13:51,Steve Reich,Electric Counterpoint (Fast),,
-2026-09-18,13:41,Ludwig van Beethoven,"Symphony No 7 in A major, Op 92 (3rd mvt)",,
-2026-09-18,13:37,Heitor Villa‐Lobos,O Trenzinho do Caipira,,
-2026-09-18,13:28,Franz Liszt,"Au lac de Wallenstadt (Années de pèlerinage, 1er année Suisse)",,
-2026-09-18,13:18,Sergey Rachmaninov,Prelude in C sharp minor (5 Morceaux de fantaisie Op.3),,
-2026-09-18,13:12,Lucy Walker & Sara Teasdale,Give Me Your Stars,,
-2026-09-18,13:05,Dmitry Shostakovich,Romance (The Gadfly),,
-2026-09-18,12:55,Henry Purcell,Pavan in G minor,,
-2026-09-18,12:51,Antonín Dvořák,"Slavonic Dance in G minor, Op 46 No 8",,
-2026-09-18,12:49,Arnold Schoenberg,"Kleine Klavierstücke, Op. 19 - II. Langsam",,
-2026-09-18,12:48,Arnold Schoenberg,"Sechs kleine Klavierstücke, Op. 19 I. Leicht, zart",,
-2026-09-18,12:41,Franz Schubert,"38 Waltzes, Laendler and Ecossaises",,
-2026-09-18,12:31,Alexander Borodin,In the Steppes of Central Asia,,
-2026-09-18,12:28,Arthur Benjamin,Jamaican Rumba,,
-2026-09-18,12:24,Antonio Vivaldi,Concerto in A minor for 2 violins RV.522 (1st mvt),,
-2026-09-18,12:21,György Kurtág,"Birthday Elegy for Judit - for the second finger of her left hand (from Játékok, Book VI: No.33)",,
-2026-09-18,12:20,György Kurtág,"Thus It Happened (from Játékok, Book III: No.4)",,
-2026-09-18,12:14,György Kurtág,"Doina (from Játékok, Book VI: No.34)",,
-2026-09-18,12:10,Gustav Holst,Brook Green Suite: III. Dance,,
-2026-09-18,12:09,Gustav Holst,Brook Green Suite: II. Air,,
-2026-09-18,12:07,Gustav Holst,Brook Green Suite: I. Prelude,,
-2026-09-18,12:00,Camille Saint‐Saëns,Piano Concerto no.2 Op.22 (2nd mvt),,
-2026-09-18,11:49,Franz Schubert,Piano Quintet in A major 'Trout' D.667 (3rd & 4th mvts),,
-2026-09-18,11:30,Franz Schubert,"Piano Sonata in B flat major, D.960 (1st mvt)",,
-2026-09-18,11:14,Franz Schubert,"String Quintet in C major, D.956 (2nd mvt)",,
-2026-09-18,11:04,Franz Schubert,"Tantum ergo, D.962",,
-2026-09-18,11:01,Franz Schubert,Piano Trio in E flat major D.929 (2nd mvt),,
-2026-09-18,10:28,Antonín Dvořák,"Piano Trio No. 4 in E minor, op. 90 ('Dumky')",,
-2026-09-18,10:19,Jonathan Dove,Sweet are the Uses of Adversity,,
-2026-09-18,10:06,Anne Dudley,Northern Lights,,
-2026-09-18,09:57,Giovanni Razzi,O Vergin Santa,,
-2026-09-18,09:52,Giovanni Razzi,O dolcezza,,
-2026-09-18,09:05,Sergey Prokofiev,"Symphony No. 5 in B flat, Op. 100",,
-2026-09-18,08:55,Franz Liszt,Mazeppa (Etudes d'execution transcendante S.139),,
-2026-09-18,08:32,Antonio Vivaldi,"Nisi Dominus in G minor, RV 608",,
-2026-09-18,08:21,Trad.,'Rastanak' (Farewell),,
-2026-09-18,08:04,Ottorino Respighi,"Fountains of Rome (Fontane di Roma), symphonic poem",,
-2026-09-18,07:45,Giacomo Puccini,La Boheme (Act I conclusion),,
-2026-09-18,07:43,Hélène de Montgeroult,Piano Etude No. 65 in E-Flat Minor,,
-2026-09-18,07:37,Heinrich Biber,Violin Sonata No 3 in F major (4th mvt),,
-2026-09-18,07:34,Jerome Moross,The Big Country (main theme),,
-2026-09-18,07:08,Franz Schubert,"Arpeggione Sonata in A minor, D.821",,
-2026-09-18,06:56,Maurice Ravel,"Concerto for piano and orchestra in G major, 2nd mvt; Adagio assai",,
-2026-09-18,06:48,Gustav Mahler,Symphony No 2 'Resurrection' (conclusion),,
-2026-09-18,06:41,Ilse Weber,Wiegala,,
-2026-09-18,06:32,Wolfgang Amadeus Mozart,Symphony no. 40 in G minor K.550 (1st mvt),,
-2026-09-18,06:25,Camille Saint‐Saëns,"Danse macabre, Op. 40",,
-2026-09-18,06:19,Ludwig van Beethoven,Piano Sonata No 17 in D Minor 'Tempest' (3rd mvt),,
-2026-09-18,06:18,Christopher Gunning,Agatha Christie's Poirot - Theme,,
-2026-09-18,06:08,Thomas Tallis,Why fum'th in fight (Archbishop Parker's Psalter),,
-2026-09-18,05:53,Sergey Prokofiev,Symphony no.1 in D major 'Classical',,
-2026-09-18,05:49,Sergey Rachmaninov,"Prelude in B flat major, Op.23 No.2",,
-2026-09-18,05:39,George Frideric Handel,Concerto grosso in D major Op.3'6,,
-2026-09-18,05:36,William Grant Still,Three Songs: Song for the Lonely,,
-2026-09-18,05:27,Giuseppe Verdi,The Force of Destiny (Overture),,
-2026-09-18,05:13,Wolfgang Amadeus Mozart,Piano Concerto No 22 in E flat (3rd mvt),,
-2026-09-18,05:10,George Walker,Trombone Concerto (3rd mvt),,
-2026-09-18,05:04,Richard Rodney Bennett,Waltz Theme (Murder on the Orient Express),,
-2026-09-18,04:53,Pyotr Tchaikovsky,Violin Concerto (3rd mvt),,
-2026-09-18,04:48,Jean‐Philippe Rameau,Achante et Céphise: Ouverture,,
-2026-09-18,04:41,Michael Tippett,Concerto for Double String Orchestra (1st mvt),,
-2026-09-18,04:37,Muzio Clementi,"Sonatina in G Major, Op 36 No 5 (3rd mvt)",,
-2026-09-18,04:31,Hubert Parry,I Was Glad,,
-2026-09-18,04:22,Emilie Mayer,Symphony No. 1 in C Minor: IV. Finale. Adagio - Allegro,,
-2026-09-18,04:17,Elfrida Andrée,Piano Sonata in A major (3rd mvt),,
-2026-09-18,04:10,Maurice Ravel,String Quartet in F major (2nd mvt),,
-2026-09-18,04:01,Bedrich Smetana,"Má Vlast (My Country): No. 3, Sarka",,
-2026-09-18,03:58,Ralph Vaughan Williams,Bushes and Briars,,
-2026-09-18,02:32,George Frideric Handel,Semele: Overture,,
-2026-09-18,02:25,Robert Schumann,"Fantasiestucke, Op. 73 no 1",,
-2026-09-18,02:17,Wolfgang Amadeus Mozart,"Flute Concerto in G Major, I. Allegro maestoso",,
-2026-09-18,02:11,Giovanni Pierluigi da Palestrina,Magnificat primi toni (for 8 voices),,
-2026-09-18,02:08,Edward Elgar,Serenade for Strings - III. Allegretto,,
-2026-09-18,02:04,Edward Elgar,Serenade for Strings - I. Allegro piacevole,,
-2026-09-18,01:55,Johann Sebastian Bach,"Sonata for Viola da Gamba and Harpsichord in D Major, BWV 1028: IV. Allegro",,
-2026-09-18,01:42,Orlande de Lassus,"Missa pro defunctis quinque vocum, LV 963: III. Tractus. Absolve Domine",,
-2026-09-18,01:33,Ludwig van Beethoven,"Piano Concerto No. 3 in C Minor, Op. 37 - II. Largo",,
-2026-09-18,01:28,Francesca Caccini,"Maria, dolce Maria - from Il primo libro delle musiche a una, e due voci",,
-2026-09-18,00:56,Jean Sibelius,"Symphony No 6 in D minor, Op 104",,
-2026-09-18,00:30,Maurice Ravel,Piano Trio in A minor (1914),,
-2026-09-18,00:23,Nicolaus a Kempis,"Symphonia No 1 a 5, Op 2",,
-2026-09-18,00:12,Claudio Monteverdi,Magnificat II,,
-2026-09-18,00:01,Alexander Scriabin,"Piano Sonata No 2 in G sharp minor, Op 19",,
-2026-09-18,16:04,Sir George Dyson,Woodland Suite: Moon Fairy,,
+date,time,artist,title,genre,deezer_link,youtube_added,youtube_video_id
+2026-09-05,Live,Johannes Brahms,Symphony No. 4,Unknown,https://www.deezer.com/track/1721666967,pending,
+2026-09-05,11:16,Ludwig van Beethoven,Piano Concerto No. 2,Unknown,https://www.deezer.com/track/4538933,pending,
+2026-09-05,11:02,Louise Farrenc,Overture No. 2,Unknown,https://www.deezer.com/track/2997223801,pending,
+2026-09-05,10:55,Spell Songs,Senegal,Unknown,https://www.deezer.com/track/4135347341,pending,
+2026-09-05,10:51,Saly Kouyaté,Dounougna,Unknown,https://www.deezer.com/track/3871117131,pending,
+2026-09-05,10:47,Jocelyn Balu,YA NZAMBE,Unknown,https://www.deezer.com/track/3834940911,pending,
+2026-09-05,10:43,John Mwale,Shirikisho la Africa,Unknown,https://www.deezer.com/track/3325873121,pending,
+2026-09-05,10:40,Jimmie Lasco,Cherie Mupenzi,Unknown,https://www.deezer.com/track/3789277512,pending,
+2026-09-05,10:28,Huw Marc Bennett,Carol Haf (Summer Carol),Unknown,https://www.deezer.com/track/3864264661,pending,
+2026-09-05,10:25,Mari Mathias,Pan Mae'r Glaw Yn Dod I Lawr,Unknown,https://www.deezer.com/track/4033269711,pending,
+2026-09-05,10:14,Antti Paalanen,Laulu luonnolle,Unknown,https://www.deezer.com/track/3976586491,pending,
+2026-09-05,10:12,Lads d'Alenquer,"Meninas, Vamos Ao Vira",Unknown,https://www.deezer.com/track/4075932021,pending,
+2026-09-05,10:05,Műhely Banda,FriciGéza fantázia,Unknown,https://www.deezer.com/track/3803872812,pending,
+2026-09-05,10:01,Abéu,RE3MBÁU - Muñeira,Unknown,https://www.deezer.com/track/3967354591,pending,
+2026-09-05,09:41,Eddie Barbash,Danca Da Fauna,Unknown,https://www.deezer.com/track/1364986492,pending,
+2026-09-05,09:26,Joni Mitchell,Carey,Unknown,https://www.deezer.com/track/2607670,pending,
+2026-09-05,09:18,Fanny Mendelssohn,Notturno in G Minor,Unknown,https://www.deezer.com/track/2929726271,pending,
+2026-09-05,09:18,Johann Sebastian Bach,"Sarabande (Partita No 4 in D Major, BWV 828)",Unknown,https://www.deezer.com/track/1873382827,pending,
+2026-09-05,09:01,Darius Milhaud,Brazileira (Scaramouche Suite),Unknown,https://www.deezer.com/track/2655256262,pending,
+2026-09-05,08:44,Jon Brion,"Lady Bird: ""Lady Bird""",Unknown,https://www.deezer.com/track/424999642,pending,
+2026-09-05,08:22,John Williams,"Hook: ""You Are the Pan""",Unknown,https://www.deezer.com/track/4222884612,pending,
+2026-09-05,08:14,London Metropolitan Orchestra & Michael Kamen,"Mr. Holland's Opus: ""Mr. Holland Begins""",Unknown,https://www.deezer.com/track/1762354787,pending,
+2026-09-05,08:06,Maurice Jarre,"Dead Poets' Society: ""Keating's Triumph""",Unknown,https://www.deezer.com/track/2112921497,pending,
+2026-09-05,08:01,Justin Hurwitz,"Whiplash: ""Overture""",Unknown,https://www.deezer.com/track/1398706552,pending,
+2026-09-05,06:41,Johann Sebastian Bach,Cantata BWV.156 'Ich steh' mit einem Fuss im Grabe' (Sinfonia),Unknown,https://www.deezer.com/track/137153636,pending,
+2026-09-05,06:04,Claudio Monteverdi,Duo seraphim (Vespers),Unknown,https://www.deezer.com/track/2626487032,pending,
+2026-09-05,05:11,Ludwig van Beethoven,Wellington's Victory,Unknown,https://www.deezer.com/track/1713193117,pending,
+2026-09-05,04:10,Maurice Ravel,La vallée des cloches (Miroirs),Unknown,https://www.deezer.com/track/64105041,pending,
+2026-09-05,04:05,Gene Ammons,Ammons' Boogie,Unknown,https://www.deezer.com/track/2948465,pending,
+2026-09-05,04:02,Richard Strauss,Capriccio: Moonlight Music,Unknown,https://www.deezer.com/track/2496400581,pending,
+2026-09-05,03:50,Robert Schumann,"Grillen (Fantasiestücke, Op 12)",Unknown,https://www.deezer.com/track/2506621701,pending,
+2026-09-05,03:41,Claude Debussy,Prélude à l'après-midi d'un faune,Unknown,https://www.deezer.com/track/65342384,pending,
+2026-09-05,03:05,Alessandro Scarlatti,"Correa nel seno amato, H. 146: I. Sinfonia and Balletto",Unknown,https://www.deezer.com/track/2780637871,pending,
+2026-09-05,02:27,Frédéric Chopin,"Fantaisie-impromptu in C sharp minor, Op.66",Unknown,https://www.deezer.com/track/40071301,pending,
+2026-09-05,01:59,Franz Liszt,Mephisto Waltz No 1,Unknown,https://www.deezer.com/track/66343148,pending,
+2026-09-05,01:30,Antonio Lauro,El Marabino,Unknown,https://www.deezer.com/track/3231971631,pending,
+2026-09-05,00:55,Johannes Brahms,Wie lieblich sind deine Wohnungen (Ein Deutsches Requiem),Unknown,https://www.deezer.com/track/1649000942,pending,
+2026-09-05,00:40,Duke Ellington,Sophisticated Lady,Unknown,https://www.deezer.com/track/1066855,pending,
+2026-09-05,00:07,Franz Lehár,Gold and Silver Waltz,Unknown,https://www.deezer.com/track/3133021611,pending,
+2026-09-06,16:46,Richard Wagner,Im Treibhaus,Unknown,https://www.deezer.com/track/66136941,pending,
+2026-09-06,14:28,Evan Parker,WW3,Unknown,https://www.deezer.com/track/1432725712,pending,
+2026-09-06,13:53,György Kurtág,"Grabstein für Stephan, op. 15c",Unknown,https://www.deezer.com/track/2154362897,pending,
+2026-09-06,13:40,Alban Berg,"Wozzeck - Act I Scene 3 ""Komm' mein Bub! (Marie's Lullaby)",Unknown,https://www.deezer.com/track/71884859,pending,
+2026-09-06,13:38,Orlande de Lassus,Timor et tremor,Unknown,https://www.deezer.com/track/65529011,pending,
+2026-09-06,13:31,John Williams,Main Title,Unknown,https://www.deezer.com/track/65443651,pending,
+2026-09-06,13:25,Rachel Portman,Flight,Unknown,https://www.deezer.com/track/1156993322,pending,
+2026-09-06,13:10,Johannes Brahms,Hungarian Dance No 5,Unknown,https://www.deezer.com/track/4158796,pending,
+2026-09-07,16:25,Orkun A.,Zenith,Unknown,https://www.deezer.com/track/4214784462,pending,
+2026-09-07,16:21,FAUZIA,Just a dream,Unknown,https://www.deezer.com/track/4024708871,pending,
+2026-09-07,16:16,Simon Goff,Sun,Unknown,https://www.deezer.com/track/2806846662,pending,
+2026-09-07,16:11,The White Mages & Peter Broderick,Hymn of the Fayth (Final Fantasy X),Unknown,https://www.deezer.com/track/3728310212,pending,
+2026-09-07,15:57,Niklas Paschburg,À La Maison,Unknown,https://www.deezer.com/track/3557383901,pending,
+2026-09-07,15:52,Kirk Barley & Matt Davies,Ecstatic,Unknown,https://www.deezer.com/track/4110891191,pending,
+2026-09-07,15:37,Sir Richard Bishop,Postcoital Serenade,Unknown,https://www.deezer.com/track/3949817371,pending,
+2026-09-07,15:30,Agnes Obel,Laymelli,Unknown,https://www.deezer.com/track/4222963582,pending,
+2026-09-07,15:25,Lucy Gooch,Like Clay,Unknown,https://www.deezer.com/track/3216535271,pending,
+2026-09-07,15:19,Francis Poulenc,"Cello Sonata, FP 143: II. Cavatine",Unknown,https://www.deezer.com/track/2377554295,pending,
+2026-09-07,15:06,Enji,Hungun,Unknown,https://www.deezer.com/track/3241231571,pending,
+2026-09-07,14:44,Sarah Neutkens,Its Low Sills,Unknown,https://www.deezer.com/track/2135300327,pending,
+2026-09-07,14:39,Miles Davis,It Never Entered My Mind,Unknown,https://www.deezer.com/track/1180378,pending,
+2026-09-07,14:36,Lia Kohl & Zander Raymond,What they said about,Unknown,https://www.deezer.com/track/3660522152,pending,
+2026-09-07,14:25,Dobrinka Tabakova,Sun Triptych: III. Dusk,Unknown,https://www.deezer.com/track/3513799321,pending,
+2026-09-07,14:22,modern biology,Mushroom Dance,Unknown,https://www.deezer.com/track/1700241507,pending,
+2026-09-07,14:12,Marietta Veulens,Campanas consonantes,Unknown,https://www.deezer.com/track/2332100,pending,
+2026-09-07,14:00,Flaer,Souvenir,Unknown,https://www.deezer.com/track/3428702131,pending,
+2026-09-07,13:54,Max Richter,The Consolations of Philosophy,Unknown,https://www.deezer.com/track/134520908,pending,
+2026-09-07,11:33,Benjamin Britten,The Young Person's Guide To The Orchestra Op.34,Unknown,https://www.deezer.com/track/68428878,pending,
+2026-09-07,10:33,Henry Purcell,My beloved spake,Unknown,https://www.deezer.com/track/2377587115,pending,
+2026-09-07,10:22,Henry Purcell,Evening Service in G minor (Nunc Dimittis),Unknown,https://www.deezer.com/track/2377588365,pending,
+2026-09-07,10:17,Henry Purcell,Evening Service in G minor (Magnificat),Unknown,https://www.deezer.com/track/2377588355,pending,
+2026-09-07,10:00,Jacobus Clemens non Papa,Ego flos campi,Unknown,https://www.deezer.com/track/2857438942,pending,
+2026-09-07,09:44,Johann Sebastian Bach,Prelude and Fugue in C minor,Unknown,https://www.deezer.com/track/1505741672,pending,
+2026-09-07,08:55,Erroll Garner,I'll Remember April,Unknown,https://www.deezer.com/track/1129289,pending,
+2026-09-07,08:49,Miles Davis,Stella By Starlight,Unknown,https://www.deezer.com/track/2711795,pending,
+2026-09-07,08:41,Coleman Hawkins & Ben Webster,It Never Entered My Mind,Unknown,https://www.deezer.com/track/548727872,pending,
+2026-09-07,08:25,Keith Jarrett,All The Things You Are,Unknown,https://www.deezer.com/track/1176145,pending,
+2026-09-07,08:21,Fergus McCreadie,Mountain Stream,Unknown,https://www.deezer.com/track/2605493062,pending,
+2026-09-07,08:17,Robin Nolan,Something,Unknown,https://www.deezer.com/track/3731927202,pending,
+2026-09-07,08:08,Ella Fitzgerald,Every time We Say Goodbye,Unknown,https://www.deezer.com/track/10218917,pending,
+2026-09-07,08:01,Tara Minton,El Colibri,Unknown,https://www.deezer.com/track/4085351571,pending,
+2026-09-07,07:43,Claude Debussy,Jeux de vagues,Unknown,https://www.deezer.com/track/65498310,pending,
+2026-09-07,07:32,Betty Jackson King,Psalm 57,Unknown,https://www.deezer.com/track/2066694127,pending,
+2026-09-07,07:13,Wolfgang Amadeus Mozart,"Symphony No. 31 in D major, K. 297 ""Paris"" (3rd mvt: Allegro)",Unknown,https://www.deezer.com/track/3273877931,pending,
+2026-09-07,07:02,Felix Mendelssohn,"A Midsummer Night's Dream, Incidental Music, Op. 61 (Scherzo)",Unknown,https://www.deezer.com/track/133694100,pending,
+2026-09-07,06:55,Christoph Willibald Gluck,Che farò senza Euridice! (Orfeo ed Euridice),Unknown,https://www.deezer.com/track/63760319,pending,
+2026-09-07,06:51,Christoph Willibald Gluck,Dance of the Blessed Spirits (Orfeo ed Euridice),Unknown,https://www.deezer.com/track/3317173761,pending,
+2026-09-07,06:16,Wolfgang Amadeus Mozart,Der Vogelfänger bin ich ja (The Magic Flute),Unknown,https://www.deezer.com/track/3308964891,pending,
+2026-09-07,05:58,Claude Debussy,Syrinx,Unknown,https://www.deezer.com/track/65342393,pending,
+2026-09-07,05:53,Jacques Offenbach,Can-Can (Orpheus in the Underworld),Unknown,https://www.deezer.com/track/1146133142,pending,
+2026-09-07,05:50,Philip Glass,"La chambre d'Orphée (Orphée, Act 1)",Unknown,https://www.deezer.com/track/4062894521,pending,
+2026-09-07,05:40,Claudio Monteverdi,L'Orfeo (Toccata),Unknown,https://www.deezer.com/track/65340642,pending,
+2026-09-07,04:33,Benjamin Britten,"Variations on a theme of Frank Bridge, Op. 10",Unknown,https://www.deezer.com/track/65727976,pending,
+2026-09-07,04:16,Imogen Holst,Suite,Unknown,https://www.deezer.com/track/1468327362,pending,
+2026-09-07,02:52,Ethel Smyth,"The Wreckers (Prelude to Act 2, 'On the Cliffs of Cornwall')",Unknown,https://www.deezer.com/track/2777978181,pending,
+2026-09-07,01:58,Elias Parish Alvars,La Mandoline,Unknown,https://www.deezer.com/track/71815433,pending,
+2026-09-07,01:51,Giuseppe Verdi,La forza del destino (Overture),Unknown,https://www.deezer.com/track/4143914852,pending,
+2026-09-07,01:34,Anthony Hedges,Heigham Sound,Unknown,https://www.deezer.com/track/2768109591,pending,
+2026-09-07,00:30,Wolfgang Amadeus Mozart,Soave sia il vento (Cosi Fan Tutte),Unknown,https://www.deezer.com/track/1533385442,pending,
+2026-09-07,00:08,Aldo Romano,Camino,Unknown,https://www.deezer.com/track/3717664532,pending,
+2026-09-08,17:21,Manuel de Falla,Noches en los jardines de Espana,Unknown,https://www.deezer.com/track/746251802,pending,
+2026-09-08,16:46,Diego Ortiz,Recercada Quarta sobre 'La Folía',Unknown,https://www.deezer.com/track/66112472,pending,
+2026-09-08,16:26,Bill Evans,Like Someone In Love,Unknown,https://www.deezer.com/track/879791372,pending,
+2026-09-08,16:20,Nancy Wilson & Cannonball Adderley,The Masquerade Is Over,Unknown,https://www.deezer.com/track/3126280,pending,
+2026-09-08,16:14,Shirley Scott,On A Clear Day,Unknown,https://www.deezer.com/track/4109282,pending,
+2026-09-08,16:08,Emma Smith,I'm in the Middle of a Muddle,Unknown,https://www.deezer.com/track/3243608311,pending,
+2026-09-08,16:00,Azamiah,Too Precious,Unknown,https://www.deezer.com/track/3839317261,pending,
+2026-09-08,15:56,Melba Liston,Pow!,Unknown,https://www.deezer.com/track/10248367,pending,
+2026-09-08,15:40,Ruby Wood,This Thing Called Life,Unknown,https://www.deezer.com/track/4028476371,pending,
+2026-09-08,15:36,Stan Getz,Night Rider,Unknown,https://www.deezer.com/track/543099972,pending,
+2026-09-08,15:30,Matt Stewart-Evans,Moonlight Lullaby,Unknown,https://www.deezer.com/track/2442206715,pending,
+2026-09-08,15:25,Mabe Fratti,Algo Grandioso,Unknown,https://www.deezer.com/track/1942521497,pending,
+2026-09-08,14:57,Johannes Brahms,"Clarinet Trio in A minor, Op. 114 : II. Adagio",Unknown,https://www.deezer.com/track/1883684517,pending,
+2026-09-08,14:39,Rachika Nayar,Memory as Miniatures,Unknown,https://www.deezer.com/track/2117774957,pending,
+2026-09-08,14:34,Johann Sebastian Bach,O Lamm Gottes unschuldig,Unknown,https://www.deezer.com/track/65797910,pending,
+2026-09-08,14:31,Maridalen,Landkjenning,Unknown,https://www.deezer.com/track/2291532925,pending,
+2026-09-08,14:24,Ella Fitzgerald,Round Midnight,Unknown,https://www.deezer.com/track/548784752,pending,
+2026-09-08,14:16,SOHN,Harmonizer,Unknown,https://www.deezer.com/track/3453167091,pending,
+2026-09-08,14:09,Fraser Fifield,Lament for the old sword,Unknown,https://www.deezer.com/track/1503716852,pending,
+2026-09-08,14:07,Kita Kouhei,tinySketch #37,Unknown,https://www.deezer.com/track/3479135101,pending,
+2026-09-08,14:00,Britton Judd,Caterpillar Treehouse,Unknown,https://www.deezer.com/track/3249097131,pending,
+2026-09-08,13:23,Eric Whitacre,Sleep,Unknown,https://www.deezer.com/track/7198167,pending,
+2026-09-08,11:50,Carl Friedrich Abel,Adagio,Unknown,https://www.deezer.com/track/2968448891,pending,
+2026-09-08,11:17,Robert Schumann,Concerto In D Minor,Unknown,https://www.deezer.com/track/1758924587,pending,
+2026-09-08,10:50,Claude Debussy,"La romance d'Ariel, L. 54",Unknown,https://www.deezer.com/track/65551949,pending,
+2026-09-08,10:47,John Williams,Imperial March (The Empire Strikes Back),Unknown,https://www.deezer.com/track/945047992,pending,
+2026-09-08,10:16,Wolfgang Amadeus Mozart,"Piano Concerto No. 20 in D Minor, K. 466: II. Romance",Unknown,https://www.deezer.com/track/66287129,pending,
+2026-09-08,09:48,Felix Mendelssohn,Violin Concerto in D Minor: III. Allegro,Unknown,https://www.deezer.com/track/2377602815,pending,
+2026-09-08,09:31,Johannes Brahms,"Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto",Unknown,https://www.deezer.com/track/3232010471,pending,
+2026-09-08,09:11,Duke Ellington,In A Sentimental Mood,Unknown,https://www.deezer.com/track/911085,pending,
+2026-09-08,08:00,Stephen Sondheim,Send in the Clowns,Unknown,https://www.deezer.com/track/1046110,pending,
+2026-09-08,06:56,Ludwig van Beethoven,"Piano Trio No. 4 in B flat, op. 11 ('Gassenhauer')",Unknown,https://www.deezer.com/track/65686006,pending,
+2026-09-08,06:03,Johannes Brahms,Symphony No 4 in E minor,Unknown,https://www.deezer.com/track/1721666967,pending,
+2026-09-08,05:38,Leoš Janáček,Sinfonietta,Unknown,https://www.deezer.com/track/2132403397,pending,
+2026-09-08,05:04,Felix Mendelssohn,"Octet in E flat, op. 20",Unknown,https://www.deezer.com/track/101921651,pending,
+2026-09-08,04:56,Eric Whitacre,Lux aurumque,Unknown,https://www.deezer.com/track/7198152,pending,
+2026-09-08,04:07,Wolfgang Amadeus Mozart,"Violin Concerto No. 5 in A Major, ""Turkish""",Unknown,https://www.deezer.com/track/1533385042,pending,
+2026-09-08,03:47,Manuel Ponce,Estrellita,Unknown,https://www.deezer.com/track/2645820822,pending,
+2026-09-08,03:43,Giuseppe Verdi,La Donna e Mobile (Rigoletto),Unknown,https://www.deezer.com/track/66662535,pending,
+2026-09-08,03:30,Ivor Gurney,Sleep (5 Elizabethan Songs),Unknown,https://www.deezer.com/track/2377599315,pending,
+2026-09-08,02:08,Antonio Vivaldi,"Cum dederit dilectis (Nisi Dominus, RV 608)",Unknown,https://www.deezer.com/track/755382062,pending,
+2026-09-08,01:42,Georg Philipp Telemann,"Viola Concerto in G major, TWV 51:G9",Unknown,https://www.deezer.com/track/66632928,pending,
+2026-09-08,01:31,George Gershwin,Girl Crazy (Overture),Unknown,https://www.deezer.com/track/10405739,pending,
+2026-09-08,01:26,Jorunn Vidar,Vökuró,Unknown,https://www.deezer.com/track/2113901647,pending,
+2026-09-08,01:17,Gabriel Fauré,Le pas espagnol (Dolly Suite),Unknown,https://www.deezer.com/track/3924267021,pending,
+2026-09-08,00:50,Johann Sebastian Bach,Trio Sonata in C Major (Largo),Unknown,https://www.deezer.com/track/2655186262,pending,
+2026-09-08,00:24,Giuseppe Verdi,Nabucco (Overture),Unknown,https://www.deezer.com/track/2795131592,pending,
+2026-09-09,11:24,Duke Ellington,Caravan,Unknown,https://www.deezer.com/track/560698,pending,
+2026-09-18,Live,John Williams,ET Adventures on Earth,,,pending,
+2026-09-18,15:47,Jean Sibelius,At the Castle Gate (Pelleas and Melisande),,,pending,
+2026-09-18,15:41,Jessie Montgomery,Starburst,,,pending,
+2026-09-18,15:36,Phillip Houghton,The Mantis and the Moon,,,pending,
+2026-09-18,15:31,William Walton,Cantico del sole,,,pending,
+2026-09-18,15:23,Dobrinka Tabakova,Sun Triptych (Dawn),,,pending,
+2026-09-18,15:12,Josef Strauss,Music of the Spheres,,,pending,
+2026-09-18,15:06,Henry Mancini,Moon River,,,pending,
+2026-09-18,14:59,Claude Debussy,Clair de lune,,,pending,
+2026-09-18,14:54,Joby Talbot,The Transit of Venus,,,pending,
+2026-09-18,14:49,Patric Standford,Celestial Fire Suite 2: Waltz,,,pending,
+2026-09-18,14:45,George Melachrino,Starlight Roof Waltz,,,pending,
+2026-09-18,14:40,Albert Ketèlbey,In the Moonlight,,,pending,
+2026-09-18,14:33,Dobrinka Tabakova,Orpheus' Comet,,,pending,
+2026-09-18,14:27,Arnold Schoenberg,Verklarte Nacht (conclusion),,,pending,
+2026-09-18,14:22,Sergey Rachmaninov,"Prelude in D major, Op 23 No 4",,,pending,
+2026-09-18,14:15,George Frideric Handel,"""Fra l'ombre e gl'orrori"" (Aci, Galatea e Polifemo)",,,pending,
+2026-09-18,14:11,Élisabeth Jacquet de La Guerre,Violin Sonata No. 1 in D Minor: V. Aria,,,pending,
+2026-09-18,14:07,Giuseppe Verdi,La Traviata (Act 1 Prelude),,,pending,
+2026-09-18,14:01,James McMillan,Christus vincit,,,pending,
+2026-09-18,13:56,Frank Loesser,Guys and Dolls: Adelaide: 'Take Back Your Mink' with Dolls,,,pending,
+2026-09-18,13:51,Steve Reich,Electric Counterpoint (Fast),,,pending,
+2026-09-18,13:41,Ludwig van Beethoven,"Symphony No 7 in A major, Op 92 (3rd mvt)",,,pending,
+2026-09-18,13:37,Heitor Villa‐Lobos,O Trenzinho do Caipira,,,pending,
+2026-09-18,13:28,Franz Liszt,"Au lac de Wallenstadt (Années de pèlerinage, 1er année Suisse)",,,pending,
+2026-09-18,13:18,Sergey Rachmaninov,Prelude in C sharp minor (5 Morceaux de fantaisie Op.3),,,pending,
+2026-09-18,13:12,Lucy Walker & Sara Teasdale,Give Me Your Stars,,,pending,
+2026-09-18,13:05,Dmitry Shostakovich,Romance (The Gadfly),,,pending,
+2026-09-18,12:55,Henry Purcell,Pavan in G minor,,,pending,
+2026-09-18,12:51,Antonín Dvořák,"Slavonic Dance in G minor, Op 46 No 8",,,pending,
+2026-09-18,12:49,Arnold Schoenberg,"Kleine Klavierstücke, Op. 19 - II. Langsam",,,pending,
+2026-09-18,12:48,Arnold Schoenberg,"Sechs kleine Klavierstücke, Op. 19 I. Leicht, zart",,,pending,
+2026-09-18,12:41,Franz Schubert,"38 Waltzes, Laendler and Ecossaises",,,pending,
+2026-09-18,12:31,Alexander Borodin,In the Steppes of Central Asia,,,pending,
+2026-09-18,12:28,Arthur Benjamin,Jamaican Rumba,,,pending,
+2026-09-18,12:24,Antonio Vivaldi,Concerto in A minor for 2 violins RV.522 (1st mvt),,,pending,
+2026-09-18,12:21,György Kurtág,"Birthday Elegy for Judit - for the second finger of her left hand (from Játékok, Book VI: No.33)",,,pending,
+2026-09-18,12:20,György Kurtág,"Thus It Happened (from Játékok, Book III: No.4)",,,pending,
+2026-09-18,12:14,György Kurtág,"Doina (from Játékok, Book VI: No.34)",,,pending,
+2026-09-18,12:10,Gustav Holst,Brook Green Suite: III. Dance,,,pending,
+2026-09-18,12:09,Gustav Holst,Brook Green Suite: II. Air,,,pending,
+2026-09-18,12:07,Gustav Holst,Brook Green Suite: I. Prelude,,,pending,
+2026-09-18,12:00,Camille Saint‐Saëns,Piano Concerto no.2 Op.22 (2nd mvt),,,pending,
+2026-09-18,11:49,Franz Schubert,Piano Quintet in A major 'Trout' D.667 (3rd & 4th mvts),,,pending,
+2026-09-18,11:30,Franz Schubert,"Piano Sonata in B flat major, D.960 (1st mvt)",,,pending,
+2026-09-18,11:14,Franz Schubert,"String Quintet in C major, D.956 (2nd mvt)",,,pending,
+2026-09-18,11:04,Franz Schubert,"Tantum ergo, D.962",,,pending,
+2026-09-18,11:01,Franz Schubert,Piano Trio in E flat major D.929 (2nd mvt),,,pending,
+2026-09-18,10:28,Antonín Dvořák,"Piano Trio No. 4 in E minor, op. 90 ('Dumky')",,,pending,
+2026-09-18,10:19,Jonathan Dove,Sweet are the Uses of Adversity,,,pending,
+2026-09-18,10:06,Anne Dudley,Northern Lights,,,pending,
+2026-09-18,09:57,Giovanni Razzi,O Vergin Santa,,,pending,
+2026-09-18,09:52,Giovanni Razzi,O dolcezza,,,pending,
+2026-09-18,09:05,Sergey Prokofiev,"Symphony No. 5 in B flat, Op. 100",,,pending,
+2026-09-18,08:55,Franz Liszt,Mazeppa (Etudes d'execution transcendante S.139),,,pending,
+2026-09-18,08:32,Antonio Vivaldi,"Nisi Dominus in G minor, RV 608",,,pending,
+2026-09-18,08:21,Trad.,'Rastanak' (Farewell),,,pending,
+2026-09-18,08:04,Ottorino Respighi,"Fountains of Rome (Fontane di Roma), symphonic poem",,,pending,
+2026-09-18,07:45,Giacomo Puccini,La Boheme (Act I conclusion),,,pending,
+2026-09-18,07:43,Hélène de Montgeroult,Piano Etude No. 65 in E-Flat Minor,,,pending,
+2026-09-18,07:37,Heinrich Biber,Violin Sonata No 3 in F major (4th mvt),,,pending,
+2026-09-18,07:34,Jerome Moross,The Big Country (main theme),,,pending,
+2026-09-18,07:08,Franz Schubert,"Arpeggione Sonata in A minor, D.821",,,pending,
+2026-09-18,06:56,Maurice Ravel,"Concerto for piano and orchestra in G major, 2nd mvt; Adagio assai",,,pending,
+2026-09-18,06:48,Gustav Mahler,Symphony No 2 'Resurrection' (conclusion),,,pending,
+2026-09-18,06:41,Ilse Weber,Wiegala,,,pending,
+2026-09-18,06:32,Wolfgang Amadeus Mozart,Symphony no. 40 in G minor K.550 (1st mvt),,,pending,
+2026-09-18,06:25,Camille Saint‐Saëns,"Danse macabre, Op. 40",,,pending,
+2026-09-18,06:19,Ludwig van Beethoven,Piano Sonata No 17 in D Minor 'Tempest' (3rd mvt),,,pending,
+2026-09-18,06:18,Christopher Gunning,Agatha Christie's Poirot - Theme,,,pending,
+2026-09-18,06:08,Thomas Tallis,Why fum'th in fight (Archbishop Parker's Psalter),,,pending,
+2026-09-18,05:53,Sergey Prokofiev,Symphony no.1 in D major 'Classical',,,pending,
+2026-09-18,05:49,Sergey Rachmaninov,"Prelude in B flat major, Op.23 No.2",,,pending,
+2026-09-18,05:39,George Frideric Handel,Concerto grosso in D major Op.3'6,,,pending,
+2026-09-18,05:36,William Grant Still,Three Songs: Song for the Lonely,,,pending,
+2026-09-18,05:27,Giuseppe Verdi,The Force of Destiny (Overture),,,pending,
+2026-09-18,05:13,Wolfgang Amadeus Mozart,Piano Concerto No 22 in E flat (3rd mvt),,,pending,
+2026-09-18,05:10,George Walker,Trombone Concerto (3rd mvt),,,pending,
+2026-09-18,05:04,Richard Rodney Bennett,Waltz Theme (Murder on the Orient Express),,,pending,
+2026-09-18,04:53,Pyotr Tchaikovsky,Violin Concerto (3rd mvt),,,pending,
+2026-09-18,04:48,Jean‐Philippe Rameau,Achante et Céphise: Ouverture,,,pending,
+2026-09-18,04:41,Michael Tippett,Concerto for Double String Orchestra (1st mvt),,,pending,
+2026-09-18,04:37,Muzio Clementi,"Sonatina in G Major, Op 36 No 5 (3rd mvt)",,,pending,
+2026-09-18,04:31,Hubert Parry,I Was Glad,,,pending,
+2026-09-18,04:22,Emilie Mayer,Symphony No. 1 in C Minor: IV. Finale. Adagio - Allegro,,,pending,
+2026-09-18,04:17,Elfrida Andrée,Piano Sonata in A major (3rd mvt),,,pending,
+2026-09-18,04:10,Maurice Ravel,String Quartet in F major (2nd mvt),,,pending,
+2026-09-18,04:01,Bedrich Smetana,"Má Vlast (My Country): No. 3, Sarka",,,pending,
+2026-09-18,03:58,Ralph Vaughan Williams,Bushes and Briars,,,pending,
+2026-09-18,02:32,George Frideric Handel,Semele: Overture,,,pending,
+2026-09-18,02:25,Robert Schumann,"Fantasiestucke, Op. 73 no 1",,,pending,
+2026-09-18,02:17,Wolfgang Amadeus Mozart,"Flute Concerto in G Major, I. Allegro maestoso",,,pending,
+2026-09-18,02:11,Giovanni Pierluigi da Palestrina,Magnificat primi toni (for 8 voices),,,pending,
+2026-09-18,02:08,Edward Elgar,Serenade for Strings - III. Allegretto,,,pending,
+2026-09-18,02:04,Edward Elgar,Serenade for Strings - I. Allegro piacevole,,,pending,
+2026-09-18,01:55,Johann Sebastian Bach,"Sonata for Viola da Gamba and Harpsichord in D Major, BWV 1028: IV. Allegro",,,pending,
+2026-09-18,01:42,Orlande de Lassus,"Missa pro defunctis quinque vocum, LV 963: III. Tractus. Absolve Domine",,,pending,
+2026-09-18,01:33,Ludwig van Beethoven,"Piano Concerto No. 3 in C Minor, Op. 37 - II. Largo",,,pending,
+2026-09-18,01:28,Francesca Caccini,"Maria, dolce Maria - from Il primo libro delle musiche a una, e due voci",,,pending,
+2026-09-18,00:56,Jean Sibelius,"Symphony No 6 in D minor, Op 104",,,pending,
+2026-09-18,00:30,Maurice Ravel,Piano Trio in A minor (1914),,,pending,
+2026-09-18,00:23,Nicolaus a Kempis,"Symphonia No 1 a 5, Op 2",,,pending,
+2026-09-18,00:12,Claudio Monteverdi,Magnificat II,,,pending,
+2026-09-18,00:01,Alexander Scriabin,"Piano Sonata No 2 in G sharp minor, Op 19",,,pending,
+2026-09-18,16:04,Sir George Dyson,Woodland Suite: Moon Fairy,,,pending,
+2026-09-19,Live,Alexander von Zemlinsky,Die Seejungfrau,,,pending,
+2026-09-19,18:31,Arnold Schoenberg,Pelleas and Melisande Op 5,,,pending,
+2026-09-19,18:23,Maisha,There Is A Place,,,pending,
+2026-09-19,18:14,Gary Bartz & Your Brother's Keeper,Locris (Live at The Premises Studios),,,pending,
+2026-09-19,18:03,Gary Bartz & Your Brother's Keeper,Cauldron (Live at The Premises Studios),,,pending,
+2026-09-19,17:55,Chiminyo,Re:Unite,,,pending,
+2026-09-19,17:50,Clara Serra López,Por No Sufrir,,,pending,
+2026-09-19,17:41,Gary Bartz & Your Brother's Keeper,Mantra (Live at The Premises Studios),,,pending,
+2026-09-19,17:30,Gary Bartz,Jujuman,,,pending,
+2026-09-19,17:27,Cities Aviv,Spinning & Spinning,,,pending,
+2026-09-19,17:19,"Louhivuori, Lønning & Myhr",Cirrus,,,pending,
+2026-09-19,17:13,Chris Wood,John Barleycorn,,,pending,
+2026-09-19,17:09,Finn Loxbo,Tumlare,,,pending,
+2026-09-19,17:04,"Charlemagne Palestine, Oren Ambarchi & Daniel O’Sullivan",B,,,pending,
+2026-09-19,17:00,Throbbing Gristle,Hamburger Lady,,,pending,
+2026-09-19,16:55,Negro Leo,Noite Invertida,,,pending,
+2026-09-19,16:46,RAP,Barley Wine,,,pending,
+2026-09-19,16:42,David Chatton Barker,Decomposition (feat. Mary Stark),,,pending,
+2026-09-19,16:35,Gamelan Ensemble Majuli Agung,Tabuh Lelambatan Lawas,,,pending,
+2026-09-19,16:31,Matmos,The Rust Belt,,,pending,
+2026-09-19,16:30,Mary Stark,Harvest Home,,,pending,
+2026-09-19,16:24,Mike Reed’s Separatist Party,New Angels,,,pending,
+2026-09-19,16:21,Antonio Russek,La Trama de la Vida,,,pending,
+2026-09-19,16:15,አለማየሁ እሸቴ,Alteleyeshegnem,,,pending,
+2026-09-19,16:14,Marco Pezzenati & Mario Gabola,Mekong Part 1,,,pending,
+2026-09-19,16:11,Shovel Dance Collective,Tally Ho! Hark Away!,,,pending,
+2026-09-19,16:07,Rosso Polare,Falò,,,pending,
+2026-09-19,16:05,"Amadu, Guiga, Yabba, and a group of children",Harvest Song From Buzi,,,pending,
+2026-09-19,16:01,Sourdure,Le Pebre (avec Lisà Langlois),,,pending,
+2026-09-19,15:34,Richard Strauss,"Prelude (Sextet) from Capriccio, Op 85",,,pending,
+2026-09-19,15:25,Ross Edwards,Full Moon Dances - Second Ritual Dance,,,pending,
+2026-09-19,15:18,Ferde Grofé,Grand Canyon Suite: Sunset,,,pending,
+2026-09-19,15:12,Jonathan Dove,Sunshine,,,pending,
+2026-09-19,15:07,Lord Berners,The Triumph of Neptune: Cloudland,,,pending,

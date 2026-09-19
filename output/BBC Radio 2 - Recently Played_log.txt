@@ -26,3 +26,9 @@ Script started for BBC Radio 2 - Recently Played
 YOUTUBE FAILED: David Kreuger, Esbjörn Öhrwall, Max Martin, Per Magnusson & Britney Spears - (You Drive Me) Crazy
 Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=David+Kreuger%2C+Esbj%C3%B6rn+%C3%96hrwall%2C+Max+Martin%2C+Per+Magnusson+%26+Britney+Spears+%28You+Drive+Me%29+Crazy&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
 Script finished for BBC Radio 2 - Recently Played. New songs: 1, YouTube added: 0, YouTube failures: 1, CSV failures: 0
+
+Script started for BBC Radio 2 - Recently Played
+YOUTUBE FAILED: The Shamen - Ebeneezer Goode
+Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=The+Shamen+Ebeneezer+Goode&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+Script finished for BBC Radio 2 - Recently Played. New songs: 60, YouTube added: 0, YouTube failures: 1, CSV failures: 0
+YouTube quota was exhausted. Remaining songs are pending for the next run.

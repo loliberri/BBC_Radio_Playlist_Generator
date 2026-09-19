@@ -1,629 +1,697 @@
-date,time,artist,title,genre,deezer_link
-2026-09-05,Live,Ruze & Ryan Nicholls,Time Again,Unknown,https://www.deezer.com/track/3603456342
-2026-09-05,12:56,All Saints,Pure Shores,Unknown,https://www.deezer.com/track/475397982
-2026-09-05,12:51,Tim Deluxe,It Just Won't Do (Dub Mix),Unknown,https://www.deezer.com/track/14748021
-2026-09-05,12:49,Space Cowboy,I Would Die 4 U,Unknown,https://www.deezer.com/track/14210221
-2026-09-05,12:45,Mr Hermano,Hypnotista (Ambient Dub),Unknown,https://www.deezer.com/track/73599144
-2026-09-05,12:31,Camisra,Let Me Show You,Unknown,https://www.deezer.com/track/3441398331
-2026-09-05,12:30,Fatboy Slim,"Right Here, Right Now",Unknown,https://www.deezer.com/track/15686769
-2026-09-05,12:30,Underworld,Born Slippy,Unknown,https://www.deezer.com/track/82265248
-2026-09-05,12:25,High Contrast,Music Is Everything,Unknown,https://www.deezer.com/track/1053472862
-2026-09-05,12:17,The Streets,Weak Become Heroes,Unknown,https://www.deezer.com/track/6112956
-2026-09-05,12:00,Moby,In This World,Unknown,https://www.deezer.com/track/1895213657
-2026-09-05,11:56,Basement Jaxx,Do Your Thing,Unknown,https://www.deezer.com/track/567656012
-2026-09-05,11:53,Layo & Bushwacka!,Love Story (Vs Finally),Unknown,https://www.deezer.com/track/940287
-2026-09-05,11:49,Paul Oakenfold,Southern Sun (DJ Tiesto Remix),Unknown,https://www.deezer.com/track/3383567841
-2026-09-05,11:46,Scissor Sisters,Comfortably Numb,Unknown,https://www.deezer.com/track/984088782
-2026-09-05,11:41,Timo Maas,To Get Down,Unknown,https://www.deezer.com/track/680610
-2026-09-05,11:38,Junior Jack,Thrill Me,Unknown,https://www.deezer.com/track/3757573
-2026-09-05,11:35,Benny Benassi,Satisfaction,Unknown,https://www.deezer.com/track/82723672
-2026-09-05,11:32,New Order,Blue Monday,Unknown,https://www.deezer.com/track/706051
-2026-09-05,11:24,Kylie Minogue,Come into My World (Fischerspooner Mix),Unknown,https://www.deezer.com/track/3164029
-2026-09-05,11:20,DB Boulevard,Point Of View,Unknown,https://www.deezer.com/track/509076672
-2026-09-05,11:12,The Chemical Brothers,Star Guitar,Unknown,https://www.deezer.com/track/3088130
-2026-09-05,11:04,David Guetta,Love Don't Let Me Go,Unknown,https://www.deezer.com/track/3544008
-2026-09-05,11:00,Shakedown,At Night,Unknown,https://www.deezer.com/track/6322621
-2026-09-05,10:55,FISHER,What A Life (feat. Florence Arman),Unknown,https://www.deezer.com/track/4060215451
-2026-09-05,10:52,Chase & Status,Gone Too Far (feat. Debbie),Unknown,https://www.deezer.com/track/4215099272
-2026-09-05,10:47,Charlotte Plank & Notion,Burberry,Unknown,https://www.deezer.com/track/4200662702
-2026-09-05,10:45,Aitch,RMB (Ring My Bell),Unknown,https://www.deezer.com/track/4020194161
-2026-09-05,10:41,Interplanetary Criminal & Silva Bumpa,Hold Da Phone,Unknown,https://www.deezer.com/track/4233537022
-2026-09-05,10:36,TSHA,Tell Me (feat. Pollena),Unknown,https://www.deezer.com/track/4174108522
-2026-09-05,10:34,D.O.D & Izzy Bizu,Careful,Unknown,https://www.deezer.com/track/4167367352
-2026-09-05,10:31,goddard. & Charlotte Haining,Stamina,Unknown,https://www.deezer.com/track/4170984332
-2026-09-05,10:27,CHRIS STASSY,Wide Awake,Unknown,https://www.deezer.com/track/3877265471
-2026-09-05,10:25,Clementine Douglas,Trust,Unknown,https://www.deezer.com/track/4175128462
-2026-09-05,10:23,Kolter,Hey Everybody,Unknown,https://www.deezer.com/track/4144811412
-2026-09-05,10:20,Prospa & Cloonee,Free Your Mind,Unknown,https://www.deezer.com/track/3892798531
-2026-09-05,10:17,Sonny Fodera & Becky Hill,Say Something,Unknown,https://www.deezer.com/track/4195609602
-2026-09-05,10:13,Wilkinson & NORTH,Balance,Unknown,https://www.deezer.com/track/3704769712
-2026-09-05,10:09,Disco Lines & Tinashe,No Broke Boys,Unknown,https://www.deezer.com/track/3410229851
-2026-09-05,10:07,Jazzy & Chris Lorenzo,Invisible,Unknown,https://www.deezer.com/track/4082082121
-2026-09-05,10:04,KETTAMA,Comes and Goes,Unknown,https://www.deezer.com/track/4003592211
-2026-09-05,10:01,Gorgon City & Jem Cooke,Oracle,Unknown,https://www.deezer.com/track/4111229781
-2026-09-05,09:57,Sweet Female Attitude,Flowers (Sunship Edit),Unknown,https://www.deezer.com/track/106807216
-2026-09-05,09:55,Floorplan,Tell You No Lie,Unknown,https://www.deezer.com/track/123008826
-2026-09-05,09:53,Franky Rizardo,Same Man,Unknown,https://www.deezer.com/track/3156027471
-2026-09-05,09:51,Oden & Fatzo,Lauren (I Can't Stay Forever),Unknown,https://www.deezer.com/track/1498985822
-2026-09-05,09:44,Gregory Porter,Liquid Spirit (Claptone Remix),Unknown,https://www.deezer.com/track/103016792
-2026-09-05,09:29,LF SYSTEM,Dancing Cliché,Unknown,https://www.deezer.com/track/1508247282
-2026-09-05,09:23,TSHA & Clementine Douglas,Dancing In The Shadows,Unknown,https://www.deezer.com/track/1854469517
-2026-09-05,09:19,Madison Avenue,Don't Call Me Baby (Motez Vicious21 Remix),Unknown,https://www.deezer.com/track/4107194741
-2026-09-05,09:15,PAWSA & Nate Dogg,Pick Up The Phone,Unknown,https://www.deezer.com/track/2825310272
-2026-09-05,09:13,Modjo,Lady (Hear Me Tonight),Unknown,https://www.deezer.com/track/70179720
-2026-09-05,09:11,Martin Garrix,Don't Look Down (feat. Usher),Unknown,https://www.deezer.com/track/96974184
-2026-09-05,09:08,Mylo,In My Arms,Unknown,https://www.deezer.com/track/1893428457
-2026-09-05,09:05,The Girl Next Door,Salsoul Nugget (If U Wanna),Unknown,https://www.deezer.com/track/1132225822
-2026-09-05,09:02,Bicep,Glue,Unknown,https://www.deezer.com/track/373789461
-2026-09-05,08:57,Icarus,King Kong,Unknown,https://www.deezer.com/track/142520351
-2026-09-05,08:51,Brookes Brothers,Good Thing,Unknown,https://www.deezer.com/track/1733734257
-2026-09-05,08:49,OFFAIAH,Trouble,Unknown,https://www.deezer.com/track/381143101
-2026-09-05,08:47,"Steve Aoki, Chris Lake & Tujamo",Boneless,Unknown,https://www.deezer.com/track/86453207
-2026-09-05,08:44,Kelly Rowland,Commander (feat. David Guetta),Unknown,https://www.deezer.com/track/2531104321
-2026-09-05,08:42,Switch Disco & Ella Henderson,REACT,Unknown,https://www.deezer.com/track/2101410027
-2026-09-05,08:38,High Contrast,Going Up,Unknown,https://www.deezer.com/track/1157015202
-2026-09-05,08:32,Julie McDermott,Don't Go (Gerd Janson Re-Work),Unknown,https://www.deezer.com/track/1505092792
-2026-09-05,08:16,Duke Dumont,Won't Look Back,Unknown,https://www.deezer.com/track/81105486
-2026-09-05,08:13,Example,Changed The Way You Kiss Me,Unknown,https://www.deezer.com/track/2744587511
-2026-09-05,08:10,Calvin Harris,I'm Not Alone,Unknown,https://www.deezer.com/track/13131862
-2026-09-05,08:01,Noizu,Summer 91 (Looking Back),Unknown,https://www.deezer.com/track/1163136562
-2026-09-05,07:58,Hannah Boleyn,Teardrop (Friction & Subsonic Remix),Unknown,https://www.deezer.com/track/3763981062
-2026-09-05,07:55,Issey Cross,Bittersweet Goodbye,Unknown,https://www.deezer.com/track/2405850825
-2026-09-05,07:52,Sub Focus & Dimension,Desire,Unknown,https://www.deezer.com/track/552381242
-2026-09-05,07:47,Nathan Dawe,We Ain't Here For Long,Unknown,https://www.deezer.com/track/2642515862
-2026-09-05,07:40,LAVINIA & Ely Oaks,Reasons,Unknown,https://www.deezer.com/track/4126729511
-2026-09-05,07:37,In Parallel,NOW IT'S GONE,Unknown,https://www.deezer.com/track/3037846761
-2026-09-05,07:32,PAWSA,TOO COOL TO BE CARELESS,Unknown,https://www.deezer.com/track/2862125622
-2026-09-05,07:30,Solardo & Eli Brown,XTC,Unknown,https://www.deezer.com/track/709596432
-2026-09-05,07:28,Basement Jaxx,Where's Your Head At,Unknown,https://www.deezer.com/track/2661882
-2026-09-05,07:25,Martin Solveig & Good Times Ahead,Intoxicated,Unknown,https://www.deezer.com/track/452697382
-2026-09-05,07:22,Disclosure,"She's Gone, Dance On",Unknown,https://www.deezer.com/track/2813082002
-2026-09-05,07:19,CID & Westend,Let Me Take You,Unknown,https://www.deezer.com/track/1724395347
-2026-09-05,07:15,Mr. Probz,Waves (Robin Schulz Remix),Unknown,https://www.deezer.com/track/1084862592
-2026-09-05,07:12,Secondcity,I Wanna Feel,Unknown,https://www.deezer.com/track/3806585392
-2026-09-05,07:05,PS1,Fake Friends (feat. Alex Hosking),Unknown,https://www.deezer.com/track/875945632
-2026-09-05,07:03,MK & Clementine Douglas,Come Find Me,Unknown,https://www.deezer.com/track/3557274261
-2026-09-05,07:00,D.O.D,So Much In Love,Unknown,https://www.deezer.com/track/2217911267
-2026-09-05,06:57,Avicii,I Could Be The One (Nicktim) (feat. Nicky Romero),Unknown,https://www.deezer.com/track/63017514
-2026-09-05,06:55,Breach,Jack,Unknown,https://www.deezer.com/track/3156211741
-2026-09-05,06:53,Lana Del Rey,Summertime Sadness (Cédric Gervais Remix),Unknown,https://www.deezer.com/track/69419038
-2026-09-05,06:47,Franky Rizardo,Shinjuku,Unknown,https://www.deezer.com/track/3864635061
-2026-09-05,06:43,Jazzy,My People,Unknown,https://www.deezer.com/track/4198648642
-2026-09-05,06:39,Kolter,Trapped,Unknown,https://www.deezer.com/track/4058063061
-2026-09-05,06:37,Blonde,All Cried Out (feat. Alex Newell),Unknown,https://www.deezer.com/track/98833972
-2026-09-05,06:34,Ellia Jaya,Super Powers,Unknown,https://www.deezer.com/track/4104892331
-2026-09-05,06:32,Borai & Denham Audio,Make Me,Unknown,https://www.deezer.com/track/2572591112
-2026-09-05,06:27,Alexis Jordan,Happiness,Unknown,https://www.deezer.com/track/3302871011
-2026-09-05,06:19,Prospa & Murda Beatz,Baby,Unknown,https://www.deezer.com/track/3984293401
-2026-09-05,05:59,Delerium,Silence (feat. Sarah McLachlan),Unknown,https://www.deezer.com/track/15525211
-2026-09-05,05:57,Barry Can't Swim,Sonder,Unknown,https://www.deezer.com/track/1703647327
-2026-09-05,05:54,Overmono,Is U,Unknown,https://www.deezer.com/track/2247350847
-2026-09-05,05:49,Josh Baker & Poppy Baskcomb,My Place,Unknown,https://www.deezer.com/track/4072834651
-2026-09-05,05:47,Fedde Le Grand,Put Your Hands Up For Detroit,Unknown,https://www.deezer.com/track/1134280742
-2026-09-05,05:41,The Chemical Brothers,Got To Keep On,Unknown,https://www.deezer.com/track/661515342
-2026-09-05,05:36,Laurence Guy,U GO,Unknown,https://www.deezer.com/track/4233339632
-2026-09-05,05:33,Sonny Fodera,My Loving (feat. Chrystal),Unknown,https://www.deezer.com/track/3977362051
-2026-09-05,05:23,Calvin Harris,I Need Your Love (feat. Ellie Goulding),Unknown,https://www.deezer.com/track/139099249
-2026-09-05,05:17,Prospa,Love Songs (feat. Kosmo Kint),Unknown,https://www.deezer.com/track/3579551341
-2026-09-05,05:15,ANOTR,Silver Lines (feat. Emily Warren),Unknown,https://www.deezer.com/track/4122018711
-2026-09-05,05:08,NOTION & X CLUB.,U KNOW,Unknown,https://www.deezer.com/track/4071216121
-2026-09-05,05:06,FISHER & Tones and I,Favour,Unknown,https://www.deezer.com/track/3906852781
-2026-09-05,04:57,Lovebirds & Stee Downes,Want You In My Soul,Unknown,https://www.deezer.com/track/12250971
-2026-09-05,04:53,Disclosure,Help Me Lose My Mind (feat. London Grammar),Unknown,https://www.deezer.com/track/2368204285
-2026-09-05,04:43,Barry Can't Swim,Dance Dance Dance!,Unknown,https://www.deezer.com/track/3953713231
-2026-09-05,04:37,Protoje,Who Knows (Shy FX remix),Unknown,https://www.deezer.com/track/3448650871
-2026-09-05,04:34,Swedish House Mafia & Lykke Li,Happiness Is So Sad,Unknown,https://www.deezer.com/track/4163913612
-2026-09-05,04:31,KETTAMA,It Gets Better (Forever Mix),Unknown,https://www.deezer.com/track/3486763691
-2026-09-05,04:17,Katy B & Jax Jones,Last Day of Summer,Unknown,https://www.deezer.com/track/4104600041
-2026-09-05,04:14,bullet tooth,A Place You Wanna Go (Good Life),Unknown,https://www.deezer.com/track/3573821951
-2026-09-05,04:08,Freeloaders,So Much Love to Give,Unknown,https://www.deezer.com/track/790261792
-2026-09-05,04:06,Ewan McVicar,Tell Me Something Good,Unknown,https://www.deezer.com/track/1501964032
-2026-09-05,04:03,Silva Bumpa,On 2nite,Unknown,https://www.deezer.com/track/4039496331
-2026-09-05,04:00,Ninetoes,Finder,Unknown,https://www.deezer.com/track/1675401917
-2026-09-05,03:49,ANOTR,Talk To You (feat. 54 Ultra),Unknown,https://www.deezer.com/track/3784724892
-2026-09-05,03:29,High Contrast,Racing Green,Unknown,https://www.deezer.com/track/3050389831
-2026-09-05,03:26,Sam Gellaitry,Assumptions,Unknown,https://www.deezer.com/track/1353013002
-2026-09-05,03:18,Tobiahs,Angel of Mine,Unknown,https://www.deezer.com/track/3178057211
-2026-09-05,03:08,Bicep,Apricots,Unknown,https://www.deezer.com/track/1080089202
-2026-09-05,03:01,Dario G,Sunchyme,Unknown,https://www.deezer.com/track/1787705237
-2026-09-05,02:55,Chase & Status,Disgruntled (feat. J Hus & IRAH),Unknown,https://www.deezer.com/track/4112647001
-2026-09-05,02:43,Tove Lo,I'm your girl right? (Fcukers Remix),Unknown,https://www.deezer.com/track/4062388841
-2026-09-05,02:40,Rossi. & bbyclose,On Your Mind,Unknown,https://www.deezer.com/track/4159458222
-2026-09-05,02:36,David Guetta,When Love Takes Over (feat. Kelly Rowland),Unknown,https://www.deezer.com/track/2531104141
-2026-09-05,02:33,Gusto,Disco's Revenge,Unknown,https://www.deezer.com/track/2641635312
-2026-09-05,02:00,Basement Jaxx,Red Alert,Unknown,https://www.deezer.com/track/1095034112
-2026-09-05,01:54,Gala,Freed From Desire,Unknown,https://www.deezer.com/track/6177415
-2026-09-05,01:43,Stardust,Music Sounds Better With You,Unknown,https://www.deezer.com/track/695110942
-2026-09-05,01:40,Franky Rizardo,Feel,Unknown,https://www.deezer.com/track/4071680031
-2026-09-05,01:34,The Prodigy,Out of Space,Unknown,https://www.deezer.com/track/128973850
-2026-09-05,01:32,Marlon Hoffstadt,Party People,Unknown,https://www.deezer.com/track/4115969521
-2026-09-05,01:27,Interplanetary Criminal & Original Koffee,Slow Burner,Unknown,https://www.deezer.com/track/3364851531
-2026-09-05,01:24,Calvin Harris,I'm Not Alone (MPH Remix),Unknown,https://www.deezer.com/track/3488265491
-2026-09-05,01:04,Sub Focus,Turn Back Time,Unknown,https://www.deezer.com/track/73236555
-2026-09-05,00:57,Raven Maize,The Real Life,Unknown,https://www.deezer.com/track/1328602682
-2026-09-05,00:52,Mat Zo & Porter Robinson,Easy,Unknown,https://www.deezer.com/track/90166383
-2026-09-05,00:46,Basement Jaxx,Jus 1 Kiss,Unknown,https://www.deezer.com/track/2661878
-2026-09-05,00:41,MK & Chrystal,Dior,Unknown,https://www.deezer.com/track/3376615581
-2026-09-05,00:35,Freemasons,Love On My Mind (feat. Amanda Wilson),Unknown,https://www.deezer.com/track/70031178
-2026-09-05,00:30,Barry Can't Swim,Return to Bhibo,Unknown,https://www.deezer.com/track/4017254841
-2026-09-05,00:27,Alexandra Stan,Mr Saxobeat,Unknown,https://www.deezer.com/track/1077700822
-2026-09-05,00:24,Crystal Waters,Gypsy Woman (La Da Dee),Unknown,https://www.deezer.com/track/1926865677
-2026-09-06,Live,KI/KI,5 Mins Of Acid,Unknown,https://www.deezer.com/track/2804710632
-2026-09-06,17:11,Marlon Hoffstadt,Its That Time,Unknown,https://www.deezer.com/track/2843812632
-2026-09-06,17:05,6 SENSE,Brighta Dayz,Unknown,https://www.deezer.com/track/2664810262
-2026-09-06,16:58,Nookie,Only You (Madcap Remix),Unknown,https://www.deezer.com/track/2507705081
-2026-09-06,16:55,Calibre,living is truth,Unknown,https://www.deezer.com/track/3729455052
-2026-09-06,16:52,Lee UHF & Noise Souls,Being & Nothingness,Unknown,https://www.deezer.com/track/3760486112
-2026-09-06,16:49,Viridity,Sweet Relief,Unknown,https://www.deezer.com/track/3864929511
-2026-09-06,16:44,Lally,Trusted You,Unknown,https://www.deezer.com/track/2298100785
-2026-09-06,16:42,Bluemode,Where You Gonna Hide,Unknown,https://www.deezer.com/track/3356821691
-2026-09-06,16:37,Carlito,Fiesta En La Playa (VIP),Unknown,https://www.deezer.com/track/3302494821
-2026-09-06,16:36,Blix & Dauntless,Cosmic,Unknown,https://www.deezer.com/track/4127490871
-2026-09-06,16:34,Ruby AT,Breeze,Unknown,https://www.deezer.com/track/4058976171
-2026-09-06,16:33,salute,Want U There (Logistics Remix),Unknown,https://www.deezer.com/track/2061435077
-2026-09-06,16:30,High Contrast & Dawn Joseph,Around Me,Unknown,https://www.deezer.com/track/4126361821
-2026-09-06,16:29,Latte,Let It Go,Unknown,https://www.deezer.com/track/2925554111
-2026-09-06,16:28,Latte,The Plan,Unknown,https://www.deezer.com/track/2343518635
-2026-09-06,16:27,John Holt,Police In Helicopter (Benny L Remix),Unknown,https://www.deezer.com/track/2270251947
-2026-09-06,16:26,Turno,High Roller,Unknown,https://www.deezer.com/track/1475967352
-2026-09-06,16:25,Cruk & Shyun,Wreckage,Unknown,https://www.deezer.com/track/2516282011
-2026-09-06,16:23,Latte,ID,Unknown,https://www.deezer.com/track/4228536002
-2026-09-06,16:20,Annix,Troubleshooter,Unknown,https://www.deezer.com/track/3611903422
-2026-09-06,16:19,Simula,Devious,Unknown,https://www.deezer.com/track/3583053331
-2026-09-06,16:18,Latte,Afraid,Unknown,https://www.deezer.com/track/1884828707
-2026-09-06,16:17,Particle,Code 3,Unknown,https://www.deezer.com/track/556823122
-2026-09-06,16:15,Levela,Exhale,Unknown,https://www.deezer.com/track/488824662
-2026-09-06,16:13,Waeys & Wingz,Yellowjacket,Unknown,https://www.deezer.com/track/4155835032
-2026-09-06,16:11,Upgrade,Revenge,Unknown,https://www.deezer.com/track/4028420431
-2026-09-06,16:10,Latte,Death Cycle,Unknown,https://www.deezer.com/track/2869351802
-2026-09-06,16:09,Molecular,My Way,Unknown,https://www.deezer.com/track/4058082861
-2026-09-06,16:03,Leaf & Hexa,5am,Unknown,https://www.deezer.com/track/3377864951
-2026-09-06,16:01,Bladerunner,Murda You,Unknown,https://www.deezer.com/track/4019748171
-2026-09-06,16:00,Bad Company UK,Planet Dust (Latte Remix),Unknown,https://www.deezer.com/track/4050117491
-2026-09-06,15:50,Crossy,How You Feel,Unknown,https://www.deezer.com/track/4221758732
-2026-09-06,15:46,Flowidus & Loboski,Lock it (Hoax Remix),Unknown,https://www.deezer.com/track/4205993372
-2026-09-06,15:36,Kings of the Rollers,Pushed,Unknown,https://www.deezer.com/track/4080495081
-2026-09-06,15:25,Dimension & Subsonic,Ghost Town,Unknown,https://www.deezer.com/track/4194439862
-2026-09-06,15:22,Koven,wHERE the rhythm goes,Unknown,https://www.deezer.com/track/4155734442
-2026-09-06,15:19,Harriet Jaxxon & Mila Falls,Motorola,Unknown,https://www.deezer.com/track/4173328512
-2026-09-06,15:09,Pirapus,ENERGY (I Feel),Unknown,https://www.deezer.com/track/3973257031
-2026-09-06,15:04,K Motionz & jazza’s dance party,Misbehave,Unknown,https://www.deezer.com/track/4153462152
-2026-09-06,15:01,High Contrast,Around Me (feat. Dawn Joseph),Unknown,https://www.deezer.com/track/4126361821
-2026-09-06,14:44,Atura,Like This,Unknown,https://www.deezer.com/track/3272068911
-2026-09-06,14:40,Dyoll & Ali S2K,Body's Movin,Unknown,https://www.deezer.com/track/3257246031
-2026-09-06,14:36,Clouds,Savage Orbit,Unknown,https://www.deezer.com/track/4172833722
-2026-09-06,14:27,KETTAMA,Samba Soccer 2001,Unknown,https://www.deezer.com/track/2230977577
-2026-09-06,14:24,Ashee,Country Classic,Unknown,https://www.deezer.com/track/3674776742
-2026-09-06,14:20,Addison Groove,Eh Wut,Unknown,https://www.deezer.com/track/2208589127
-2026-09-06,14:17,ID,ID,Unknown,https://www.deezer.com/track/4184923422
-2026-09-06,14:08,Luuk van Dijk & Kolter,Good 4 U,Unknown,https://www.deezer.com/track/2915897791
-2026-09-06,14:01,Strath,Chora,Unknown,https://www.deezer.com/track/3651417732
-2026-09-06,13:53,Tony Romera,2009,Unknown,https://www.deezer.com/track/3465609941
-2026-09-06,13:46,DJ Streaks,Slinky (Bakery Edit),Unknown,https://www.deezer.com/track/3560127881
-2026-09-06,13:42,Thrills In 41,Crooked Shapes,Unknown,https://www.deezer.com/track/2226698587
-2026-09-06,13:34,Luke Alessi,What Is Cool,Unknown,https://www.deezer.com/track/4009693081
-2026-09-06,13:25,Jordan Brando,Caramba,Unknown,https://www.deezer.com/track/3592628582
-2026-09-06,13:22,Riordan & Locky,Friction,Unknown,https://www.deezer.com/track/4229537762
-2026-09-06,13:07,Sidney Charles,Fnk Hrd,Unknown,https://www.deezer.com/track/3444033251
-2026-09-07,17:23,DvirNuns,Start Again,Unknown,https://www.deezer.com/track/4114809041
-2026-09-07,17:12,Max Styler,Close My Eyes,Unknown,https://www.deezer.com/track/4159097452
-2026-09-07,16:53,Max Styler & Greggio,Oldskool Flavor,Unknown,https://www.deezer.com/track/3997550801
-2026-09-07,16:45,Max Styler,Feel The XTC,Unknown,https://www.deezer.com/track/4159097462
-2026-09-07,16:41,Wave Wave,ID,Unknown,https://www.deezer.com/track/3890191071
-2026-09-07,16:37,Max Styler,Body Shake,Unknown,https://www.deezer.com/track/4159097422
-2026-09-07,16:29,Viot,Cardio,Unknown,https://www.deezer.com/track/4089375281
-2026-09-07,15:58,Ewan McVicar,Scottish Midgey,Unknown,https://www.deezer.com/track/4143083421
-2026-09-07,15:44,Route 94,4Get The Girl (Mellizos Remix),Unknown,https://www.deezer.com/track/4175023412
-2026-09-07,15:39,Illyus Barrientos,Be Hot,Unknown,https://www.deezer.com/track/4165854192
-2026-09-07,15:36,Fleur Shore,Vibrant,Unknown,https://www.deezer.com/track/4166673082
-2026-09-07,15:31,Salome Le Chat,Never Enough,Unknown,https://www.deezer.com/track/4138843741
-2026-09-07,15:27,Groove Armada,Superstylin' (Demi Riquisimo Remix),Unknown,https://www.deezer.com/track/4208699272
-2026-09-07,15:24,Emily Nash,Frequency,Unknown,https://www.deezer.com/track/4168501692
-2026-09-07,15:22,Alaia & Gallo,Lipstick (Tony Romera Remix),Unknown,https://www.deezer.com/track/4145555612
-2026-09-07,15:18,Capron,Rude,Unknown,https://www.deezer.com/track/4193575912
-2026-09-07,15:16,Hannah Wants & Harley Maxwell,Peace & The Passa,Unknown,https://www.deezer.com/track/4175320782
-2026-09-07,15:13,CASSIMM,That Funky Sound,Unknown,https://www.deezer.com/track/4137880791
-2026-09-07,15:09,Ronnie Spiteri,Becca's Booty,Unknown,https://www.deezer.com/track/4153590042
-2026-09-07,15:00,SOSA,Italian Job,Unknown,https://www.deezer.com/track/4139081271
-2026-09-07,14:34,Otik,Truth Hz,Unknown,https://www.deezer.com/track/4202564882
-2026-09-07,14:31,emma rose,TIKTAK,Unknown,https://www.deezer.com/track/4210092542
-2026-09-07,14:26,BUTCHIE,Icarus,Unknown,https://www.deezer.com/track/4039339021
-2026-09-07,14:22,megxie,L5D,Unknown,https://www.deezer.com/track/4248380561
-2026-09-07,14:11,Ell Murphy,love like this,Unknown,https://www.deezer.com/track/4083162861
-2026-09-07,13:49,Tom Place,Talk To Me,Unknown,https://www.deezer.com/track/4154841202
-2026-09-07,13:41,Strivz,Pan African,Unknown,https://www.deezer.com/track/3953488211
-2026-09-07,13:29,Beanie & SHOSH,Villain,Unknown,https://www.deezer.com/track/4175214122
-2026-09-07,13:10,Jamie Unknown,Roll With the Rhythm,Unknown,https://www.deezer.com/track/4199575002
-2026-09-07,13:04,DJ YUKI,The Baddest,Unknown,https://www.deezer.com/track/4139869891
-2026-09-07,12:55,Annie,Chewing Gum,Unknown,https://www.deezer.com/track/819683
-2026-09-07,12:49,Hot Chip,Over and Over,Unknown,https://www.deezer.com/track/376022571
-2026-09-07,12:45,Zongamin,Bongo Song,Unknown,https://www.deezer.com/track/616542272
-2026-09-07,12:42,WhoMadeWho,Satisfaction,Unknown,https://www.deezer.com/track/681933452
-2026-09-07,12:40,Simian Mobile Disco,The Count,Unknown,https://www.deezer.com/track/2765522
-2026-09-07,12:32,Ladytron,Sugar,Unknown,https://www.deezer.com/track/1634469742
-2026-09-07,12:30,Whitey,Y.U.H.2.B.M.2,Unknown,https://www.deezer.com/track/2736107751
-2026-09-07,12:26,Yeah Yeah Yeahs,Heads Will Roll (A-Trak Remix),Unknown,https://www.deezer.com/track/1117954742
-2026-09-07,12:19,Tiga,Pleasure From The Bass,Unknown,https://www.deezer.com/track/3844255
-2026-09-07,12:16,Santigold,Disparate Youth,Unknown,https://www.deezer.com/track/16331689
-2026-09-07,12:09,Soulwax,NY Excuse,Unknown,https://www.deezer.com/track/3965582
-2026-09-07,12:05,Elderbrook & Bob Moses,Inner Light,Unknown,https://www.deezer.com/track/1424817682
-2026-09-07,11:54,The Rapture,House Of Jealous Lovers,Unknown,https://www.deezer.com/track/2622365322
-2026-09-07,11:50,Happy Mondays,W.F.L. (Vince Clark remix),Unknown,https://www.deezer.com/track/428805712
-2026-09-07,11:44,Cornershop,Brimful of Asha (Norman Cook Remix),Unknown,https://www.deezer.com/track/15686804
-2026-09-07,11:39,Pianoman,Blurred,Unknown,https://www.deezer.com/track/2665037252
-2026-09-07,11:32,Gossip,Standing In The Way Of Control (Soulwax Nite version),Unknown,https://www.deezer.com/track/2553407
-2026-09-07,11:30,The Killers,Mr. Brightside (Jacques Lu Cont's Thin White Duke Mix),Unknown,https://www.deezer.com/track/1103289
-2026-09-07,11:23,Primal Scream,Come Together,Unknown,https://www.deezer.com/track/85527684
-2026-09-07,11:20,Happy Mondays,Step On,Unknown,https://www.deezer.com/track/428849902
-2026-09-07,11:16,New Order,Blue Monday '88,Unknown,https://www.deezer.com/track/706051
-2026-09-07,11:13,La Roux,Bulletproof,Unknown,https://www.deezer.com/track/3976602
-2026-09-07,11:07,Confidence Man,Holiday,Unknown,https://www.deezer.com/track/1902456757
-2026-09-07,11:03,Empire of the Sun,Walking On A Dream,Unknown,https://www.deezer.com/track/4286051
-2026-09-07,11:00,Justice,D.A.N.C.E.,Unknown,https://www.deezer.com/track/10284847
-2026-09-07,10:56,Shakedown,At Night (Peggy Gou Remix),Unknown,https://www.deezer.com/track/3155416861
-2026-09-07,10:54,Midland,Final Credits,Unknown,https://www.deezer.com/track/3157371391
-2026-09-07,10:51,Afro Medusa,Pasilda (Knee Deep Club Mix),Unknown,https://www.deezer.com/track/118516920
-2026-09-07,10:43,Duke Dumont,The Giver (Reprise),Unknown,https://www.deezer.com/track/1278319362
-2026-09-07,10:38,Maya Jane Coles,What They Say,Unknown,https://www.deezer.com/track/1857305967
-2026-09-07,10:30,Drake,Massive,Unknown,https://www.deezer.com/track/1794149427
-2026-09-07,10:27,Tchami,Adieu,Unknown,https://www.deezer.com/track/143261144
-2026-09-07,10:25,BURNS,Talamanca,Unknown,https://www.deezer.com/track/1394988992
-2026-09-07,10:14,Anton Powers & Redondo,Make Your Move,Unknown,https://www.deezer.com/track/616970802
-2026-09-07,10:06,Samim,Heater (Tube & Berger Remix),Unknown,https://www.deezer.com/track/3155992851
-2026-09-07,10:03,Disclosure,Bang That,Unknown,https://www.deezer.com/track/99451472
-2026-09-07,10:01,Booka Shade,In White Rooms,Unknown,https://www.deezer.com/track/3881255981
-2026-09-07,09:58,Au/Ra & CamelPhat,Panic Room,Unknown,https://www.deezer.com/track/477989942
-2026-09-07,09:55,Dom Dolla,San Frandisco,Unknown,https://www.deezer.com/track/753716852
-2026-09-07,09:51,Armand van Helden,I Want Your Soul,Unknown,https://www.deezer.com/track/14155727
-2026-09-07,09:46,Rebūke,Along Came Polly,Unknown,https://www.deezer.com/track/2201836177
-2026-09-07,09:44,Mark Ronson,Don't Leave Me Lonely (Claptone Remix),Unknown,https://www.deezer.com/track/762376372
-2026-09-07,09:39,Melé & Shovell,Pasilda,Unknown,https://www.deezer.com/track/3155889761
-2026-09-07,09:34,Majestic,Rasputin,Unknown,https://www.deezer.com/track/1242670642
-2026-09-07,09:28,Patrick Topping,Be Sharp Say Nowt,Unknown,https://www.deezer.com/track/2200543787
-2026-09-07,09:18,Green Velvet,Bigger Than Prince (Hot Since 82 Remix),Unknown,https://www.deezer.com/track/643578152
-2026-09-07,09:16,Lovestation,Teardrops,Unknown,https://www.deezer.com/track/130425886
-2026-09-07,09:12,salute,Joy,Unknown,https://www.deezer.com/track/1488572282
-2026-09-07,09:08,DJ Jean,The Launch,Unknown,https://www.deezer.com/track/1365099792
-2026-09-07,09:02,Rudimental,Feel The Love (feat. John Newman),Unknown,https://www.deezer.com/track/25746611
-2026-09-07,09:01,Avicii,Waiting For Love,Unknown,https://www.deezer.com/track/107346368
-2026-09-07,08:59,Ida Corr & Fedde Le Grand,Let Me Think About It,Unknown,https://www.deezer.com/track/67159083
-2026-09-07,08:57,Rui da Silva,Touch Me (feat. Cassandra),Unknown,https://www.deezer.com/track/11663132
-2026-09-07,08:54,Sofi Tukker & Gorgon City,House Arrest,Unknown,https://www.deezer.com/track/2947958011
-2026-09-07,08:49,Diplo,On My Mind (feat. SIDEPIECE),Unknown,https://www.deezer.com/track/3389555931
-2026-09-07,08:46,Bicep,Atlas,Unknown,https://www.deezer.com/track/904309282
-2026-09-07,08:43,Fred again.. & The Blessed Madonna,Marea (we've lost dancing),Unknown,https://www.deezer.com/track/1239694902
-2026-09-07,08:41,Sam Fender,Will We Talk? (MK Remix),Unknown,https://www.deezer.com/track/729257922
-2026-09-07,08:36,Friend Within,The Truth,Unknown,https://www.deezer.com/track/545099342
-2026-09-07,08:34,Tom Zanetti,You Want Me,Unknown,https://www.deezer.com/track/132197508
-2026-09-07,08:27,Hannah Wants & Chris Lorenzo,Rhymes,Unknown,https://www.deezer.com/track/93102382
-2026-09-07,08:24,Todd Terje,Inspector Norse,Unknown,https://www.deezer.com/track/1900010897
-2026-09-07,08:22,Eric Prydz,Liberate,Unknown,https://www.deezer.com/track/78588920
-2026-09-07,08:17,Rudimental,Not Giving In (feat. John Newman & Alex Clare),Unknown,https://www.deezer.com/track/61700649
-2026-09-07,08:12,Les Rythmes Digitales,Jacques Your Body (Make Me Sweat),Unknown,https://www.deezer.com/track/1413525692
-2026-09-07,08:08,Riton & Nightcrawlers,Friday (Dopamine Re-Edit) (feat. Mufasa & Hypeman),Unknown,https://www.deezer.com/track/1178599842
-2026-09-07,08:05,Swedish House Mafia,Save The World,Unknown,https://www.deezer.com/track/11234004
-2026-09-07,08:03,SL2,On A Ragga Tip,Unknown,https://www.deezer.com/track/950467
-2026-09-07,07:56,Ariana Grande,"Yes, and? (Jonas Blue Remix)",Unknown,https://www.deezer.com/track/2660054372
-2026-09-07,07:54,Avicii,Wake Me Up,Unknown,https://www.deezer.com/track/70266756
-2026-09-07,07:46,TS7,Moment (feat. Charlotte Plank),Unknown,https://www.deezer.com/track/3585733571
-2026-09-07,07:41,Karen Harding,Island,Unknown,https://www.deezer.com/track/4090859521
-2026-09-07,07:37,Sub Focus & bbyclose,On & On,Unknown,https://www.deezer.com/track/3266944301
-2026-09-07,07:35,Rudimental & Karen Harding,Bring Me Joy,Unknown,https://www.deezer.com/track/2834949802
-2026-09-07,07:30,Rossi. & Jazzy,High On Me,Unknown,https://www.deezer.com/track/3412534321
-2026-09-07,07:29,Teddy Swims,Lose Control (Tiësto Remix),Unknown,https://www.deezer.com/track/2710562042
-2026-09-07,07:25,Swedish House Mafia,Don't You Worry Child (feat. John Martin),Unknown,https://www.deezer.com/track/65441227
-2026-09-07,07:23,Dua Lipa,Illusion (Regard Remix),Unknown,https://www.deezer.com/track/3019680951
-2026-09-07,07:20,Nathan Dawe,21 Reasons (feat. Ella Henderson),Unknown,https://www.deezer.com/track/1702167637
-2026-09-07,07:17,Example,Kickstarts,Unknown,https://www.deezer.com/track/2815906222
-2026-09-07,07:13,Ben Hemsley & Gaskin,If Your Girl,Unknown,https://www.deezer.com/track/3579611491
-2026-09-07,07:08,The Bausa,Lose Myself,Unknown,https://www.deezer.com/track/4064513021
-2026-09-07,07:03,RAYE,WHERE IS MY HUSBAND!,Unknown,https://www.deezer.com/track/3548216281
-2026-09-07,06:58,Duck Sauce,aNYway,Unknown,https://www.deezer.com/track/3157769251
-2026-09-07,06:56,deadmau5,Ghosts 'n' Stuff (feat. Rob Swire),Unknown,https://www.deezer.com/track/3360677091
-2026-09-07,06:53,Dizzee Rascal & Armand van Helden,Bonkers,Unknown,https://www.deezer.com/track/15640851
-2026-09-07,06:44,FISHER,Rain,Unknown,https://www.deezer.com/track/3761388842
-2026-09-07,06:40,Sweet Female Attitude,Flowers,Unknown,https://www.deezer.com/track/106807216
-2026-09-07,06:38,Silva Bumpa & Kosmo Kint,Fantasy,Unknown,https://www.deezer.com/track/4198895852
-2026-09-07,06:35,The Bausa,Magnetic,Unknown,https://www.deezer.com/track/3843457421
-2026-09-07,06:32,Dennis Ferrer,Hey Hey,Unknown,https://www.deezer.com/track/2410031405
-2026-09-07,06:22,HUGEL & SOLTO,Jamaican (Bam Bam),Unknown,https://www.deezer.com/track/3889748961
-2026-09-07,06:13,Justice,We Are Your Friends,Unknown,https://www.deezer.com/track/2100102627
-2026-09-07,06:06,Silk City & Dua Lipa,Electricity,Unknown,https://www.deezer.com/track/3208899911
-2026-09-07,05:45,Swedish House Mafia,Greyhound,Unknown,https://www.deezer.com/track/61427200
-2026-09-07,05:38,Ely Oaks,Running Around,Unknown,https://www.deezer.com/track/3209698191
-2026-09-07,05:30,The Blessed Madonna,Shades Of Love (feat. The Joy),Unknown,https://www.deezer.com/track/2141587037
-2026-09-07,05:18,Studio B,I See Girls,Unknown,https://www.deezer.com/track/91151923
-2026-09-07,05:16,Skrillex & MPH,Mirage,Unknown,https://www.deezer.com/track/4206775492
-2026-09-07,05:13,Bushbaby,Pumpin Jumpin,Unknown,https://www.deezer.com/track/3465247881
-2026-09-07,04:59,David Guetta,Who's That Chick? (feat. Rihanna),Unknown,https://www.deezer.com/track/7754536
-2026-09-07,04:53,StoneBridge,Put 'Em High (feat. Therese),Unknown,https://www.deezer.com/track/69336331
-2026-09-07,04:51,Alex Gaudino & Crystal Waters,Destination Calabria,Unknown,https://www.deezer.com/track/5406699
-2026-09-07,04:43,Alan Fitzpatrick,Haven't You Heard,Unknown,https://www.deezer.com/track/867440622
-2026-09-07,04:37,Roger Sanchez,Another Chance,Unknown,https://www.deezer.com/track/2746059321
-2026-09-07,04:31,O’Flynn,Fara,Unknown,https://www.deezer.com/track/3763138782
-2026-09-07,04:09,Red Carpet,Alright,Unknown,https://www.deezer.com/track/1818062167
-2026-09-07,04:04,Carla Monroe & L4TCH,Promises,Unknown,https://www.deezer.com/track/3432241811
-2026-09-07,03:52,Avicii,Levels,Unknown,https://www.deezer.com/track/14383880
-2026-09-07,03:40,Calvin Harris,Summer,Unknown,https://www.deezer.com/track/88936747
-2026-09-07,03:30,Martin Solveig & Roy Woods,Juliet & Romeo,Unknown,https://www.deezer.com/track/822658282
-2026-09-07,03:26,Groove Armada,If Everybody Looked The Same,Unknown,https://www.deezer.com/track/72233593
-2026-09-07,03:12,Bushbaby & Danny P,Back To Funk,Unknown,https://www.deezer.com/track/4142945871
-2026-09-07,03:01,Mark Knight & Funkagenda,Man With The Red Face,Unknown,https://www.deezer.com/track/38352321
-2026-09-07,02:43,Kosheen,Hide U,Unknown,https://www.deezer.com/track/1272005622
-2026-09-07,02:31,L.P. Rhythm,Versatile,Unknown,https://www.deezer.com/track/3437335761
-2026-09-07,02:12,The Bucketheads,The Bomb! (These Sounds Fall Into My Mind),Unknown,https://www.deezer.com/track/85318128
-2026-09-07,02:00,Basement Jaxx,Bingo Bango,Unknown,https://www.deezer.com/track/1095034162
-2026-09-07,01:38,Franky Wah,Come Together,Unknown,https://www.deezer.com/track/931449182
-2026-09-07,01:33,Faithless,Insomnia,Unknown,https://www.deezer.com/track/3588857991
-2026-09-07,01:30,Paul Woolford & Amber Mark,HEAT,Unknown,https://www.deezer.com/track/1223410892
-2026-09-07,01:00,Calvin Harris,Outside (feat. Ellie Goulding),Unknown,https://www.deezer.com/track/88936743
-2026-09-07,00:55,MK,17,Unknown,https://www.deezer.com/track/393116082
-2026-09-07,00:53,Disciples,On My Mind,Unknown,https://www.deezer.com/track/1761626467
-2026-09-07,00:51,Ewan McVicar,Share The House,Unknown,https://www.deezer.com/track/3811507912
-2026-09-07,00:39,Basement Jaxx,Oh My Gosh,Unknown,https://www.deezer.com/track/567655932
-2026-09-07,00:32,Dua Lipa,Don't Start Now (Purple Disco Machine Remix),Unknown,https://www.deezer.com/track/803342822
-2026-09-07,00:24,Sub Focus & Katy B,Push The Tempo,Unknown,https://www.deezer.com/track/3050852361
-2026-09-07,00:20,Otto Knows,Million Voices,Unknown,https://www.deezer.com/track/61046485
-2026-09-07,00:14,Cam Stockman,Into My Life (feat. Joyce Sims),Unknown,https://www.deezer.com/track/3765891612
-2026-09-07,00:09,TIEKS,Sunshine (feat. Dan Harkna),Unknown,https://www.deezer.com/track/133595632
-2026-09-08,17:43,Gemma Fox,Crazy Crush (TS7 Remix),Unknown,https://www.deezer.com/track/457036332
-2026-09-08,17:27,Discotronic,Tricky Disco,Unknown,https://www.deezer.com/track/61675285
-2026-09-08,17:22,LFO,LFO Leeds (Warehouse Mix),Unknown,https://www.deezer.com/track/29368651
-2026-09-08,17:18,Moloko,The Time Is Now (Can 7 Soulfood Mix),Unknown,https://www.deezer.com/track/3802727982
-2026-09-08,17:15,Arctic Monkeys,Red Light Indicates Doors Are Secured,Unknown,https://www.deezer.com/track/4315316
-2026-09-08,17:08,The Human League,Love Action,Unknown,https://www.deezer.com/track/3090431
-2026-09-08,17:01,Heaven 17,(We Don't Need This) Fascist Groove Thang,Unknown,https://www.deezer.com/track/79333875
-2026-09-08,16:56,Big Ang,Anthem,Unknown,https://www.deezer.com/track/3623907102
-2026-09-08,16:43,Big Ang,Do It Do It,Unknown,https://www.deezer.com/track/1412741422
-2026-09-08,16:15,Forgemasters,Track With No Name,Unknown,https://www.deezer.com/track/29374871
-2026-09-08,16:12,Cabaret Voltaire,Easy Life,Unknown,https://www.deezer.com/track/393283962
-2026-09-08,16:01,Moloko,Sing It Back (Booker T Loco Mix),Unknown,https://www.deezer.com/track/3704906382
-2026-09-08,15:59,Franky Rizardo,DC Terrace,Unknown,https://www.deezer.com/track/1476046562
-2026-09-08,15:47,Tough Art,That Funk,Unknown,https://www.deezer.com/track/4004160881
-2026-09-08,15:33,Foynez,Swing The Funk,Unknown,https://www.deezer.com/track/3908113321
-2026-09-08,15:29,Ammil,Bring That Beat Back,Unknown,https://www.deezer.com/track/4219340172
-2026-09-08,15:19,Ferra Black & Chico Rose,All Night Long,Unknown,https://www.deezer.com/track/4130676611
-2026-09-08,15:07,Simon Kidzoo & Mellizos,Jammin,Unknown,https://www.deezer.com/track/4008399031
-2026-09-08,14:53,Rio Tashan,One & Only,Unknown,https://www.deezer.com/track/4137799301
-2026-09-08,14:45,James Poole & GUDFELLA,Gator Boots,Unknown,https://www.deezer.com/track/4091188101
-2026-09-08,14:42,Luke DuBose,Freak Me Baby,Unknown,https://www.deezer.com/track/4104454991
-2026-09-08,14:39,Ahmed Spins & Mike Dunn,Phunky,Unknown,https://www.deezer.com/track/4113425161
-2026-09-08,14:26,STRYV,Patigo,Unknown,https://www.deezer.com/track/4155973492
-2026-09-08,14:22,Adam Ten & Rafael,Beat Goes On,Unknown,https://www.deezer.com/track/4113760801
-2026-09-08,14:15,Melé,Soul Makossa,Unknown,https://www.deezer.com/track/4116532881
-2026-09-08,14:12,Universal Love,Ritmo Da Rua (Harry Romero Remix),Unknown,https://www.deezer.com/track/4124619991
-2026-09-08,14:01,Oden & Fatzo & Noa Milee,You Don't Want To Think About It,Unknown,https://www.deezer.com/track/4116552881
-2026-09-08,13:39,PFM,One & Only,Unknown,https://www.deezer.com/track/32603761
-2026-09-08,13:08,Carlito,Heaven,Unknown,https://www.deezer.com/track/1430452332
-2026-09-08,13:01,JMJ & Richie,Universal Horn,Unknown,https://www.deezer.com/track/2243956507
-2026-09-08,12:56,Skanna,Find Me,Unknown,https://www.deezer.com/track/32603771
-2026-09-08,12:38,Wax Doctor,Finer Things,Unknown,https://www.deezer.com/track/125066040
-2026-09-08,12:30,PFM,Mystics,Unknown,https://www.deezer.com/track/71701369
-2026-09-08,12:26,Aquasky,Images,Unknown,https://www.deezer.com/track/408161052
-2026-09-08,11:56,Pryda,Lycka,Unknown,https://www.deezer.com/track/1054170252
-2026-09-08,11:23,Safar,Choli,Unknown,https://www.deezer.com/track/4207606512
-2026-09-08,10:49,Rafael,ID - ID,Unknown,https://www.deezer.com/track/2939052441
-2026-09-08,09:57,Magnetic Man,I Need Air,Unknown,https://www.deezer.com/track/13073037
-2026-09-08,09:54,David Guetta,Love Don't Let Me Go (Walking Away),Unknown,https://www.deezer.com/track/69172980
-2026-09-08,09:51,Peggy Gou,(It Goes Like) Nanana,Unknown,https://www.deezer.com/track/2297911845
-2026-09-08,09:49,Kiesza,Hideaway,Unknown,https://www.deezer.com/track/80194320
-2026-09-08,09:43,deadmau5,Strobe,Unknown,https://www.deezer.com/track/3390634561
-2026-09-08,09:35,Shane Codd,Get Out My Head,Unknown,https://www.deezer.com/track/1083601322
-2026-09-08,09:32,Watermät,Bullit,Unknown,https://www.deezer.com/track/4183138852
-2026-09-08,09:29,Eliza Rose & Interplanetary Criminal,B.O.T.A. (Baddest Of Them All),Unknown,https://www.deezer.com/track/1862856447
-2026-09-08,09:25,Galantis,Runaway (U & I),Unknown,https://www.deezer.com/track/86453925
-2026-09-08,09:19,Martin Solveig & Dragonette,Hello,Unknown,https://www.deezer.com/track/3803035232
-2026-09-08,09:16,Armin van Buuren,This Is What It Feels Like (feat. Trevor Guthrie),Unknown,https://www.deezer.com/track/3543890861
-2026-09-08,09:13,David Guetta & Bebe Rexha,I'm Good (Blue),Unknown,https://www.deezer.com/track/2107937657
-2026-09-08,09:08,Eric Prydz,Liberate (Lane 8 Remix),Unknown,https://www.deezer.com/track/81075570
-2026-09-08,09:02,Bob Sinclar,I Feel For You,Unknown,https://www.deezer.com/track/2676359752
-2026-09-08,08:53,Pola & Bryson & Zitah,Tell You What I Did,Unknown,https://www.deezer.com/track/1797016967
-2026-09-08,08:52,Blonde,I Loved You (Hamilton Remix) (feat. Melissa Steel),Unknown,https://www.deezer.com/track/90697391
-2026-09-08,08:49,Blonde,I Loved You (feat. Melissa Steel),Unknown,https://www.deezer.com/track/90182731
-2026-09-08,08:47,Disclosure,When A Fire Starts To Burn,Unknown,https://www.deezer.com/track/75526534
-2026-09-08,08:41,Roberto Surace,Joys,Unknown,https://www.deezer.com/track/3156075801
-2026-09-08,08:39,Calvin Harris,We'll Be Coming Back (feat. Example),Unknown,https://www.deezer.com/track/61308201
-2026-09-08,08:37,piri & tommy,on & on,Unknown,https://www.deezer.com/track/1833929787
-2026-09-08,08:32,Philip George,Wish You Were Mine,Unknown,https://www.deezer.com/track/92818850
-2026-09-08,08:24,Calvin Harris,Feel So Close,Unknown,https://www.deezer.com/track/13040252
-2026-09-08,08:23,Groove Armada,Superstylin',Unknown,https://www.deezer.com/track/632366
-2026-09-08,08:20,Artful Dodger,Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David),Unknown,https://www.deezer.com/track/2787097302
-2026-09-08,08:09,Bingo Players,Cry (Just A Little),Unknown,https://www.deezer.com/track/85190408
-2026-09-08,08:03,Kid Cudi,Pursuit Of Happiness (Steve Aoki Remix),Unknown,https://www.deezer.com/track/18181530
-2026-09-08,08:01,Calvin Harris,Let's Go (feat. Ne-Yo),Unknown,https://www.deezer.com/track/17561482
-2026-09-08,07:50,Jaden Bojsen,In The Air Magenta,Unknown,https://www.deezer.com/track/3498831521
-2026-09-08,07:46,Luke Dean & Omar,Make Believe,Unknown,https://www.deezer.com/track/3476300931
-2026-09-08,07:43,The Chemical Brothers,Galvanize (Chris Lake Remix),Unknown,https://www.deezer.com/track/3520024911
-2026-09-08,07:23,Yves V,We Got That Cool (feat. Icona Pop & Afrojack),Unknown,https://www.deezer.com/track/701706242
-2026-09-08,07:17,Regard,Ride It,Unknown,https://www.deezer.com/track/708907602
-2026-09-08,07:07,Armand van Helden,I Want Your Soul (Prospa Remix),Unknown,https://www.deezer.com/track/2426503035
-2026-09-08,06:59,Martin Garrix,Animals,Unknown,https://www.deezer.com/track/2102633427
-2026-09-08,06:54,Chris Malinchak,So Good To Me,Unknown,https://www.deezer.com/track/72545727
-2026-09-08,06:19,Swedish House Mafia,Miami 2 Ibiza,Unknown,https://www.deezer.com/track/12245061
-2026-09-08,05:57,CamelPhat & Elderbrook,Cola,Unknown,https://www.deezer.com/track/3155482291
-2026-09-08,05:50,Booty Luv,Boogie 2nite,Unknown,https://www.deezer.com/track/144526480
-2026-09-08,04:59,Sunset Strippers,Falling Stars,Unknown,https://www.deezer.com/track/1728490857
-2026-09-08,03:26,Soul Central,Strings Of Life (Danny Krivit Re-Edit),Unknown,https://www.deezer.com/track/3155417691
-2026-09-08,03:23,Soulsearcher,Can't Get Enough,Unknown,https://www.deezer.com/track/3228405181
-2026-09-08,03:20,Cassius,Feeling For You,Unknown,https://www.deezer.com/track/120536274
-2026-09-08,03:17,Eric Prydz,Call On Me,Unknown,https://www.deezer.com/track/144203048
-2026-09-08,03:12,PinkPantheress,Illegal,Unknown,https://www.deezer.com/track/3344984901
-2026-09-08,03:09,Alex Culross & Ejeca,Rhythm Of The House,Unknown,https://www.deezer.com/track/4250399321
-2026-09-08,02:50,BURNS,Lies (Otto Knows Remix),Unknown,https://www.deezer.com/track/518018572
-2026-09-08,02:30,Rihanna,We Found Love (feat. Calvin Harris),Unknown,https://www.deezer.com/track/13982432
-2026-09-08,01:58,Peggy Gou,Starry Night,Unknown,https://www.deezer.com/track/2199719437
-2026-09-08,01:45,Benny Benassi & The Biz,Satisfaction,Unknown,https://www.deezer.com/track/82723672
-2026-09-08,01:32,DJ Luck & MC Neat,A Little Bit Of Luck,Unknown,https://www.deezer.com/track/432057162
-2026-09-08,01:22,Oliver Heldens & Becky Hill,Gecko (Overdrive),Unknown,https://www.deezer.com/track/78974349
-2026-09-08,01:03,Mau P,The Less I Know The Better,Unknown,https://www.deezer.com/track/3205781411
-2026-09-08,01:01,Kid Cudi,Day 'N' Nite,Unknown,https://www.deezer.com/track/7371872
-2026-09-08,00:26,Mylo,Drop The Pressure,Unknown,https://www.deezer.com/track/1895191437
-2026-09-08,00:24,Jazzy & KILIMANJARO,No Bad Vibes,Unknown,https://www.deezer.com/track/3040716421
-2026-09-09,12:40,Baby Keem,Lost Souls,Unknown,https://www.deezer.com/track/1500359812
-2026-09-09,12:28,Anz,Sweet One,Unknown,https://www.deezer.com/track/2490954011
-2026-09-09,08:27,Swedish House Mafia,It Gets Better,Unknown,https://www.deezer.com/track/1713175837
-2026-09-18,15:24,Mikey Dread,Step By Step,Unknown,https://www.deezer.com/track/2490954011
-2026-09-18,15:51,Rooléh,Legacy (Assanssan),,
-2026-09-18,15:49,Harriet Jaxxon & Pola & Bryson,This Time,,
-2026-09-18,15:45,"Elliot Schooling, Liam Palmer & Benni Ola",Doing The Most,,
-2026-09-18,15:42,SYREETA & Huxley,We Synthesize,,
-2026-09-18,15:40,Saoirse,Body Movement,,
-2026-09-18,15:34,Alex Culross,Be My Baby,,
-2026-09-18,15:29,NaJeh & Frag Maddin,MISS SIXTY,,
-2026-09-18,15:26,Prunk,The House Side,,
-2026-09-18,15:24,Desmond and Summum & Atlantic Ocean,Echoes from the 90's,,
-2026-09-18,15:22,Girls Don't Sync,Wow,,
-2026-09-18,15:19,"York, Bella Claxton & Mike Momburg",On The Beach,,
-2026-09-18,15:15,NaJeh & Ben Evers,Chica,,
-2026-09-18,15:12,Chloé Caillet & D Stone,Noise Keeper,,
-2026-09-18,15:09,Danny Snowden,Distant Star System,,
-2026-09-18,15:07,"Luke Dean, Locky & Jme","Check 1, Check 2 (Burnski Remix)",,
-2026-09-18,15:05,Folkness,Same Ones Groovin',,
-2026-09-18,15:01,L.P. Rhythm,How Ya Feelin',,
-2026-09-18,14:57,La La,Ur So Cool,,
-2026-09-18,14:54,Conducta,CASH (feat. Jordeaux),,
-2026-09-18,14:51,Aat,Ready For You,,
-2026-09-18,14:47,Ahadadream & Ance,Koi Si,,
-2026-09-18,14:44,CamelPhat,Landlords Nightmare,,
-2026-09-18,14:25,Rossi.,Misery,,
-2026-09-18,14:13,Skepta,Innocent Smile (feat. Suggs & Chase & Status),,
-2026-09-18,14:06,MK,Leaving (feat. Tristan Henry),,
-2026-09-18,14:00,ANOTR & Erik Bandt,How You Feel (feat. Leven Kali),,
-2026-09-18,13:55,Jayda G,Forever Now,,
-2026-09-18,13:52,L.P. Rhythm,How Ya Feeling,,
-2026-09-18,13:49,Y U QT,Get Me High,,
-2026-09-18,13:46,Amy Wiles,Way That You Look At Me,,
-2026-09-18,13:40,Duke Dumont,Ain't No Game,,
-2026-09-18,13:38,Cloonee,Get Up And Dance,,
-2026-09-18,13:36,Paul Woodford & Secondcity,Signs (feat. RAHH),,
-2026-09-18,13:27,Beave,1997,,
-2026-09-18,13:25,"Max Dean, Nafe Smallz & Luke Dean",Not A Problem,,
-2026-09-18,13:21,TSHA,All Night Long,,
-2026-09-18,13:12,Mau P,Just A Little Bit More,,
-2026-09-18,13:08,Chrystal,3 2 1 (feat. Rudimental),,
-2026-09-18,13:04,Chloé Caillet & Luke Alessi,The One (feat. Jocelyn Brown),,
-2026-09-18,13:01,Barry Can't Swim & Sammy Virji,I Could Be Madonna,,
-2026-09-18,12:58,Adelphi Music Factory,Memories (Burning in Time),,
-2026-09-18,12:54,Mason,Perfect (Exceeder),,
-2026-09-18,12:49,Friend Within,The Renegade,,
-2026-09-18,12:46,Calvin Harris,Flashback,,
-2026-09-18,12:44,Sub Focus & Wilkinson,Illuminate,,
-2026-09-18,12:41,Nathan Dawe,Flowers (feat. JayKae),,
-2026-09-18,12:35,Endor,Pump It Up,,
-2026-09-18,12:30,David Guetta,Stay (Don't Go Away) (feat. RAYE),,
-2026-09-18,12:27,MEDUZA,Piece of Your Heart (feat. Goodboys),,
-2026-09-18,12:24,Gotye,Somebody I Used to Know (Tiësto Remix) (feat. Kimbra),,
-2026-09-18,12:21,James Hype,Ferrari (feat. Miggy Dela Rosa),,
-2026-09-18,12:18,Armand van Helden,You Don't Know Me (feat. Duane Harden),,
-2026-09-18,12:16,Sigala,Came Here For Love (feat. Ella Eyre),,
-2026-09-18,12:13,Years & Years,Desire,,
-2026-09-18,12:10,Avicii,Seek Bromance,,
-2026-09-18,12:07,PNAU,Chameleon,,
-2026-09-18,12:04,Jayda G,Both Of Us,,
-2026-09-18,12:02,Sigala,Sweet Lovin' (feat. Bryn Christopher),,
-2026-09-18,11:58,FISHER,Losing It,,
-2026-09-18,11:55,Alesso,Heroes (We Could Be) (feat. Tove Lo),,
-2026-09-18,11:53,Tori Amos,Professional Widow (Armand Van Helden Remix),,
-2026-09-18,11:48,Duck Sauce,Smiley Face,,
-2026-09-18,11:42,The Prototypes,Reason (feat. LOWES),,
-2026-09-18,11:41,Martin Solveig,Do It Right (feat. Tkay Maidza),,
-2026-09-18,11:35,Mark Ronson,Late Night Feelings (Jax Jones Midnight Snack Remix) (feat. Lykke Li),,
-2026-09-18,11:17,Calvin Harris & Dua Lipa,One Kiss,,
-2026-09-18,11:15,MK,Chemical,,
-2026-09-18,11:10,Major Lazer,Get Free (Andy C Remix) (feat. Amber Coffman),,
-2026-09-18,11:07,Nathan Dawe & Bru-C,Oh Baby (feat. bshp & Issey Cross),,
-2026-09-18,11:01,Chase & Status,Count On Me (feat. Moko),,
-2026-09-18,10:59,Silva Bumpa,on 2nite (Dusky Remix),,
-2026-09-18,10:56,Sammy Virji,If U Need It,,
-2026-09-18,10:52,BL3SS,skinny love,,
-2026-09-18,10:42,JustHooks & Nathan Dawe,Missing U,,
-2026-09-18,10:39,Shakira & Burna Boy,Dai Dai (Clean Bandit Remix),,
-2026-09-18,10:37,KLP,Point Of View,,
-2026-09-18,10:29,"1991, Subsonic & Ian Van Dahl",Castles in the Sky,,
-2026-09-18,10:26,D.O.D,So Much In Love (Sub Focus Remix),,
-2026-09-18,10:24,Jax Jones,This Is Real (feat. Ella Henderson),,
-2026-09-18,10:21,Bruno Mars & Cardi B,Finesse (Pink Panda Remix),,
-2026-09-18,10:16,Warriner & LORYN,Let Me Forget You,,
-2026-09-18,10:14,Chloé Caillet,Training Season (Chloé Caillet Remix),,
-2026-09-18,10:12,"HUGEL, Imael Angel & Ultra Naté",Movin To The Sun (DJ S.K.T Remix),,
-2026-09-18,10:09,Sonny Fodera & MK,Asking (feat. Clementine Douglas),,
-2026-09-18,10:06,Toman,Verano En NY,,
-2026-09-18,10:04,Calvin Harris & Jazzy,Satisfy,,
-2026-09-18,10:02,Lykke Li,I Follow Rivers (The Magician Remix),,
-2026-09-18,09:58,Oliver Dollar & Jimi Jules,Pushing On,,
-2026-09-18,09:56,Michael Gray,The Weekend,,
-2026-09-18,09:54,Vic Mensa,Down On My Luck,,
-2026-09-18,09:51,Inner City,Good Life,,
-2026-09-18,09:34,Sonny Fodera,Let Me Be In Your Arms (feat. Libianca),,
-2026-09-18,09:31,"Shy FX, Vybz Kartel & Clipz",Just Love,,
-2026-09-18,09:26,Diplo & Sleepy Tom,Be Right There,,
-2026-09-18,09:22,Cloonee & Prospa,Good Girl (feat. Tristan Henry),,
-2026-09-18,09:12,Audio Bullys,Shot You Down (feat. Nancy Sinatra),,
-2026-09-18,09:01,Chrystal,The Days (NOTION Remix),,
-2026-09-18,08:59,Hi Tack,Say Say Say (Waiting 4 U),,
-2026-09-18,08:57,Seamus Haji,Last Night A DJ Saved My Life,,
-2026-09-18,08:54,Booty Luv,Shine,,
-2026-09-18,08:52,KI/KI,What's A Girl To Do In '25,,
-2026-09-18,08:47,Sidney Charles,The Fresh House Jam,,
-2026-09-18,08:40,Kelis,Acapella,,
-2026-09-18,08:37,CHRIS STASSY,U Know Me (feat. Marz Fay),,
-2026-09-18,08:31,Nia Archives,Get You Down (feat. Jorja Smith),,
-2026-09-18,08:28,The Chemical Brothers,Go (feat. Q‐Tip),,
-2026-09-18,08:25,Marshall Jefferson,Move Your Body,,
-2026-09-18,08:22,Alex Gaudino,I'm In Love (I Wanna Do It),,
-2026-09-18,08:06,"Fred again.., Sammy Virji & Reggie",Talk Of The Town,,
-2026-09-18,08:00,Bob Marley & Funkstar De Luxe,Sun Is Shining,,
-2026-09-18,07:58,DBN Gogo & Benny Benassi,Satisfaction,,
-2026-09-18,07:55,Mint Royale,Singin' In The Rain,,
-2026-09-18,07:49,Phats And Small Present Mutant Disco,Turn Around,,
-2026-09-18,07:45,"Michael Bibi, KETTAMA & Wu-Tang Clan",MYSTERY OF RAW,,
-2026-09-18,07:27,Rudimental,Waiting All Night (feat. Ella Eyre),,
-2026-09-18,07:24,"HUGEL, Imael Angel & Ultra Naté",Movin' To The Sun,,
-2026-09-18,07:21,The Supermen Lovers,Starlight (feat. Mani Hoffman),,
-2026-09-18,07:15,Tchami,Promesses (feat. Kaleem Taylor),,
-2026-09-18,07:12,PAWSA & Adventures of Stevie V,Dirty Cash (Money Talks),,
-2026-09-18,06:59,Fedde Le Grand,That Thing,,
-2026-09-18,06:53,Axwell,Nobody Else,,
-2026-09-18,06:51,Waze & Odyssey,Always,,
-2026-09-18,06:48,Azzido da Bass,Dooms Night,,
-2026-09-18,06:45,Purple Disco Machine,Body Funk,,
-2026-09-18,06:42,The Future Sound of London,Papua New Guinea,,
-2026-09-18,06:37,Fish Go Deep,The Cure & The Cause (feat. Tracey K),,
-2026-09-18,06:32,Armand van Helden & Tara McDonald,My My My (Funktuary Remix),,
-2026-09-18,06:30,Marie Davidson,Work It (Soulwax Remix),,
-2026-09-18,06:21,Max Styler,Love Forever (feat. Kuuda),,
-2026-09-18,06:10,Becky Hill,Changes,,
-2026-09-18,06:00,Nia Archives,Get Me Down (feat. Jorja Smith),,
-2026-09-18,05:37,DJ Fresh,Gold Dust (Shy FX Re-Edit) (feat. Ms. Dynamite),,
-2026-09-18,05:34,Jean Jacques Smoothie,2 People,,
-2026-09-18,05:28,Morgan Seatree & Florence the Machine,Say My Name,,
-2026-09-18,05:20,LP Giobbi & Bklava,Sinner,,
-2026-09-18,04:59,Julio Bashmore,Au Seve,,
-2026-09-18,04:48,James Hype,Waterfalls (feat. Sam Harper & Bobby Harvey),,
-2026-09-18,04:46,Delerium,Silence (John Summit Remix) (feat. Sarah McLachlan),,
-2026-09-18,04:43,A Little Sound & Kelvin 373,Same Thing,,
-2026-09-18,04:35,D. Kay & Epsilon,Barcelona (feat. Stamina MC),,
-2026-09-18,04:24,Daft Punk,Get Lucky (feat. Pharrell Williams),,
-2026-09-18,04:15,Jax Jones,You Don't Know Me (feat. RAYE),,
-2026-09-18,04:10,Paul Johnson,Get Get Down,,
-2026-09-18,04:07,Max Dean & Luke Dean,Get's Like That,,
-2026-09-18,01:59,Bob Marley,Sun Is Shining (Radio De Luxe Edit),,
-2026-09-18,00:55,Danny Tenaglia,Music Is The Answer (Dancin' & Prancin'),,
-2026-09-18,00:48,Salif Keita,Madan (Martin Solveig Exotic Disco Mix),,
-2026-09-18,00:45,Klangkarussell,Sonnentanz (Sun Don't Shine) (feat. Will Heard),,
-2026-09-18,00:42,Junior Jack,E Samba,,
-2026-09-18,00:33,Sub Focus & Dimension,Ready To Fly,,
-2026-09-18,00:32,Nia Archives,Off Wiv Ya Headz,,
-2026-09-18,00:23,Weiss,Feel My Needs,,
-2026-09-18,00:20,Calvin Harris,Acceptable In The 80s,,
-2026-09-18,00:16,Franky Wah & Gadjo,I'm Watching You (So Many Times),,
-2026-09-18,00:12,Jonas Blue & Malive,Edge of Desire,,
-2026-09-18,00:09,Duke Dumont,I Got U (feat. Jax Jones),,
-2026-09-18,00:06,"Sub Focus, Culture Shock & Fragma",Miracle,,
-2026-09-18,00:05,Bou,Closer (feat. Slay),,
-2026-09-18,00:03,Robert Miles,Children,,
-2026-09-18,00:01,Energy 52,Café Del Mar,,
-2026-09-18,00:00,Robin S,Show Me Love,,
-2026-09-18,Live,Sam Deeley & Sensa,Take Me Away,,
-2026-09-18,16:04,Santiago Ritacco,Bounce,,
-2026-09-18,16:01,Saoirse,Boombox,,
+date,time,artist,title,genre,deezer_link,youtube_added,youtube_video_id
+2026-09-05,Live,Ruze & Ryan Nicholls,Time Again,Unknown,https://www.deezer.com/track/3603456342,pending,
+2026-09-05,12:56,All Saints,Pure Shores,Unknown,https://www.deezer.com/track/475397982,pending,
+2026-09-05,12:51,Tim Deluxe,It Just Won't Do (Dub Mix),Unknown,https://www.deezer.com/track/14748021,pending,
+2026-09-05,12:49,Space Cowboy,I Would Die 4 U,Unknown,https://www.deezer.com/track/14210221,pending,
+2026-09-05,12:45,Mr Hermano,Hypnotista (Ambient Dub),Unknown,https://www.deezer.com/track/73599144,pending,
+2026-09-05,12:31,Camisra,Let Me Show You,Unknown,https://www.deezer.com/track/3441398331,pending,
+2026-09-05,12:30,Fatboy Slim,"Right Here, Right Now",Unknown,https://www.deezer.com/track/15686769,pending,
+2026-09-05,12:30,Underworld,Born Slippy,Unknown,https://www.deezer.com/track/82265248,pending,
+2026-09-05,12:25,High Contrast,Music Is Everything,Unknown,https://www.deezer.com/track/1053472862,pending,
+2026-09-05,12:17,The Streets,Weak Become Heroes,Unknown,https://www.deezer.com/track/6112956,pending,
+2026-09-05,12:00,Moby,In This World,Unknown,https://www.deezer.com/track/1895213657,pending,
+2026-09-05,11:56,Basement Jaxx,Do Your Thing,Unknown,https://www.deezer.com/track/567656012,pending,
+2026-09-05,11:53,Layo & Bushwacka!,Love Story (Vs Finally),Unknown,https://www.deezer.com/track/940287,pending,
+2026-09-05,11:49,Paul Oakenfold,Southern Sun (DJ Tiesto Remix),Unknown,https://www.deezer.com/track/3383567841,pending,
+2026-09-05,11:46,Scissor Sisters,Comfortably Numb,Unknown,https://www.deezer.com/track/984088782,pending,
+2026-09-05,11:41,Timo Maas,To Get Down,Unknown,https://www.deezer.com/track/680610,pending,
+2026-09-05,11:38,Junior Jack,Thrill Me,Unknown,https://www.deezer.com/track/3757573,pending,
+2026-09-05,11:35,Benny Benassi,Satisfaction,Unknown,https://www.deezer.com/track/82723672,pending,
+2026-09-05,11:32,New Order,Blue Monday,Unknown,https://www.deezer.com/track/706051,pending,
+2026-09-05,11:24,Kylie Minogue,Come into My World (Fischerspooner Mix),Unknown,https://www.deezer.com/track/3164029,pending,
+2026-09-05,11:20,DB Boulevard,Point Of View,Unknown,https://www.deezer.com/track/509076672,pending,
+2026-09-05,11:12,The Chemical Brothers,Star Guitar,Unknown,https://www.deezer.com/track/3088130,pending,
+2026-09-05,11:04,David Guetta,Love Don't Let Me Go,Unknown,https://www.deezer.com/track/3544008,pending,
+2026-09-05,11:00,Shakedown,At Night,Unknown,https://www.deezer.com/track/6322621,pending,
+2026-09-05,10:55,FISHER,What A Life (feat. Florence Arman),Unknown,https://www.deezer.com/track/4060215451,pending,
+2026-09-05,10:52,Chase & Status,Gone Too Far (feat. Debbie),Unknown,https://www.deezer.com/track/4215099272,pending,
+2026-09-05,10:47,Charlotte Plank & Notion,Burberry,Unknown,https://www.deezer.com/track/4200662702,pending,
+2026-09-05,10:45,Aitch,RMB (Ring My Bell),Unknown,https://www.deezer.com/track/4020194161,pending,
+2026-09-05,10:41,Interplanetary Criminal & Silva Bumpa,Hold Da Phone,Unknown,https://www.deezer.com/track/4233537022,pending,
+2026-09-05,10:36,TSHA,Tell Me (feat. Pollena),Unknown,https://www.deezer.com/track/4174108522,pending,
+2026-09-05,10:34,D.O.D & Izzy Bizu,Careful,Unknown,https://www.deezer.com/track/4167367352,pending,
+2026-09-05,10:31,goddard. & Charlotte Haining,Stamina,Unknown,https://www.deezer.com/track/4170984332,pending,
+2026-09-05,10:27,CHRIS STASSY,Wide Awake,Unknown,https://www.deezer.com/track/3877265471,pending,
+2026-09-05,10:25,Clementine Douglas,Trust,Unknown,https://www.deezer.com/track/4175128462,pending,
+2026-09-05,10:23,Kolter,Hey Everybody,Unknown,https://www.deezer.com/track/4144811412,pending,
+2026-09-05,10:20,Prospa & Cloonee,Free Your Mind,Unknown,https://www.deezer.com/track/3892798531,pending,
+2026-09-05,10:17,Sonny Fodera & Becky Hill,Say Something,Unknown,https://www.deezer.com/track/4195609602,pending,
+2026-09-05,10:13,Wilkinson & NORTH,Balance,Unknown,https://www.deezer.com/track/3704769712,pending,
+2026-09-05,10:09,Disco Lines & Tinashe,No Broke Boys,Unknown,https://www.deezer.com/track/3410229851,pending,
+2026-09-05,10:07,Jazzy & Chris Lorenzo,Invisible,Unknown,https://www.deezer.com/track/4082082121,pending,
+2026-09-05,10:04,KETTAMA,Comes and Goes,Unknown,https://www.deezer.com/track/4003592211,pending,
+2026-09-05,10:01,Gorgon City & Jem Cooke,Oracle,Unknown,https://www.deezer.com/track/4111229781,pending,
+2026-09-05,09:57,Sweet Female Attitude,Flowers (Sunship Edit),Unknown,https://www.deezer.com/track/106807216,pending,
+2026-09-05,09:55,Floorplan,Tell You No Lie,Unknown,https://www.deezer.com/track/123008826,pending,
+2026-09-05,09:53,Franky Rizardo,Same Man,Unknown,https://www.deezer.com/track/3156027471,pending,
+2026-09-05,09:51,Oden & Fatzo,Lauren (I Can't Stay Forever),Unknown,https://www.deezer.com/track/1498985822,pending,
+2026-09-05,09:44,Gregory Porter,Liquid Spirit (Claptone Remix),Unknown,https://www.deezer.com/track/103016792,pending,
+2026-09-05,09:29,LF SYSTEM,Dancing Cliché,Unknown,https://www.deezer.com/track/1508247282,pending,
+2026-09-05,09:23,TSHA & Clementine Douglas,Dancing In The Shadows,Unknown,https://www.deezer.com/track/1854469517,pending,
+2026-09-05,09:19,Madison Avenue,Don't Call Me Baby (Motez Vicious21 Remix),Unknown,https://www.deezer.com/track/4107194741,pending,
+2026-09-05,09:15,PAWSA & Nate Dogg,Pick Up The Phone,Unknown,https://www.deezer.com/track/2825310272,pending,
+2026-09-05,09:13,Modjo,Lady (Hear Me Tonight),Unknown,https://www.deezer.com/track/70179720,pending,
+2026-09-05,09:11,Martin Garrix,Don't Look Down (feat. Usher),Unknown,https://www.deezer.com/track/96974184,pending,
+2026-09-05,09:08,Mylo,In My Arms,Unknown,https://www.deezer.com/track/1893428457,pending,
+2026-09-05,09:05,The Girl Next Door,Salsoul Nugget (If U Wanna),Unknown,https://www.deezer.com/track/1132225822,pending,
+2026-09-05,09:02,Bicep,Glue,Unknown,https://www.deezer.com/track/373789461,pending,
+2026-09-05,08:57,Icarus,King Kong,Unknown,https://www.deezer.com/track/142520351,pending,
+2026-09-05,08:51,Brookes Brothers,Good Thing,Unknown,https://www.deezer.com/track/1733734257,pending,
+2026-09-05,08:49,OFFAIAH,Trouble,Unknown,https://www.deezer.com/track/381143101,pending,
+2026-09-05,08:47,"Steve Aoki, Chris Lake & Tujamo",Boneless,Unknown,https://www.deezer.com/track/86453207,pending,
+2026-09-05,08:44,Kelly Rowland,Commander (feat. David Guetta),Unknown,https://www.deezer.com/track/2531104321,pending,
+2026-09-05,08:42,Switch Disco & Ella Henderson,REACT,Unknown,https://www.deezer.com/track/2101410027,pending,
+2026-09-05,08:38,High Contrast,Going Up,Unknown,https://www.deezer.com/track/1157015202,pending,
+2026-09-05,08:32,Julie McDermott,Don't Go (Gerd Janson Re-Work),Unknown,https://www.deezer.com/track/1505092792,pending,
+2026-09-05,08:16,Duke Dumont,Won't Look Back,Unknown,https://www.deezer.com/track/81105486,pending,
+2026-09-05,08:13,Example,Changed The Way You Kiss Me,Unknown,https://www.deezer.com/track/2744587511,pending,
+2026-09-05,08:10,Calvin Harris,I'm Not Alone,Unknown,https://www.deezer.com/track/13131862,pending,
+2026-09-05,08:01,Noizu,Summer 91 (Looking Back),Unknown,https://www.deezer.com/track/1163136562,pending,
+2026-09-05,07:58,Hannah Boleyn,Teardrop (Friction & Subsonic Remix),Unknown,https://www.deezer.com/track/3763981062,pending,
+2026-09-05,07:55,Issey Cross,Bittersweet Goodbye,Unknown,https://www.deezer.com/track/2405850825,pending,
+2026-09-05,07:52,Sub Focus & Dimension,Desire,Unknown,https://www.deezer.com/track/552381242,pending,
+2026-09-05,07:47,Nathan Dawe,We Ain't Here For Long,Unknown,https://www.deezer.com/track/2642515862,pending,
+2026-09-05,07:40,LAVINIA & Ely Oaks,Reasons,Unknown,https://www.deezer.com/track/4126729511,pending,
+2026-09-05,07:37,In Parallel,NOW IT'S GONE,Unknown,https://www.deezer.com/track/3037846761,pending,
+2026-09-05,07:32,PAWSA,TOO COOL TO BE CARELESS,Unknown,https://www.deezer.com/track/2862125622,pending,
+2026-09-05,07:30,Solardo & Eli Brown,XTC,Unknown,https://www.deezer.com/track/709596432,pending,
+2026-09-05,07:28,Basement Jaxx,Where's Your Head At,Unknown,https://www.deezer.com/track/2661882,pending,
+2026-09-05,07:25,Martin Solveig & Good Times Ahead,Intoxicated,Unknown,https://www.deezer.com/track/452697382,pending,
+2026-09-05,07:22,Disclosure,"She's Gone, Dance On",Unknown,https://www.deezer.com/track/2813082002,pending,
+2026-09-05,07:19,CID & Westend,Let Me Take You,Unknown,https://www.deezer.com/track/1724395347,pending,
+2026-09-05,07:15,Mr. Probz,Waves (Robin Schulz Remix),Unknown,https://www.deezer.com/track/1084862592,pending,
+2026-09-05,07:12,Secondcity,I Wanna Feel,Unknown,https://www.deezer.com/track/3806585392,pending,
+2026-09-05,07:05,PS1,Fake Friends (feat. Alex Hosking),Unknown,https://www.deezer.com/track/875945632,pending,
+2026-09-05,07:03,MK & Clementine Douglas,Come Find Me,Unknown,https://www.deezer.com/track/3557274261,pending,
+2026-09-05,07:00,D.O.D,So Much In Love,Unknown,https://www.deezer.com/track/2217911267,pending,
+2026-09-05,06:57,Avicii,I Could Be The One (Nicktim) (feat. Nicky Romero),Unknown,https://www.deezer.com/track/63017514,pending,
+2026-09-05,06:55,Breach,Jack,Unknown,https://www.deezer.com/track/3156211741,pending,
+2026-09-05,06:53,Lana Del Rey,Summertime Sadness (Cédric Gervais Remix),Unknown,https://www.deezer.com/track/69419038,pending,
+2026-09-05,06:47,Franky Rizardo,Shinjuku,Unknown,https://www.deezer.com/track/3864635061,pending,
+2026-09-05,06:43,Jazzy,My People,Unknown,https://www.deezer.com/track/4198648642,pending,
+2026-09-05,06:39,Kolter,Trapped,Unknown,https://www.deezer.com/track/4058063061,pending,
+2026-09-05,06:37,Blonde,All Cried Out (feat. Alex Newell),Unknown,https://www.deezer.com/track/98833972,pending,
+2026-09-05,06:34,Ellia Jaya,Super Powers,Unknown,https://www.deezer.com/track/4104892331,pending,
+2026-09-05,06:32,Borai & Denham Audio,Make Me,Unknown,https://www.deezer.com/track/2572591112,pending,
+2026-09-05,06:27,Alexis Jordan,Happiness,Unknown,https://www.deezer.com/track/3302871011,pending,
+2026-09-05,06:19,Prospa & Murda Beatz,Baby,Unknown,https://www.deezer.com/track/3984293401,pending,
+2026-09-05,05:59,Delerium,Silence (feat. Sarah McLachlan),Unknown,https://www.deezer.com/track/15525211,pending,
+2026-09-05,05:57,Barry Can't Swim,Sonder,Unknown,https://www.deezer.com/track/1703647327,pending,
+2026-09-05,05:54,Overmono,Is U,Unknown,https://www.deezer.com/track/2247350847,pending,
+2026-09-05,05:49,Josh Baker & Poppy Baskcomb,My Place,Unknown,https://www.deezer.com/track/4072834651,pending,
+2026-09-05,05:47,Fedde Le Grand,Put Your Hands Up For Detroit,Unknown,https://www.deezer.com/track/1134280742,pending,
+2026-09-05,05:41,The Chemical Brothers,Got To Keep On,Unknown,https://www.deezer.com/track/661515342,pending,
+2026-09-05,05:36,Laurence Guy,U GO,Unknown,https://www.deezer.com/track/4233339632,pending,
+2026-09-05,05:33,Sonny Fodera,My Loving (feat. Chrystal),Unknown,https://www.deezer.com/track/3977362051,pending,
+2026-09-05,05:23,Calvin Harris,I Need Your Love (feat. Ellie Goulding),Unknown,https://www.deezer.com/track/139099249,pending,
+2026-09-05,05:17,Prospa,Love Songs (feat. Kosmo Kint),Unknown,https://www.deezer.com/track/3579551341,pending,
+2026-09-05,05:15,ANOTR,Silver Lines (feat. Emily Warren),Unknown,https://www.deezer.com/track/4122018711,pending,
+2026-09-05,05:08,NOTION & X CLUB.,U KNOW,Unknown,https://www.deezer.com/track/4071216121,pending,
+2026-09-05,05:06,FISHER & Tones and I,Favour,Unknown,https://www.deezer.com/track/3906852781,pending,
+2026-09-05,04:57,Lovebirds & Stee Downes,Want You In My Soul,Unknown,https://www.deezer.com/track/12250971,pending,
+2026-09-05,04:53,Disclosure,Help Me Lose My Mind (feat. London Grammar),Unknown,https://www.deezer.com/track/2368204285,pending,
+2026-09-05,04:43,Barry Can't Swim,Dance Dance Dance!,Unknown,https://www.deezer.com/track/3953713231,pending,
+2026-09-05,04:37,Protoje,Who Knows (Shy FX remix),Unknown,https://www.deezer.com/track/3448650871,pending,
+2026-09-05,04:34,Swedish House Mafia & Lykke Li,Happiness Is So Sad,Unknown,https://www.deezer.com/track/4163913612,pending,
+2026-09-05,04:31,KETTAMA,It Gets Better (Forever Mix),Unknown,https://www.deezer.com/track/3486763691,pending,
+2026-09-05,04:17,Katy B & Jax Jones,Last Day of Summer,Unknown,https://www.deezer.com/track/4104600041,pending,
+2026-09-05,04:14,bullet tooth,A Place You Wanna Go (Good Life),Unknown,https://www.deezer.com/track/3573821951,pending,
+2026-09-05,04:08,Freeloaders,So Much Love to Give,Unknown,https://www.deezer.com/track/790261792,pending,
+2026-09-05,04:06,Ewan McVicar,Tell Me Something Good,Unknown,https://www.deezer.com/track/1501964032,pending,
+2026-09-05,04:03,Silva Bumpa,On 2nite,Unknown,https://www.deezer.com/track/4039496331,pending,
+2026-09-05,04:00,Ninetoes,Finder,Unknown,https://www.deezer.com/track/1675401917,pending,
+2026-09-05,03:49,ANOTR,Talk To You (feat. 54 Ultra),Unknown,https://www.deezer.com/track/3784724892,pending,
+2026-09-05,03:29,High Contrast,Racing Green,Unknown,https://www.deezer.com/track/3050389831,pending,
+2026-09-05,03:26,Sam Gellaitry,Assumptions,Unknown,https://www.deezer.com/track/1353013002,pending,
+2026-09-05,03:18,Tobiahs,Angel of Mine,Unknown,https://www.deezer.com/track/3178057211,pending,
+2026-09-05,03:08,Bicep,Apricots,Unknown,https://www.deezer.com/track/1080089202,pending,
+2026-09-05,03:01,Dario G,Sunchyme,Unknown,https://www.deezer.com/track/1787705237,pending,
+2026-09-05,02:55,Chase & Status,Disgruntled (feat. J Hus & IRAH),Unknown,https://www.deezer.com/track/4112647001,pending,
+2026-09-05,02:43,Tove Lo,I'm your girl right? (Fcukers Remix),Unknown,https://www.deezer.com/track/4062388841,pending,
+2026-09-05,02:40,Rossi. & bbyclose,On Your Mind,Unknown,https://www.deezer.com/track/4159458222,pending,
+2026-09-05,02:36,David Guetta,When Love Takes Over (feat. Kelly Rowland),Unknown,https://www.deezer.com/track/2531104141,pending,
+2026-09-05,02:33,Gusto,Disco's Revenge,Unknown,https://www.deezer.com/track/2641635312,pending,
+2026-09-05,02:00,Basement Jaxx,Red Alert,Unknown,https://www.deezer.com/track/1095034112,pending,
+2026-09-05,01:54,Gala,Freed From Desire,Unknown,https://www.deezer.com/track/6177415,pending,
+2026-09-05,01:43,Stardust,Music Sounds Better With You,Unknown,https://www.deezer.com/track/695110942,pending,
+2026-09-05,01:40,Franky Rizardo,Feel,Unknown,https://www.deezer.com/track/4071680031,pending,
+2026-09-05,01:34,The Prodigy,Out of Space,Unknown,https://www.deezer.com/track/128973850,pending,
+2026-09-05,01:32,Marlon Hoffstadt,Party People,Unknown,https://www.deezer.com/track/4115969521,pending,
+2026-09-05,01:27,Interplanetary Criminal & Original Koffee,Slow Burner,Unknown,https://www.deezer.com/track/3364851531,pending,
+2026-09-05,01:24,Calvin Harris,I'm Not Alone (MPH Remix),Unknown,https://www.deezer.com/track/3488265491,pending,
+2026-09-05,01:04,Sub Focus,Turn Back Time,Unknown,https://www.deezer.com/track/73236555,pending,
+2026-09-05,00:57,Raven Maize,The Real Life,Unknown,https://www.deezer.com/track/1328602682,pending,
+2026-09-05,00:52,Mat Zo & Porter Robinson,Easy,Unknown,https://www.deezer.com/track/90166383,pending,
+2026-09-05,00:46,Basement Jaxx,Jus 1 Kiss,Unknown,https://www.deezer.com/track/2661878,pending,
+2026-09-05,00:41,MK & Chrystal,Dior,Unknown,https://www.deezer.com/track/3376615581,pending,
+2026-09-05,00:35,Freemasons,Love On My Mind (feat. Amanda Wilson),Unknown,https://www.deezer.com/track/70031178,pending,
+2026-09-05,00:30,Barry Can't Swim,Return to Bhibo,Unknown,https://www.deezer.com/track/4017254841,pending,
+2026-09-05,00:27,Alexandra Stan,Mr Saxobeat,Unknown,https://www.deezer.com/track/1077700822,pending,
+2026-09-05,00:24,Crystal Waters,Gypsy Woman (La Da Dee),Unknown,https://www.deezer.com/track/1926865677,pending,
+2026-09-06,Live,KI/KI,5 Mins Of Acid,Unknown,https://www.deezer.com/track/2804710632,pending,
+2026-09-06,17:11,Marlon Hoffstadt,Its That Time,Unknown,https://www.deezer.com/track/2843812632,pending,
+2026-09-06,17:05,6 SENSE,Brighta Dayz,Unknown,https://www.deezer.com/track/2664810262,pending,
+2026-09-06,16:58,Nookie,Only You (Madcap Remix),Unknown,https://www.deezer.com/track/2507705081,pending,
+2026-09-06,16:55,Calibre,living is truth,Unknown,https://www.deezer.com/track/3729455052,pending,
+2026-09-06,16:52,Lee UHF & Noise Souls,Being & Nothingness,Unknown,https://www.deezer.com/track/3760486112,pending,
+2026-09-06,16:49,Viridity,Sweet Relief,Unknown,https://www.deezer.com/track/3864929511,pending,
+2026-09-06,16:44,Lally,Trusted You,Unknown,https://www.deezer.com/track/2298100785,pending,
+2026-09-06,16:42,Bluemode,Where You Gonna Hide,Unknown,https://www.deezer.com/track/3356821691,pending,
+2026-09-06,16:37,Carlito,Fiesta En La Playa (VIP),Unknown,https://www.deezer.com/track/3302494821,pending,
+2026-09-06,16:36,Blix & Dauntless,Cosmic,Unknown,https://www.deezer.com/track/4127490871,pending,
+2026-09-06,16:34,Ruby AT,Breeze,Unknown,https://www.deezer.com/track/4058976171,pending,
+2026-09-06,16:33,salute,Want U There (Logistics Remix),Unknown,https://www.deezer.com/track/2061435077,pending,
+2026-09-06,16:30,High Contrast & Dawn Joseph,Around Me,Unknown,https://www.deezer.com/track/4126361821,pending,
+2026-09-06,16:29,Latte,Let It Go,Unknown,https://www.deezer.com/track/2925554111,pending,
+2026-09-06,16:28,Latte,The Plan,Unknown,https://www.deezer.com/track/2343518635,pending,
+2026-09-06,16:27,John Holt,Police In Helicopter (Benny L Remix),Unknown,https://www.deezer.com/track/2270251947,pending,
+2026-09-06,16:26,Turno,High Roller,Unknown,https://www.deezer.com/track/1475967352,pending,
+2026-09-06,16:25,Cruk & Shyun,Wreckage,Unknown,https://www.deezer.com/track/2516282011,pending,
+2026-09-06,16:23,Latte,ID,Unknown,https://www.deezer.com/track/4228536002,pending,
+2026-09-06,16:20,Annix,Troubleshooter,Unknown,https://www.deezer.com/track/3611903422,pending,
+2026-09-06,16:19,Simula,Devious,Unknown,https://www.deezer.com/track/3583053331,pending,
+2026-09-06,16:18,Latte,Afraid,Unknown,https://www.deezer.com/track/1884828707,pending,
+2026-09-06,16:17,Particle,Code 3,Unknown,https://www.deezer.com/track/556823122,pending,
+2026-09-06,16:15,Levela,Exhale,Unknown,https://www.deezer.com/track/488824662,pending,
+2026-09-06,16:13,Waeys & Wingz,Yellowjacket,Unknown,https://www.deezer.com/track/4155835032,pending,
+2026-09-06,16:11,Upgrade,Revenge,Unknown,https://www.deezer.com/track/4028420431,pending,
+2026-09-06,16:10,Latte,Death Cycle,Unknown,https://www.deezer.com/track/2869351802,pending,
+2026-09-06,16:09,Molecular,My Way,Unknown,https://www.deezer.com/track/4058082861,pending,
+2026-09-06,16:03,Leaf & Hexa,5am,Unknown,https://www.deezer.com/track/3377864951,pending,
+2026-09-06,16:01,Bladerunner,Murda You,Unknown,https://www.deezer.com/track/4019748171,pending,
+2026-09-06,16:00,Bad Company UK,Planet Dust (Latte Remix),Unknown,https://www.deezer.com/track/4050117491,pending,
+2026-09-06,15:50,Crossy,How You Feel,Unknown,https://www.deezer.com/track/4221758732,pending,
+2026-09-06,15:46,Flowidus & Loboski,Lock it (Hoax Remix),Unknown,https://www.deezer.com/track/4205993372,pending,
+2026-09-06,15:36,Kings of the Rollers,Pushed,Unknown,https://www.deezer.com/track/4080495081,pending,
+2026-09-06,15:25,Dimension & Subsonic,Ghost Town,Unknown,https://www.deezer.com/track/4194439862,pending,
+2026-09-06,15:22,Koven,wHERE the rhythm goes,Unknown,https://www.deezer.com/track/4155734442,pending,
+2026-09-06,15:19,Harriet Jaxxon & Mila Falls,Motorola,Unknown,https://www.deezer.com/track/4173328512,pending,
+2026-09-06,15:09,Pirapus,ENERGY (I Feel),Unknown,https://www.deezer.com/track/3973257031,pending,
+2026-09-06,15:04,K Motionz & jazza’s dance party,Misbehave,Unknown,https://www.deezer.com/track/4153462152,pending,
+2026-09-06,15:01,High Contrast,Around Me (feat. Dawn Joseph),Unknown,https://www.deezer.com/track/4126361821,pending,
+2026-09-06,14:44,Atura,Like This,Unknown,https://www.deezer.com/track/3272068911,pending,
+2026-09-06,14:40,Dyoll & Ali S2K,Body's Movin,Unknown,https://www.deezer.com/track/3257246031,pending,
+2026-09-06,14:36,Clouds,Savage Orbit,Unknown,https://www.deezer.com/track/4172833722,pending,
+2026-09-06,14:27,KETTAMA,Samba Soccer 2001,Unknown,https://www.deezer.com/track/2230977577,pending,
+2026-09-06,14:24,Ashee,Country Classic,Unknown,https://www.deezer.com/track/3674776742,pending,
+2026-09-06,14:20,Addison Groove,Eh Wut,Unknown,https://www.deezer.com/track/2208589127,pending,
+2026-09-06,14:17,ID,ID,Unknown,https://www.deezer.com/track/4184923422,pending,
+2026-09-06,14:08,Luuk van Dijk & Kolter,Good 4 U,Unknown,https://www.deezer.com/track/2915897791,pending,
+2026-09-06,14:01,Strath,Chora,Unknown,https://www.deezer.com/track/3651417732,pending,
+2026-09-06,13:53,Tony Romera,2009,Unknown,https://www.deezer.com/track/3465609941,pending,
+2026-09-06,13:46,DJ Streaks,Slinky (Bakery Edit),Unknown,https://www.deezer.com/track/3560127881,pending,
+2026-09-06,13:42,Thrills In 41,Crooked Shapes,Unknown,https://www.deezer.com/track/2226698587,pending,
+2026-09-06,13:34,Luke Alessi,What Is Cool,Unknown,https://www.deezer.com/track/4009693081,pending,
+2026-09-06,13:25,Jordan Brando,Caramba,Unknown,https://www.deezer.com/track/3592628582,pending,
+2026-09-06,13:22,Riordan & Locky,Friction,Unknown,https://www.deezer.com/track/4229537762,pending,
+2026-09-06,13:07,Sidney Charles,Fnk Hrd,Unknown,https://www.deezer.com/track/3444033251,pending,
+2026-09-07,17:23,DvirNuns,Start Again,Unknown,https://www.deezer.com/track/4114809041,pending,
+2026-09-07,17:12,Max Styler,Close My Eyes,Unknown,https://www.deezer.com/track/4159097452,pending,
+2026-09-07,16:53,Max Styler & Greggio,Oldskool Flavor,Unknown,https://www.deezer.com/track/3997550801,pending,
+2026-09-07,16:45,Max Styler,Feel The XTC,Unknown,https://www.deezer.com/track/4159097462,pending,
+2026-09-07,16:41,Wave Wave,ID,Unknown,https://www.deezer.com/track/3890191071,pending,
+2026-09-07,16:37,Max Styler,Body Shake,Unknown,https://www.deezer.com/track/4159097422,pending,
+2026-09-07,16:29,Viot,Cardio,Unknown,https://www.deezer.com/track/4089375281,pending,
+2026-09-07,15:58,Ewan McVicar,Scottish Midgey,Unknown,https://www.deezer.com/track/4143083421,pending,
+2026-09-07,15:44,Route 94,4Get The Girl (Mellizos Remix),Unknown,https://www.deezer.com/track/4175023412,pending,
+2026-09-07,15:39,Illyus Barrientos,Be Hot,Unknown,https://www.deezer.com/track/4165854192,pending,
+2026-09-07,15:36,Fleur Shore,Vibrant,Unknown,https://www.deezer.com/track/4166673082,pending,
+2026-09-07,15:31,Salome Le Chat,Never Enough,Unknown,https://www.deezer.com/track/4138843741,pending,
+2026-09-07,15:27,Groove Armada,Superstylin' (Demi Riquisimo Remix),Unknown,https://www.deezer.com/track/4208699272,pending,
+2026-09-07,15:24,Emily Nash,Frequency,Unknown,https://www.deezer.com/track/4168501692,pending,
+2026-09-07,15:22,Alaia & Gallo,Lipstick (Tony Romera Remix),Unknown,https://www.deezer.com/track/4145555612,pending,
+2026-09-07,15:18,Capron,Rude,Unknown,https://www.deezer.com/track/4193575912,pending,
+2026-09-07,15:16,Hannah Wants & Harley Maxwell,Peace & The Passa,Unknown,https://www.deezer.com/track/4175320782,pending,
+2026-09-07,15:13,CASSIMM,That Funky Sound,Unknown,https://www.deezer.com/track/4137880791,pending,
+2026-09-07,15:09,Ronnie Spiteri,Becca's Booty,Unknown,https://www.deezer.com/track/4153590042,pending,
+2026-09-07,15:00,SOSA,Italian Job,Unknown,https://www.deezer.com/track/4139081271,pending,
+2026-09-07,14:34,Otik,Truth Hz,Unknown,https://www.deezer.com/track/4202564882,pending,
+2026-09-07,14:31,emma rose,TIKTAK,Unknown,https://www.deezer.com/track/4210092542,pending,
+2026-09-07,14:26,BUTCHIE,Icarus,Unknown,https://www.deezer.com/track/4039339021,pending,
+2026-09-07,14:22,megxie,L5D,Unknown,https://www.deezer.com/track/4248380561,pending,
+2026-09-07,14:11,Ell Murphy,love like this,Unknown,https://www.deezer.com/track/4083162861,pending,
+2026-09-07,13:49,Tom Place,Talk To Me,Unknown,https://www.deezer.com/track/4154841202,pending,
+2026-09-07,13:41,Strivz,Pan African,Unknown,https://www.deezer.com/track/3953488211,pending,
+2026-09-07,13:29,Beanie & SHOSH,Villain,Unknown,https://www.deezer.com/track/4175214122,pending,
+2026-09-07,13:10,Jamie Unknown,Roll With the Rhythm,Unknown,https://www.deezer.com/track/4199575002,pending,
+2026-09-07,13:04,DJ YUKI,The Baddest,Unknown,https://www.deezer.com/track/4139869891,pending,
+2026-09-07,12:55,Annie,Chewing Gum,Unknown,https://www.deezer.com/track/819683,pending,
+2026-09-07,12:49,Hot Chip,Over and Over,Unknown,https://www.deezer.com/track/376022571,pending,
+2026-09-07,12:45,Zongamin,Bongo Song,Unknown,https://www.deezer.com/track/616542272,pending,
+2026-09-07,12:42,WhoMadeWho,Satisfaction,Unknown,https://www.deezer.com/track/681933452,pending,
+2026-09-07,12:40,Simian Mobile Disco,The Count,Unknown,https://www.deezer.com/track/2765522,pending,
+2026-09-07,12:32,Ladytron,Sugar,Unknown,https://www.deezer.com/track/1634469742,pending,
+2026-09-07,12:30,Whitey,Y.U.H.2.B.M.2,Unknown,https://www.deezer.com/track/2736107751,pending,
+2026-09-07,12:26,Yeah Yeah Yeahs,Heads Will Roll (A-Trak Remix),Unknown,https://www.deezer.com/track/1117954742,pending,
+2026-09-07,12:19,Tiga,Pleasure From The Bass,Unknown,https://www.deezer.com/track/3844255,pending,
+2026-09-07,12:16,Santigold,Disparate Youth,Unknown,https://www.deezer.com/track/16331689,pending,
+2026-09-07,12:09,Soulwax,NY Excuse,Unknown,https://www.deezer.com/track/3965582,pending,
+2026-09-07,12:05,Elderbrook & Bob Moses,Inner Light,Unknown,https://www.deezer.com/track/1424817682,pending,
+2026-09-07,11:54,The Rapture,House Of Jealous Lovers,Unknown,https://www.deezer.com/track/2622365322,pending,
+2026-09-07,11:50,Happy Mondays,W.F.L. (Vince Clark remix),Unknown,https://www.deezer.com/track/428805712,pending,
+2026-09-07,11:44,Cornershop,Brimful of Asha (Norman Cook Remix),Unknown,https://www.deezer.com/track/15686804,pending,
+2026-09-07,11:39,Pianoman,Blurred,Unknown,https://www.deezer.com/track/2665037252,pending,
+2026-09-07,11:32,Gossip,Standing In The Way Of Control (Soulwax Nite version),Unknown,https://www.deezer.com/track/2553407,pending,
+2026-09-07,11:30,The Killers,Mr. Brightside (Jacques Lu Cont's Thin White Duke Mix),Unknown,https://www.deezer.com/track/1103289,pending,
+2026-09-07,11:23,Primal Scream,Come Together,Unknown,https://www.deezer.com/track/85527684,pending,
+2026-09-07,11:20,Happy Mondays,Step On,Unknown,https://www.deezer.com/track/428849902,pending,
+2026-09-07,11:16,New Order,Blue Monday '88,Unknown,https://www.deezer.com/track/706051,pending,
+2026-09-07,11:13,La Roux,Bulletproof,Unknown,https://www.deezer.com/track/3976602,pending,
+2026-09-07,11:07,Confidence Man,Holiday,Unknown,https://www.deezer.com/track/1902456757,pending,
+2026-09-07,11:03,Empire of the Sun,Walking On A Dream,Unknown,https://www.deezer.com/track/4286051,pending,
+2026-09-07,11:00,Justice,D.A.N.C.E.,Unknown,https://www.deezer.com/track/10284847,pending,
+2026-09-07,10:56,Shakedown,At Night (Peggy Gou Remix),Unknown,https://www.deezer.com/track/3155416861,pending,
+2026-09-07,10:54,Midland,Final Credits,Unknown,https://www.deezer.com/track/3157371391,pending,
+2026-09-07,10:51,Afro Medusa,Pasilda (Knee Deep Club Mix),Unknown,https://www.deezer.com/track/118516920,pending,
+2026-09-07,10:43,Duke Dumont,The Giver (Reprise),Unknown,https://www.deezer.com/track/1278319362,pending,
+2026-09-07,10:38,Maya Jane Coles,What They Say,Unknown,https://www.deezer.com/track/1857305967,pending,
+2026-09-07,10:30,Drake,Massive,Unknown,https://www.deezer.com/track/1794149427,pending,
+2026-09-07,10:27,Tchami,Adieu,Unknown,https://www.deezer.com/track/143261144,pending,
+2026-09-07,10:25,BURNS,Talamanca,Unknown,https://www.deezer.com/track/1394988992,pending,
+2026-09-07,10:14,Anton Powers & Redondo,Make Your Move,Unknown,https://www.deezer.com/track/616970802,pending,
+2026-09-07,10:06,Samim,Heater (Tube & Berger Remix),Unknown,https://www.deezer.com/track/3155992851,pending,
+2026-09-07,10:03,Disclosure,Bang That,Unknown,https://www.deezer.com/track/99451472,pending,
+2026-09-07,10:01,Booka Shade,In White Rooms,Unknown,https://www.deezer.com/track/3881255981,pending,
+2026-09-07,09:58,Au/Ra & CamelPhat,Panic Room,Unknown,https://www.deezer.com/track/477989942,pending,
+2026-09-07,09:55,Dom Dolla,San Frandisco,Unknown,https://www.deezer.com/track/753716852,pending,
+2026-09-07,09:51,Armand van Helden,I Want Your Soul,Unknown,https://www.deezer.com/track/14155727,pending,
+2026-09-07,09:46,Rebūke,Along Came Polly,Unknown,https://www.deezer.com/track/2201836177,pending,
+2026-09-07,09:44,Mark Ronson,Don't Leave Me Lonely (Claptone Remix),Unknown,https://www.deezer.com/track/762376372,pending,
+2026-09-07,09:39,Melé & Shovell,Pasilda,Unknown,https://www.deezer.com/track/3155889761,pending,
+2026-09-07,09:34,Majestic,Rasputin,Unknown,https://www.deezer.com/track/1242670642,pending,
+2026-09-07,09:28,Patrick Topping,Be Sharp Say Nowt,Unknown,https://www.deezer.com/track/2200543787,pending,
+2026-09-07,09:18,Green Velvet,Bigger Than Prince (Hot Since 82 Remix),Unknown,https://www.deezer.com/track/643578152,pending,
+2026-09-07,09:16,Lovestation,Teardrops,Unknown,https://www.deezer.com/track/130425886,pending,
+2026-09-07,09:12,salute,Joy,Unknown,https://www.deezer.com/track/1488572282,pending,
+2026-09-07,09:08,DJ Jean,The Launch,Unknown,https://www.deezer.com/track/1365099792,pending,
+2026-09-07,09:02,Rudimental,Feel The Love (feat. John Newman),Unknown,https://www.deezer.com/track/25746611,pending,
+2026-09-07,09:01,Avicii,Waiting For Love,Unknown,https://www.deezer.com/track/107346368,pending,
+2026-09-07,08:59,Ida Corr & Fedde Le Grand,Let Me Think About It,Unknown,https://www.deezer.com/track/67159083,pending,
+2026-09-07,08:57,Rui da Silva,Touch Me (feat. Cassandra),Unknown,https://www.deezer.com/track/11663132,pending,
+2026-09-07,08:54,Sofi Tukker & Gorgon City,House Arrest,Unknown,https://www.deezer.com/track/2947958011,pending,
+2026-09-07,08:49,Diplo,On My Mind (feat. SIDEPIECE),Unknown,https://www.deezer.com/track/3389555931,pending,
+2026-09-07,08:46,Bicep,Atlas,Unknown,https://www.deezer.com/track/904309282,pending,
+2026-09-07,08:43,Fred again.. & The Blessed Madonna,Marea (we've lost dancing),Unknown,https://www.deezer.com/track/1239694902,pending,
+2026-09-07,08:41,Sam Fender,Will We Talk? (MK Remix),Unknown,https://www.deezer.com/track/729257922,pending,
+2026-09-07,08:36,Friend Within,The Truth,Unknown,https://www.deezer.com/track/545099342,pending,
+2026-09-07,08:34,Tom Zanetti,You Want Me,Unknown,https://www.deezer.com/track/132197508,pending,
+2026-09-07,08:27,Hannah Wants & Chris Lorenzo,Rhymes,Unknown,https://www.deezer.com/track/93102382,pending,
+2026-09-07,08:24,Todd Terje,Inspector Norse,Unknown,https://www.deezer.com/track/1900010897,pending,
+2026-09-07,08:22,Eric Prydz,Liberate,Unknown,https://www.deezer.com/track/78588920,pending,
+2026-09-07,08:17,Rudimental,Not Giving In (feat. John Newman & Alex Clare),Unknown,https://www.deezer.com/track/61700649,pending,
+2026-09-07,08:12,Les Rythmes Digitales,Jacques Your Body (Make Me Sweat),Unknown,https://www.deezer.com/track/1413525692,pending,
+2026-09-07,08:08,Riton & Nightcrawlers,Friday (Dopamine Re-Edit) (feat. Mufasa & Hypeman),Unknown,https://www.deezer.com/track/1178599842,pending,
+2026-09-07,08:05,Swedish House Mafia,Save The World,Unknown,https://www.deezer.com/track/11234004,pending,
+2026-09-07,08:03,SL2,On A Ragga Tip,Unknown,https://www.deezer.com/track/950467,pending,
+2026-09-07,07:56,Ariana Grande,"Yes, and? (Jonas Blue Remix)",Unknown,https://www.deezer.com/track/2660054372,pending,
+2026-09-07,07:54,Avicii,Wake Me Up,Unknown,https://www.deezer.com/track/70266756,pending,
+2026-09-07,07:46,TS7,Moment (feat. Charlotte Plank),Unknown,https://www.deezer.com/track/3585733571,pending,
+2026-09-07,07:41,Karen Harding,Island,Unknown,https://www.deezer.com/track/4090859521,pending,
+2026-09-07,07:37,Sub Focus & bbyclose,On & On,Unknown,https://www.deezer.com/track/3266944301,pending,
+2026-09-07,07:35,Rudimental & Karen Harding,Bring Me Joy,Unknown,https://www.deezer.com/track/2834949802,pending,
+2026-09-07,07:30,Rossi. & Jazzy,High On Me,Unknown,https://www.deezer.com/track/3412534321,pending,
+2026-09-07,07:29,Teddy Swims,Lose Control (Tiësto Remix),Unknown,https://www.deezer.com/track/2710562042,pending,
+2026-09-07,07:25,Swedish House Mafia,Don't You Worry Child (feat. John Martin),Unknown,https://www.deezer.com/track/65441227,pending,
+2026-09-07,07:23,Dua Lipa,Illusion (Regard Remix),Unknown,https://www.deezer.com/track/3019680951,pending,
+2026-09-07,07:20,Nathan Dawe,21 Reasons (feat. Ella Henderson),Unknown,https://www.deezer.com/track/1702167637,pending,
+2026-09-07,07:17,Example,Kickstarts,Unknown,https://www.deezer.com/track/2815906222,pending,
+2026-09-07,07:13,Ben Hemsley & Gaskin,If Your Girl,Unknown,https://www.deezer.com/track/3579611491,pending,
+2026-09-07,07:08,The Bausa,Lose Myself,Unknown,https://www.deezer.com/track/4064513021,pending,
+2026-09-07,07:03,RAYE,WHERE IS MY HUSBAND!,Unknown,https://www.deezer.com/track/3548216281,pending,
+2026-09-07,06:58,Duck Sauce,aNYway,Unknown,https://www.deezer.com/track/3157769251,pending,
+2026-09-07,06:56,deadmau5,Ghosts 'n' Stuff (feat. Rob Swire),Unknown,https://www.deezer.com/track/3360677091,pending,
+2026-09-07,06:53,Dizzee Rascal & Armand van Helden,Bonkers,Unknown,https://www.deezer.com/track/15640851,pending,
+2026-09-07,06:44,FISHER,Rain,Unknown,https://www.deezer.com/track/3761388842,pending,
+2026-09-07,06:40,Sweet Female Attitude,Flowers,Unknown,https://www.deezer.com/track/106807216,pending,
+2026-09-07,06:38,Silva Bumpa & Kosmo Kint,Fantasy,Unknown,https://www.deezer.com/track/4198895852,pending,
+2026-09-07,06:35,The Bausa,Magnetic,Unknown,https://www.deezer.com/track/3843457421,pending,
+2026-09-07,06:32,Dennis Ferrer,Hey Hey,Unknown,https://www.deezer.com/track/2410031405,pending,
+2026-09-07,06:22,HUGEL & SOLTO,Jamaican (Bam Bam),Unknown,https://www.deezer.com/track/3889748961,pending,
+2026-09-07,06:13,Justice,We Are Your Friends,Unknown,https://www.deezer.com/track/2100102627,pending,
+2026-09-07,06:06,Silk City & Dua Lipa,Electricity,Unknown,https://www.deezer.com/track/3208899911,pending,
+2026-09-07,05:45,Swedish House Mafia,Greyhound,Unknown,https://www.deezer.com/track/61427200,pending,
+2026-09-07,05:38,Ely Oaks,Running Around,Unknown,https://www.deezer.com/track/3209698191,pending,
+2026-09-07,05:30,The Blessed Madonna,Shades Of Love (feat. The Joy),Unknown,https://www.deezer.com/track/2141587037,pending,
+2026-09-07,05:18,Studio B,I See Girls,Unknown,https://www.deezer.com/track/91151923,pending,
+2026-09-07,05:16,Skrillex & MPH,Mirage,Unknown,https://www.deezer.com/track/4206775492,pending,
+2026-09-07,05:13,Bushbaby,Pumpin Jumpin,Unknown,https://www.deezer.com/track/3465247881,pending,
+2026-09-07,04:59,David Guetta,Who's That Chick? (feat. Rihanna),Unknown,https://www.deezer.com/track/7754536,pending,
+2026-09-07,04:53,StoneBridge,Put 'Em High (feat. Therese),Unknown,https://www.deezer.com/track/69336331,pending,
+2026-09-07,04:51,Alex Gaudino & Crystal Waters,Destination Calabria,Unknown,https://www.deezer.com/track/5406699,pending,
+2026-09-07,04:43,Alan Fitzpatrick,Haven't You Heard,Unknown,https://www.deezer.com/track/867440622,pending,
+2026-09-07,04:37,Roger Sanchez,Another Chance,Unknown,https://www.deezer.com/track/2746059321,pending,
+2026-09-07,04:31,O’Flynn,Fara,Unknown,https://www.deezer.com/track/3763138782,pending,
+2026-09-07,04:09,Red Carpet,Alright,Unknown,https://www.deezer.com/track/1818062167,pending,
+2026-09-07,04:04,Carla Monroe & L4TCH,Promises,Unknown,https://www.deezer.com/track/3432241811,pending,
+2026-09-07,03:52,Avicii,Levels,Unknown,https://www.deezer.com/track/14383880,pending,
+2026-09-07,03:40,Calvin Harris,Summer,Unknown,https://www.deezer.com/track/88936747,pending,
+2026-09-07,03:30,Martin Solveig & Roy Woods,Juliet & Romeo,Unknown,https://www.deezer.com/track/822658282,pending,
+2026-09-07,03:26,Groove Armada,If Everybody Looked The Same,Unknown,https://www.deezer.com/track/72233593,pending,
+2026-09-07,03:12,Bushbaby & Danny P,Back To Funk,Unknown,https://www.deezer.com/track/4142945871,pending,
+2026-09-07,03:01,Mark Knight & Funkagenda,Man With The Red Face,Unknown,https://www.deezer.com/track/38352321,pending,
+2026-09-07,02:43,Kosheen,Hide U,Unknown,https://www.deezer.com/track/1272005622,pending,
+2026-09-07,02:31,L.P. Rhythm,Versatile,Unknown,https://www.deezer.com/track/3437335761,pending,
+2026-09-07,02:12,The Bucketheads,The Bomb! (These Sounds Fall Into My Mind),Unknown,https://www.deezer.com/track/85318128,pending,
+2026-09-07,02:00,Basement Jaxx,Bingo Bango,Unknown,https://www.deezer.com/track/1095034162,pending,
+2026-09-07,01:38,Franky Wah,Come Together,Unknown,https://www.deezer.com/track/931449182,pending,
+2026-09-07,01:33,Faithless,Insomnia,Unknown,https://www.deezer.com/track/3588857991,pending,
+2026-09-07,01:30,Paul Woolford & Amber Mark,HEAT,Unknown,https://www.deezer.com/track/1223410892,pending,
+2026-09-07,01:00,Calvin Harris,Outside (feat. Ellie Goulding),Unknown,https://www.deezer.com/track/88936743,pending,
+2026-09-07,00:55,MK,17,Unknown,https://www.deezer.com/track/393116082,pending,
+2026-09-07,00:53,Disciples,On My Mind,Unknown,https://www.deezer.com/track/1761626467,pending,
+2026-09-07,00:51,Ewan McVicar,Share The House,Unknown,https://www.deezer.com/track/3811507912,pending,
+2026-09-07,00:39,Basement Jaxx,Oh My Gosh,Unknown,https://www.deezer.com/track/567655932,pending,
+2026-09-07,00:32,Dua Lipa,Don't Start Now (Purple Disco Machine Remix),Unknown,https://www.deezer.com/track/803342822,pending,
+2026-09-07,00:24,Sub Focus & Katy B,Push The Tempo,Unknown,https://www.deezer.com/track/3050852361,pending,
+2026-09-07,00:20,Otto Knows,Million Voices,Unknown,https://www.deezer.com/track/61046485,pending,
+2026-09-07,00:14,Cam Stockman,Into My Life (feat. Joyce Sims),Unknown,https://www.deezer.com/track/3765891612,pending,
+2026-09-07,00:09,TIEKS,Sunshine (feat. Dan Harkna),Unknown,https://www.deezer.com/track/133595632,pending,
+2026-09-08,17:43,Gemma Fox,Crazy Crush (TS7 Remix),Unknown,https://www.deezer.com/track/457036332,pending,
+2026-09-08,17:27,Discotronic,Tricky Disco,Unknown,https://www.deezer.com/track/61675285,pending,
+2026-09-08,17:22,LFO,LFO Leeds (Warehouse Mix),Unknown,https://www.deezer.com/track/29368651,pending,
+2026-09-08,17:18,Moloko,The Time Is Now (Can 7 Soulfood Mix),Unknown,https://www.deezer.com/track/3802727982,pending,
+2026-09-08,17:15,Arctic Monkeys,Red Light Indicates Doors Are Secured,Unknown,https://www.deezer.com/track/4315316,pending,
+2026-09-08,17:08,The Human League,Love Action,Unknown,https://www.deezer.com/track/3090431,pending,
+2026-09-08,17:01,Heaven 17,(We Don't Need This) Fascist Groove Thang,Unknown,https://www.deezer.com/track/79333875,pending,
+2026-09-08,16:56,Big Ang,Anthem,Unknown,https://www.deezer.com/track/3623907102,pending,
+2026-09-08,16:43,Big Ang,Do It Do It,Unknown,https://www.deezer.com/track/1412741422,pending,
+2026-09-08,16:15,Forgemasters,Track With No Name,Unknown,https://www.deezer.com/track/29374871,pending,
+2026-09-08,16:12,Cabaret Voltaire,Easy Life,Unknown,https://www.deezer.com/track/393283962,pending,
+2026-09-08,16:01,Moloko,Sing It Back (Booker T Loco Mix),Unknown,https://www.deezer.com/track/3704906382,pending,
+2026-09-08,15:59,Franky Rizardo,DC Terrace,Unknown,https://www.deezer.com/track/1476046562,pending,
+2026-09-08,15:47,Tough Art,That Funk,Unknown,https://www.deezer.com/track/4004160881,pending,
+2026-09-08,15:33,Foynez,Swing The Funk,Unknown,https://www.deezer.com/track/3908113321,pending,
+2026-09-08,15:29,Ammil,Bring That Beat Back,Unknown,https://www.deezer.com/track/4219340172,pending,
+2026-09-08,15:19,Ferra Black & Chico Rose,All Night Long,Unknown,https://www.deezer.com/track/4130676611,pending,
+2026-09-08,15:07,Simon Kidzoo & Mellizos,Jammin,Unknown,https://www.deezer.com/track/4008399031,pending,
+2026-09-08,14:53,Rio Tashan,One & Only,Unknown,https://www.deezer.com/track/4137799301,pending,
+2026-09-08,14:45,James Poole & GUDFELLA,Gator Boots,Unknown,https://www.deezer.com/track/4091188101,pending,
+2026-09-08,14:42,Luke DuBose,Freak Me Baby,Unknown,https://www.deezer.com/track/4104454991,pending,
+2026-09-08,14:39,Ahmed Spins & Mike Dunn,Phunky,Unknown,https://www.deezer.com/track/4113425161,pending,
+2026-09-08,14:26,STRYV,Patigo,Unknown,https://www.deezer.com/track/4155973492,pending,
+2026-09-08,14:22,Adam Ten & Rafael,Beat Goes On,Unknown,https://www.deezer.com/track/4113760801,pending,
+2026-09-08,14:15,Melé,Soul Makossa,Unknown,https://www.deezer.com/track/4116532881,pending,
+2026-09-08,14:12,Universal Love,Ritmo Da Rua (Harry Romero Remix),Unknown,https://www.deezer.com/track/4124619991,pending,
+2026-09-08,14:01,Oden & Fatzo & Noa Milee,You Don't Want To Think About It,Unknown,https://www.deezer.com/track/4116552881,pending,
+2026-09-08,13:39,PFM,One & Only,Unknown,https://www.deezer.com/track/32603761,pending,
+2026-09-08,13:08,Carlito,Heaven,Unknown,https://www.deezer.com/track/1430452332,pending,
+2026-09-08,13:01,JMJ & Richie,Universal Horn,Unknown,https://www.deezer.com/track/2243956507,pending,
+2026-09-08,12:56,Skanna,Find Me,Unknown,https://www.deezer.com/track/32603771,pending,
+2026-09-08,12:38,Wax Doctor,Finer Things,Unknown,https://www.deezer.com/track/125066040,pending,
+2026-09-08,12:30,PFM,Mystics,Unknown,https://www.deezer.com/track/71701369,pending,
+2026-09-08,12:26,Aquasky,Images,Unknown,https://www.deezer.com/track/408161052,pending,
+2026-09-08,11:56,Pryda,Lycka,Unknown,https://www.deezer.com/track/1054170252,pending,
+2026-09-08,11:23,Safar,Choli,Unknown,https://www.deezer.com/track/4207606512,pending,
+2026-09-08,10:49,Rafael,ID - ID,Unknown,https://www.deezer.com/track/2939052441,pending,
+2026-09-08,09:57,Magnetic Man,I Need Air,Unknown,https://www.deezer.com/track/13073037,pending,
+2026-09-08,09:54,David Guetta,Love Don't Let Me Go (Walking Away),Unknown,https://www.deezer.com/track/69172980,pending,
+2026-09-08,09:51,Peggy Gou,(It Goes Like) Nanana,Unknown,https://www.deezer.com/track/2297911845,pending,
+2026-09-08,09:49,Kiesza,Hideaway,Unknown,https://www.deezer.com/track/80194320,pending,
+2026-09-08,09:43,deadmau5,Strobe,Unknown,https://www.deezer.com/track/3390634561,pending,
+2026-09-08,09:35,Shane Codd,Get Out My Head,Unknown,https://www.deezer.com/track/1083601322,pending,
+2026-09-08,09:32,Watermät,Bullit,Unknown,https://www.deezer.com/track/4183138852,pending,
+2026-09-08,09:29,Eliza Rose & Interplanetary Criminal,B.O.T.A. (Baddest Of Them All),Unknown,https://www.deezer.com/track/1862856447,pending,
+2026-09-08,09:25,Galantis,Runaway (U & I),Unknown,https://www.deezer.com/track/86453925,pending,
+2026-09-08,09:19,Martin Solveig & Dragonette,Hello,Unknown,https://www.deezer.com/track/3803035232,pending,
+2026-09-08,09:16,Armin van Buuren,This Is What It Feels Like (feat. Trevor Guthrie),Unknown,https://www.deezer.com/track/3543890861,pending,
+2026-09-08,09:13,David Guetta & Bebe Rexha,I'm Good (Blue),Unknown,https://www.deezer.com/track/2107937657,pending,
+2026-09-08,09:08,Eric Prydz,Liberate (Lane 8 Remix),Unknown,https://www.deezer.com/track/81075570,pending,
+2026-09-08,09:02,Bob Sinclar,I Feel For You,Unknown,https://www.deezer.com/track/2676359752,pending,
+2026-09-08,08:53,Pola & Bryson & Zitah,Tell You What I Did,Unknown,https://www.deezer.com/track/1797016967,pending,
+2026-09-08,08:52,Blonde,I Loved You (Hamilton Remix) (feat. Melissa Steel),Unknown,https://www.deezer.com/track/90697391,pending,
+2026-09-08,08:49,Blonde,I Loved You (feat. Melissa Steel),Unknown,https://www.deezer.com/track/90182731,pending,
+2026-09-08,08:47,Disclosure,When A Fire Starts To Burn,Unknown,https://www.deezer.com/track/75526534,pending,
+2026-09-08,08:41,Roberto Surace,Joys,Unknown,https://www.deezer.com/track/3156075801,pending,
+2026-09-08,08:39,Calvin Harris,We'll Be Coming Back (feat. Example),Unknown,https://www.deezer.com/track/61308201,pending,
+2026-09-08,08:37,piri & tommy,on & on,Unknown,https://www.deezer.com/track/1833929787,pending,
+2026-09-08,08:32,Philip George,Wish You Were Mine,Unknown,https://www.deezer.com/track/92818850,pending,
+2026-09-08,08:24,Calvin Harris,Feel So Close,Unknown,https://www.deezer.com/track/13040252,pending,
+2026-09-08,08:23,Groove Armada,Superstylin',Unknown,https://www.deezer.com/track/632366,pending,
+2026-09-08,08:20,Artful Dodger,Re-Rewind (The Crowd Say Bo Selecta) (feat. Craig David),Unknown,https://www.deezer.com/track/2787097302,pending,
+2026-09-08,08:09,Bingo Players,Cry (Just A Little),Unknown,https://www.deezer.com/track/85190408,pending,
+2026-09-08,08:03,Kid Cudi,Pursuit Of Happiness (Steve Aoki Remix),Unknown,https://www.deezer.com/track/18181530,pending,
+2026-09-08,08:01,Calvin Harris,Let's Go (feat. Ne-Yo),Unknown,https://www.deezer.com/track/17561482,pending,
+2026-09-08,07:50,Jaden Bojsen,In The Air Magenta,Unknown,https://www.deezer.com/track/3498831521,pending,
+2026-09-08,07:46,Luke Dean & Omar,Make Believe,Unknown,https://www.deezer.com/track/3476300931,pending,
+2026-09-08,07:43,The Chemical Brothers,Galvanize (Chris Lake Remix),Unknown,https://www.deezer.com/track/3520024911,pending,
+2026-09-08,07:23,Yves V,We Got That Cool (feat. Icona Pop & Afrojack),Unknown,https://www.deezer.com/track/701706242,pending,
+2026-09-08,07:17,Regard,Ride It,Unknown,https://www.deezer.com/track/708907602,pending,
+2026-09-08,07:07,Armand van Helden,I Want Your Soul (Prospa Remix),Unknown,https://www.deezer.com/track/2426503035,pending,
+2026-09-08,06:59,Martin Garrix,Animals,Unknown,https://www.deezer.com/track/2102633427,pending,
+2026-09-08,06:54,Chris Malinchak,So Good To Me,Unknown,https://www.deezer.com/track/72545727,pending,
+2026-09-08,06:19,Swedish House Mafia,Miami 2 Ibiza,Unknown,https://www.deezer.com/track/12245061,pending,
+2026-09-08,05:57,CamelPhat & Elderbrook,Cola,Unknown,https://www.deezer.com/track/3155482291,pending,
+2026-09-08,05:50,Booty Luv,Boogie 2nite,Unknown,https://www.deezer.com/track/144526480,pending,
+2026-09-08,04:59,Sunset Strippers,Falling Stars,Unknown,https://www.deezer.com/track/1728490857,pending,
+2026-09-08,03:26,Soul Central,Strings Of Life (Danny Krivit Re-Edit),Unknown,https://www.deezer.com/track/3155417691,pending,
+2026-09-08,03:23,Soulsearcher,Can't Get Enough,Unknown,https://www.deezer.com/track/3228405181,pending,
+2026-09-08,03:20,Cassius,Feeling For You,Unknown,https://www.deezer.com/track/120536274,pending,
+2026-09-08,03:17,Eric Prydz,Call On Me,Unknown,https://www.deezer.com/track/144203048,pending,
+2026-09-08,03:12,PinkPantheress,Illegal,Unknown,https://www.deezer.com/track/3344984901,pending,
+2026-09-08,03:09,Alex Culross & Ejeca,Rhythm Of The House,Unknown,https://www.deezer.com/track/4250399321,pending,
+2026-09-08,02:50,BURNS,Lies (Otto Knows Remix),Unknown,https://www.deezer.com/track/518018572,pending,
+2026-09-08,02:30,Rihanna,We Found Love (feat. Calvin Harris),Unknown,https://www.deezer.com/track/13982432,pending,
+2026-09-08,01:58,Peggy Gou,Starry Night,Unknown,https://www.deezer.com/track/2199719437,pending,
+2026-09-08,01:45,Benny Benassi & The Biz,Satisfaction,Unknown,https://www.deezer.com/track/82723672,pending,
+2026-09-08,01:32,DJ Luck & MC Neat,A Little Bit Of Luck,Unknown,https://www.deezer.com/track/432057162,pending,
+2026-09-08,01:22,Oliver Heldens & Becky Hill,Gecko (Overdrive),Unknown,https://www.deezer.com/track/78974349,pending,
+2026-09-08,01:03,Mau P,The Less I Know The Better,Unknown,https://www.deezer.com/track/3205781411,pending,
+2026-09-08,01:01,Kid Cudi,Day 'N' Nite,Unknown,https://www.deezer.com/track/7371872,pending,
+2026-09-08,00:26,Mylo,Drop The Pressure,Unknown,https://www.deezer.com/track/1895191437,pending,
+2026-09-08,00:24,Jazzy & KILIMANJARO,No Bad Vibes,Unknown,https://www.deezer.com/track/3040716421,pending,
+2026-09-09,12:40,Baby Keem,Lost Souls,Unknown,https://www.deezer.com/track/1500359812,pending,
+2026-09-09,12:28,Anz,Sweet One,Unknown,https://www.deezer.com/track/2490954011,pending,
+2026-09-09,08:27,Swedish House Mafia,It Gets Better,Unknown,https://www.deezer.com/track/1713175837,pending,
+2026-09-18,15:24,Mikey Dread,Step By Step,Unknown,https://www.deezer.com/track/2490954011,pending,
+2026-09-18,15:51,Rooléh,Legacy (Assanssan),,,pending,
+2026-09-18,15:49,Harriet Jaxxon & Pola & Bryson,This Time,,,pending,
+2026-09-18,15:45,"Elliot Schooling, Liam Palmer & Benni Ola",Doing The Most,,,pending,
+2026-09-18,15:42,SYREETA & Huxley,We Synthesize,,,pending,
+2026-09-18,15:40,Saoirse,Body Movement,,,pending,
+2026-09-18,15:34,Alex Culross,Be My Baby,,,pending,
+2026-09-18,15:29,NaJeh & Frag Maddin,MISS SIXTY,,,pending,
+2026-09-18,15:26,Prunk,The House Side,,,pending,
+2026-09-18,15:24,Desmond and Summum & Atlantic Ocean,Echoes from the 90's,,,pending,
+2026-09-18,15:22,Girls Don't Sync,Wow,,,pending,
+2026-09-18,15:19,"York, Bella Claxton & Mike Momburg",On The Beach,,,pending,
+2026-09-18,15:15,NaJeh & Ben Evers,Chica,,,pending,
+2026-09-18,15:12,Chloé Caillet & D Stone,Noise Keeper,,,pending,
+2026-09-18,15:09,Danny Snowden,Distant Star System,,,pending,
+2026-09-18,15:07,"Luke Dean, Locky & Jme","Check 1, Check 2 (Burnski Remix)",,,pending,
+2026-09-18,15:05,Folkness,Same Ones Groovin',,,pending,
+2026-09-18,15:01,L.P. Rhythm,How Ya Feelin',,,pending,
+2026-09-18,14:57,La La,Ur So Cool,,,pending,
+2026-09-18,14:54,Conducta,CASH (feat. Jordeaux),,,pending,
+2026-09-18,14:51,Aat,Ready For You,,,pending,
+2026-09-18,14:47,Ahadadream & Ance,Koi Si,,,pending,
+2026-09-18,14:44,CamelPhat,Landlords Nightmare,,,pending,
+2026-09-18,14:25,Rossi.,Misery,,,pending,
+2026-09-18,14:13,Skepta,Innocent Smile (feat. Suggs & Chase & Status),,,pending,
+2026-09-18,14:06,MK,Leaving (feat. Tristan Henry),,,pending,
+2026-09-18,14:00,ANOTR & Erik Bandt,How You Feel (feat. Leven Kali),,,pending,
+2026-09-18,13:55,Jayda G,Forever Now,,,pending,
+2026-09-18,13:52,L.P. Rhythm,How Ya Feeling,,,pending,
+2026-09-18,13:49,Y U QT,Get Me High,,,pending,
+2026-09-18,13:46,Amy Wiles,Way That You Look At Me,,,pending,
+2026-09-18,13:40,Duke Dumont,Ain't No Game,,,pending,
+2026-09-18,13:38,Cloonee,Get Up And Dance,,,pending,
+2026-09-18,13:36,Paul Woodford & Secondcity,Signs (feat. RAHH),,,pending,
+2026-09-18,13:27,Beave,1997,,,pending,
+2026-09-18,13:25,"Max Dean, Nafe Smallz & Luke Dean",Not A Problem,,,pending,
+2026-09-18,13:21,TSHA,All Night Long,,,pending,
+2026-09-18,13:12,Mau P,Just A Little Bit More,,,pending,
+2026-09-18,13:08,Chrystal,3 2 1 (feat. Rudimental),,,pending,
+2026-09-18,13:04,Chloé Caillet & Luke Alessi,The One (feat. Jocelyn Brown),,,pending,
+2026-09-18,13:01,Barry Can't Swim & Sammy Virji,I Could Be Madonna,,,pending,
+2026-09-18,12:58,Adelphi Music Factory,Memories (Burning in Time),,,pending,
+2026-09-18,12:54,Mason,Perfect (Exceeder),,,pending,
+2026-09-18,12:49,Friend Within,The Renegade,,,pending,
+2026-09-18,12:46,Calvin Harris,Flashback,,,pending,
+2026-09-18,12:44,Sub Focus & Wilkinson,Illuminate,,,pending,
+2026-09-18,12:41,Nathan Dawe,Flowers (feat. JayKae),,,pending,
+2026-09-18,12:35,Endor,Pump It Up,,,pending,
+2026-09-18,12:30,David Guetta,Stay (Don't Go Away) (feat. RAYE),,,pending,
+2026-09-18,12:27,MEDUZA,Piece of Your Heart (feat. Goodboys),,,pending,
+2026-09-18,12:24,Gotye,Somebody I Used to Know (Tiësto Remix) (feat. Kimbra),,,pending,
+2026-09-18,12:21,James Hype,Ferrari (feat. Miggy Dela Rosa),,,pending,
+2026-09-18,12:18,Armand van Helden,You Don't Know Me (feat. Duane Harden),,,pending,
+2026-09-18,12:16,Sigala,Came Here For Love (feat. Ella Eyre),,,pending,
+2026-09-18,12:13,Years & Years,Desire,,,pending,
+2026-09-18,12:10,Avicii,Seek Bromance,,,pending,
+2026-09-18,12:07,PNAU,Chameleon,,,pending,
+2026-09-18,12:04,Jayda G,Both Of Us,,,pending,
+2026-09-18,12:02,Sigala,Sweet Lovin' (feat. Bryn Christopher),,,pending,
+2026-09-18,11:58,FISHER,Losing It,,,pending,
+2026-09-18,11:55,Alesso,Heroes (We Could Be) (feat. Tove Lo),,,pending,
+2026-09-18,11:53,Tori Amos,Professional Widow (Armand Van Helden Remix),,,pending,
+2026-09-18,11:48,Duck Sauce,Smiley Face,,,pending,
+2026-09-18,11:42,The Prototypes,Reason (feat. LOWES),,,pending,
+2026-09-18,11:41,Martin Solveig,Do It Right (feat. Tkay Maidza),,,pending,
+2026-09-18,11:35,Mark Ronson,Late Night Feelings (Jax Jones Midnight Snack Remix) (feat. Lykke Li),,,pending,
+2026-09-18,11:17,Calvin Harris & Dua Lipa,One Kiss,,,pending,
+2026-09-18,11:15,MK,Chemical,,,pending,
+2026-09-18,11:10,Major Lazer,Get Free (Andy C Remix) (feat. Amber Coffman),,,pending,
+2026-09-18,11:07,Nathan Dawe & Bru-C,Oh Baby (feat. bshp & Issey Cross),,,pending,
+2026-09-18,11:01,Chase & Status,Count On Me (feat. Moko),,,pending,
+2026-09-18,10:59,Silva Bumpa,on 2nite (Dusky Remix),,,pending,
+2026-09-18,10:56,Sammy Virji,If U Need It,,,pending,
+2026-09-18,10:52,BL3SS,skinny love,,,pending,
+2026-09-18,10:42,JustHooks & Nathan Dawe,Missing U,,,pending,
+2026-09-18,10:39,Shakira & Burna Boy,Dai Dai (Clean Bandit Remix),,,pending,
+2026-09-18,10:37,KLP,Point Of View,,,pending,
+2026-09-18,10:29,"1991, Subsonic & Ian Van Dahl",Castles in the Sky,,,pending,
+2026-09-18,10:26,D.O.D,So Much In Love (Sub Focus Remix),,,pending,
+2026-09-18,10:24,Jax Jones,This Is Real (feat. Ella Henderson),,,pending,
+2026-09-18,10:21,Bruno Mars & Cardi B,Finesse (Pink Panda Remix),,,pending,
+2026-09-18,10:16,Warriner & LORYN,Let Me Forget You,,,pending,
+2026-09-18,10:14,Chloé Caillet,Training Season (Chloé Caillet Remix),,,pending,
+2026-09-18,10:12,"HUGEL, Imael Angel & Ultra Naté",Movin To The Sun (DJ S.K.T Remix),,,pending,
+2026-09-18,10:09,Sonny Fodera & MK,Asking (feat. Clementine Douglas),,,pending,
+2026-09-18,10:06,Toman,Verano En NY,,,pending,
+2026-09-18,10:04,Calvin Harris & Jazzy,Satisfy,,,pending,
+2026-09-18,10:02,Lykke Li,I Follow Rivers (The Magician Remix),,,pending,
+2026-09-18,09:58,Oliver Dollar & Jimi Jules,Pushing On,,,pending,
+2026-09-18,09:56,Michael Gray,The Weekend,,,pending,
+2026-09-18,09:54,Vic Mensa,Down On My Luck,,,pending,
+2026-09-18,09:51,Inner City,Good Life,,,pending,
+2026-09-18,09:34,Sonny Fodera,Let Me Be In Your Arms (feat. Libianca),,,pending,
+2026-09-18,09:31,"Shy FX, Vybz Kartel & Clipz",Just Love,,,pending,
+2026-09-18,09:26,Diplo & Sleepy Tom,Be Right There,,,pending,
+2026-09-18,09:22,Cloonee & Prospa,Good Girl (feat. Tristan Henry),,,pending,
+2026-09-18,09:12,Audio Bullys,Shot You Down (feat. Nancy Sinatra),,,pending,
+2026-09-18,09:01,Chrystal,The Days (NOTION Remix),,,pending,
+2026-09-18,08:59,Hi Tack,Say Say Say (Waiting 4 U),,,pending,
+2026-09-18,08:57,Seamus Haji,Last Night A DJ Saved My Life,,,pending,
+2026-09-18,08:54,Booty Luv,Shine,,,pending,
+2026-09-18,08:52,KI/KI,What's A Girl To Do In '25,,,pending,
+2026-09-18,08:47,Sidney Charles,The Fresh House Jam,,,pending,
+2026-09-18,08:40,Kelis,Acapella,,,pending,
+2026-09-18,08:37,CHRIS STASSY,U Know Me (feat. Marz Fay),,,pending,
+2026-09-18,08:31,Nia Archives,Get You Down (feat. Jorja Smith),,,pending,
+2026-09-18,08:28,The Chemical Brothers,Go (feat. Q‐Tip),,,pending,
+2026-09-18,08:25,Marshall Jefferson,Move Your Body,,,pending,
+2026-09-18,08:22,Alex Gaudino,I'm In Love (I Wanna Do It),,,pending,
+2026-09-18,08:06,"Fred again.., Sammy Virji & Reggie",Talk Of The Town,,,pending,
+2026-09-18,08:00,Bob Marley & Funkstar De Luxe,Sun Is Shining,,,pending,
+2026-09-18,07:58,DBN Gogo & Benny Benassi,Satisfaction,,,pending,
+2026-09-18,07:55,Mint Royale,Singin' In The Rain,,,pending,
+2026-09-18,07:49,Phats And Small Present Mutant Disco,Turn Around,,,pending,
+2026-09-18,07:45,"Michael Bibi, KETTAMA & Wu-Tang Clan",MYSTERY OF RAW,,,pending,
+2026-09-18,07:27,Rudimental,Waiting All Night (feat. Ella Eyre),,,pending,
+2026-09-18,07:24,"HUGEL, Imael Angel & Ultra Naté",Movin' To The Sun,,,pending,
+2026-09-18,07:21,The Supermen Lovers,Starlight (feat. Mani Hoffman),,,pending,
+2026-09-18,07:15,Tchami,Promesses (feat. Kaleem Taylor),,,pending,
+2026-09-18,07:12,PAWSA & Adventures of Stevie V,Dirty Cash (Money Talks),,,pending,
+2026-09-18,06:59,Fedde Le Grand,That Thing,,,pending,
+2026-09-18,06:53,Axwell,Nobody Else,,,pending,
+2026-09-18,06:51,Waze & Odyssey,Always,,,pending,
+2026-09-18,06:48,Azzido da Bass,Dooms Night,,,pending,
+2026-09-18,06:45,Purple Disco Machine,Body Funk,,,pending,
+2026-09-18,06:42,The Future Sound of London,Papua New Guinea,,,pending,
+2026-09-18,06:37,Fish Go Deep,The Cure & The Cause (feat. Tracey K),,,pending,
+2026-09-18,06:32,Armand van Helden & Tara McDonald,My My My (Funktuary Remix),,,pending,
+2026-09-18,06:30,Marie Davidson,Work It (Soulwax Remix),,,pending,
+2026-09-18,06:21,Max Styler,Love Forever (feat. Kuuda),,,pending,
+2026-09-18,06:10,Becky Hill,Changes,,,pending,
+2026-09-18,06:00,Nia Archives,Get Me Down (feat. Jorja Smith),,,pending,
+2026-09-18,05:37,DJ Fresh,Gold Dust (Shy FX Re-Edit) (feat. Ms. Dynamite),,,pending,
+2026-09-18,05:34,Jean Jacques Smoothie,2 People,,,pending,
+2026-09-18,05:28,Morgan Seatree & Florence the Machine,Say My Name,,,pending,
+2026-09-18,05:20,LP Giobbi & Bklava,Sinner,,,pending,
+2026-09-18,04:59,Julio Bashmore,Au Seve,,,pending,
+2026-09-18,04:48,James Hype,Waterfalls (feat. Sam Harper & Bobby Harvey),,,pending,
+2026-09-18,04:46,Delerium,Silence (John Summit Remix) (feat. Sarah McLachlan),,,pending,
+2026-09-18,04:43,A Little Sound & Kelvin 373,Same Thing,,,pending,
+2026-09-18,04:35,D. Kay & Epsilon,Barcelona (feat. Stamina MC),,,pending,
+2026-09-18,04:24,Daft Punk,Get Lucky (feat. Pharrell Williams),,,pending,
+2026-09-18,04:15,Jax Jones,You Don't Know Me (feat. RAYE),,,pending,
+2026-09-18,04:10,Paul Johnson,Get Get Down,,,pending,
+2026-09-18,04:07,Max Dean & Luke Dean,Get's Like That,,,pending,
+2026-09-18,01:59,Bob Marley,Sun Is Shining (Radio De Luxe Edit),,,pending,
+2026-09-18,00:55,Danny Tenaglia,Music Is The Answer (Dancin' & Prancin'),,,pending,
+2026-09-18,00:48,Salif Keita,Madan (Martin Solveig Exotic Disco Mix),,,pending,
+2026-09-18,00:45,Klangkarussell,Sonnentanz (Sun Don't Shine) (feat. Will Heard),,,pending,
+2026-09-18,00:42,Junior Jack,E Samba,,,pending,
+2026-09-18,00:33,Sub Focus & Dimension,Ready To Fly,,,pending,
+2026-09-18,00:32,Nia Archives,Off Wiv Ya Headz,,,pending,
+2026-09-18,00:23,Weiss,Feel My Needs,,,pending,
+2026-09-18,00:20,Calvin Harris,Acceptable In The 80s,,,pending,
+2026-09-18,00:16,Franky Wah & Gadjo,I'm Watching You (So Many Times),,,pending,
+2026-09-18,00:12,Jonas Blue & Malive,Edge of Desire,,,pending,
+2026-09-18,00:09,Duke Dumont,I Got U (feat. Jax Jones),,,pending,
+2026-09-18,00:06,"Sub Focus, Culture Shock & Fragma",Miracle,,,pending,
+2026-09-18,00:05,Bou,Closer (feat. Slay),,,pending,
+2026-09-18,00:03,Robert Miles,Children,,,pending,
+2026-09-18,00:01,Energy 52,Café Del Mar,,,pending,
+2026-09-18,00:00,Robin S,Show Me Love,,,pending,
+2026-09-18,Live,Sam Deeley & Sensa,Take Me Away,,,pending,
+2026-09-18,16:04,Santiago Ritacco,Bounce,,,pending,
+2026-09-18,16:01,Saoirse,Boombox,,,pending,
+2026-09-19,19:42,Portishead,Roads (Sultan & Tone Depth Remix / HAAi edit),,,pending,
+2026-09-19,19:35,Schiller,Ruhe (Humane Remix),,,pending,
+2026-09-19,19:31,Quell,Fayall (Right Now Mix),,,pending,
+2026-09-19,19:29,DJ Deep,Stressed,,,pending,
+2026-09-19,19:23,Placebo,Running Up That Hill (Whitesquare's Closing Down Re Edit),,,pending,
+2026-09-19,19:19,Kiara Scuro,Witching Hour,,,pending,
+2026-09-19,19:18,HAAi,ID,,,pending,
+2026-09-19,19:16,"Fred again.., Skin On Skin & BEAM",The Floor (HAAi Remix),,,pending,
+2026-09-19,19:13,HearThuG,Crash Into You,,,pending,
+2026-09-19,19:10,DJ Jackum,Prang,,,pending,
+2026-09-19,19:08,Dismantle,ID,,,pending,
+2026-09-19,19:02,Len Faki,Sexuality (my reality),,,pending,
+2026-09-19,18:59,KUSS,Back,,,pending,
+2026-09-19,18:57,Matador,Mambo,,,pending,
+2026-09-19,18:53,Kassian,Replicate,,,pending,
+2026-09-19,18:51,Pépé Bradock,Deep Burnt (Beatless Version),,,pending,
+2026-09-19,18:48,Baile Bias,Liebus,,,pending,
+2026-09-19,18:45,Cameo Blush,One Chance,,,pending,
+2026-09-19,18:41,Fold & cu.rve,Business,,,pending,
+2026-09-19,18:34,JXXXO & HERS,Trefpunt,,,pending,
+2026-09-19,18:30,Enigma Trax,ID,,,pending,
+2026-09-19,18:26,Tom VR,ID,,,pending,
+2026-09-19,18:23,DJ Jackum,ID,,,pending,
+2026-09-19,18:21,Straz,wherewilli,,,pending,
+2026-09-19,18:17,Lucky People Centre International,Dancing Apes (Alex Maya Club Edit),,,pending,
+2026-09-19,18:14,Monologue,Doiicce (A Version),,,pending,
+2026-09-19,18:12,Overmono,Daisy Chain (DJ Sprinter Remix),,,pending,
+2026-09-19,18:07,DOREY,ID,,,pending,
+2026-09-19,18:01,HAAi,HUMANiSE (feat. Kaiden Ford),,,pending,
+2026-09-19,17:57,Dusky,Next Life (feat. Rromarin),,,pending,
+2026-09-19,17:54,Dusky,Percy Veering,,,pending,
+2026-09-19,17:51,Dusky,Endless Sky,,,pending,
+2026-09-19,17:48,Dusky,Hildegard,,,pending,
+2026-09-19,17:44,Dusky,Sort It Out Sharon (feat. Wiley),,,pending,
+2026-09-19,17:40,Dusky,Ingrid Is A Hybrid,,,pending,
+2026-09-19,17:39,Dusky,Skin Deep,,,pending,
+2026-09-19,17:37,Dusky,Careless,,,pending,
+2026-09-19,17:34,Dusky,Nobody Else,,,pending,
+2026-09-19,17:31,Dusky,Stick By This,,,pending,
+2026-09-19,17:27,"Ghedi, Mura, Hiribae & Paps Okwach",Masaa,,,pending,
+2026-09-19,17:22,Bonobo,Cycles,,,pending,
+2026-09-19,17:18,Von Botch,See A Show,,,pending,
+2026-09-19,17:11,Miss Monique & Robbie Williams,Beauty In Us **EMBARGOED 18th September 2026**,,,pending,
+2026-09-19,17:07,RRETT,Joga (Bontan Edit),,,pending,
+2026-09-19,17:03,Deer Jade,Hiraita Hiraita,,,pending,
+2026-09-19,16:54,Biesmans,Disco Intel,,,pending,
+2026-09-19,16:50,FLETCH,I Need U,,,pending,
+2026-09-19,16:45,Larry Latenight,Animal Attraction,,,pending,
+2026-09-19,16:41,Prunk & Midas Field,The Getaway,,,pending,
+2026-09-19,16:32,Joseph Capriati & GENNARO,Control,,,pending,
+2026-09-19,16:28,Alex Wann,Lost Keys,,,pending,
+2026-09-19,16:22,AN21 & Jager,Step Up,,,pending,
+2026-09-19,16:14,Adaru,Like That,,,pending,
+2026-09-19,16:11,Julian Fijma,Broken Love,,,pending,
+2026-09-19,16:08,"Armin van Buuren, Pete Tong & Poppy Baskcomb",Toca's Miracle,,,pending,
+2026-09-19,16:04,"Adam Beyer, Argy & Alok",Keep Up,,,pending,
+2026-09-19,15:58,I. JORDAN,Give Me Some More,,,pending,
+2026-09-19,15:54,Matrefakt,This Time,,,pending,
+2026-09-19,15:51,Spray,It's My Life,,,pending,
+2026-09-19,15:49,Eoin DJ,We Need It,,,pending,
+2026-09-19,15:42,IDEMI,The Mob,,,pending,
+2026-09-19,15:38,Ciclo,No Ma Mood,,,pending,
+2026-09-19,15:35,Kellie Allen & Sarah Story,Running On Your Love,,,pending,
+2026-09-19,15:28,Danny Sanchez,Walk In The Light,,,pending,
+2026-09-19,15:25,Late Replies,To My Bedroom,,,pending,
+2026-09-19,15:18,Alexandria,Take You Higher,,,pending,
+2026-09-19,15:10,Seb Zito & Lucas Alexander,Let's Go Deeper,,,pending,
+2026-09-19,15:08,Bolt,Hit That,,,pending,
