@@ -68,3 +68,35 @@ YOUTUBE FAILED: CeCe Peniston - Finally
 Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=CeCe+Peniston+Finally&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
 Script finished for BBC Radio 6 - Recently Played. New songs: 231, YouTube added: 34, YouTube failures: 16, CSV failures: 0
 YouTube quota was exhausted. Remaining songs are pending for the next run.
+
+Script started for BBC Radio 6 - Recently Played
+YOUTUBE FAILED: Pink Fairies - Do It
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: MC5 - The American Ruse
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Mykki Blanco - NYC DOGS
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: The Anemic Boyfriends - Fake I.D.
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Richard Hell & Voidoids - Blank Generation
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Joni Mitchell - A Case Of You
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Shaan Bhaskar - Blue
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: deary - Alma
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Mike D - Make It Stop
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Republica - Ready To Go
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Idris Muhammad - Could Heaven Ever Be Like This
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Alewya - Cairo FM
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Sing Leaf - Forever Green
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: The Toys - A Lover's Concerto
+Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=The+Toys+A+Lover%27s+Concerto&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+Script finished for BBC Radio 6 - Recently Played. New songs: 140, YouTube added: 16, YouTube failures: 14, CSV failures: 0
+YouTube quota was exhausted. Remaining songs are pending for the next run.
