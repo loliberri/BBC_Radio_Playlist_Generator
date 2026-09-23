@@ -50,3 +50,9 @@ YOUTUBE FAILED: Johannes Brahms - Symphony No. 4
 Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Johannes+Brahms+Symphony+No.+4&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
 Script finished for BBC Radio 3 - Recently Played. New songs: 130, YouTube added: 0, YouTube failures: 1, CSV failures: 0
 YouTube quota was exhausted. Remaining songs are pending for the next run.
+
+Script started for BBC Radio 3 - Recently Played
+YOUTUBE FAILED: Johannes Brahms - Symphony No. 4
+Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Johannes+Brahms+Symphony+No.+4&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+Script finished for BBC Radio 3 - Recently Played. New songs: 127, YouTube added: 0, YouTube failures: 1, CSV failures: 0
+YouTube quota was exhausted. Remaining songs are pending for the next run.

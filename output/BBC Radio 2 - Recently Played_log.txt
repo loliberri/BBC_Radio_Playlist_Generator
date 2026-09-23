@@ -50,3 +50,9 @@ YOUTUBE FAILED: PJ Harvey - Down By The Water
 Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=PJ+Harvey+Down+By+The+Water&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
 Script finished for BBC Radio 2 - Recently Played. New songs: 151, YouTube added: 1, YouTube failures: 1, CSV failures: 0
 YouTube quota was exhausted. Remaining songs are pending for the next run.
+
+Script started for BBC Radio 2 - Recently Played
+YOUTUBE FAILED: House of Pain - Jump Around
+Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=House+of+Pain+Jump+Around&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+Script finished for BBC Radio 2 - Recently Played. New songs: 160, YouTube added: 1, YouTube failures: 1, CSV failures: 0
+YouTube quota was exhausted. Remaining songs are pending for the next run.

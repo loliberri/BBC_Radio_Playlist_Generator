@@ -124,3 +124,27 @@ YOUTUBE FAILED: Captain Beefheart & His Magic Band - My Head Is My Only House Un
 Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Captain+Beefheart+%26+His+Magic+Band+My+Head+Is+My+Only+House+Unless+It+Rains&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
 Script finished for BBC Radio 6 - Recently Played. New songs: 180, YouTube added: 18, YouTube failures: 10, CSV failures: 0
 YouTube quota was exhausted. Remaining songs are pending for the next run.
+
+Script started for BBC Radio 6 - Recently Played
+YOUTUBE FAILED: Kiosk - Dogma (DJ Subaru Remix)
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: OneDa - Bad
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Cornelius - Bad Advice
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Work Money Death - A River Becomes a Stream
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Max Pope - The Heat
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Poliça - Lay Your Cards Out
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Space Afrika - From the Heart of Knowing
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Hana Stretton - The Thrill of Loneliness
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Saul Williams - Baobab Constellation
+Reason: <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
+YOUTUBE FAILED: Go Kurosawa - Sada No Umi
+Reason: <HttpError 429 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Go+Kurosawa+Sada+No+Umi&type=video&videoCategoryId=10&maxResults=1&alt=json returned "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.". Details: "[{'message': "Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per minute' of service 'youtube.googleapis.com' for consumer 'project_number:370044147362'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+Script finished for BBC Radio 6 - Recently Played. New songs: 187, YouTube added: 33, YouTube failures: 10, CSV failures: 0
+YouTube quota was exhausted. Remaining songs are pending for the next run.
